@@ -1,5 +1,10 @@
-# tccs
-Repo TCCs
+-----
+
+<img alt="tcc" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/tcc1.png?raw=true"/>
+
+-----
+
+# Repo TCCs
 
 **Orientações e supervisões concluídas**
 
