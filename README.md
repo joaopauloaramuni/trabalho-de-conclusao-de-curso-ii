@@ -80,23 +80,23 @@
 
 **Trabalhos de conclusão de curso de graduação**
 
-1. Nobre, C. N.; Jesus, A. C. C.; ARAMUNI, J. P. C.. Participação em banca de Gabriel Alves Costa Nardy.Tecnologias Persuasivas para o Cuidado de Crianças e Adolescentes com TDAH: Engajando Pais e Filhos em um Aplicativo de Suporte e Acompanhamento. 2024. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Pontifícia Universidade Católica de Minas Gerais.
+1. NOBRE, C. N.; Jesus, A. C. C.; ARAMUNI, J. P. C.. Participação em banca de Gabriel Alves Costa Nardy.Tecnologias Persuasivas para o Cuidado de Crianças e Adolescentes com TDAH: Engajando Pais e Filhos em um Aplicativo de Suporte e Acompanhamento. 2024. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Pontifícia Universidade Católica de Minas Gerais.
 
 2. NOBRE, C. N.; Jesus, A. C. C.; ARAMUNI, J. P. C.. Participação em banca de Ludmila B. S. Nascimento.Codificação dos Atributos e sua Relação com a Interpretabilidade dos Modelos de Aprendizado de Máquina - Uma Análise em Base de Dados da Saúde Mental. 2024. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Pontifícia Universidade Católica de Minas Gerais.
 
-3. Nobre, C. N.; Jesus, A. C. C.; ARAMUNI, J. P. C.. Participação em banca de Julia Gontijo Lopes.Análise sobre a distribuição espacial dos dados para garantia de plausabilidade na geração de explicações contrafactuais em problemas de classificação. 2024. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Pontifícia Universidade Católica de Minas Gerais.
+3. NOBRE, C. N.; Jesus, A. C. C.; ARAMUNI, J. P. C.. Participação em banca de Julia Gontijo Lopes.Análise sobre a distribuição espacial dos dados para garantia de plausabilidade na geração de explicações contrafactuais em problemas de classificação. 2024. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Pontifícia Universidade Católica de Minas Gerais.
 
-4. ELIZEU, B. N. A.; PEREIRA, R. D.; TAVARES, C. S.; SEUFITELLI, D. B.; BATISTELI, J. P. O.; COSTA, M. R.; ARAMUNI, J. P. C.. Participação em banca de Belle Nerissa Aguiar Elizeu e Rafael Duarte Pereira.Smart Trainer - Sistema de gestão para Personal Trainers. 2024. Trabalho de Conclusão de Curso (Graduação em Engenharia de Software) - Pontifícia Universidade Católica de Minas Gerais.
+4. TAVARES, C. S.; SEUFITELLI, D. B.; BATISTELI, J. P. O.; COSTA, M. R.; ARAMUNI, J. P. C.. Participação em banca de Belle Nerissa Aguiar Elizeu e Rafael Duarte Pereira.Smart Trainer - Sistema de gestão para Personal Trainers. 2024. Trabalho de Conclusão de Curso (Graduação em Engenharia de Software) - Pontifícia Universidade Católica de Minas Gerais.
 
-5. MELO, D. R.; MATOS, I. P.; OLIVEIRA, J. A.; SEUFITELLI, D. B.; PADILHA, J.; TAVARES, C. S.; BRITO, A. N.; ARAMUNI, J. P. C.. Participação em banca de Daniella Rodrigues de Melo e Isabel Pinheiro Matos.TFLA Exams. 2024. Trabalho de Conclusão de Curso (Graduação em Engenharia de Software) - Pontifícia Universidade Católica de Minas Gerais.
+5. OLIVEIRA, J. A.; SEUFITELLI, D. B.; PADILHA, J.; TAVARES, C. S.; BRITO, A. N.; ARAMUNI, J. P. C.. Participação em banca de Daniella Rodrigues de Melo e Isabel Pinheiro Matos.TFLA Exams. 2024. Trabalho de Conclusão de Curso (Graduação em Engenharia de Software) - Pontifícia Universidade Católica de Minas Gerais.
 
-6. VALERIO, F. E.; MELO, T. M.; TAVARES, C. S.; SEUFITELLI, D. B.; BATISTEL, J. P. O.; COSTA, M. R.; ARAMUNI, J. P. C.. Participação em banca de Felipe Espíndola Valério e Thiago Mariano Melo.Chocolatier Management. 2024. Trabalho de Conclusão de Curso (Graduação em Engenharia de Software) - Pontifícia Universidade Católica de Minas Gerais.
+6. TAVARES, C. S.; SEUFITELLI, D. B.; BATISTEL, J. P. O.; COSTA, M. R.; ARAMUNI, J. P. C.. Participação em banca de Felipe Espíndola Valério e Thiago Mariano Melo.Chocolatier Management. 2024. Trabalho de Conclusão de Curso (Graduação em Engenharia de Software) - Pontifícia Universidade Católica de Minas Gerais.
 
-7. SILVA, J. E. O.; TAVARES, C. S.; SEUFITELLI, D. B.; BATISTELI, J. P. O.; BRITO, A. N.; ARAMUNI, J. P. C.. Participação em banca de Júlia Evelyn de Oliveira Silva.Gerência e Atividades da Mocidade Espírita Joanna de Ângelis. 2024. Trabalho de Conclusão de Curso (Graduação em Engenharia de Software) - Pontifícia Universidade Católica de Minas Gerais.
+7. TAVARES, C. S.; SEUFITELLI, D. B.; BATISTELI, J. P. O.; BRITO, A. N.; ARAMUNI, J. P. C.. Participação em banca de Júlia Evelyn de Oliveira Silva.Gerência e Atividades da Mocidade Espírita Joanna de Ângelis. 2024. Trabalho de Conclusão de Curso (Graduação em Engenharia de Software) - Pontifícia Universidade Católica de Minas Gerais.
 
-8. SILVA, L. L. E.; SEUFITELLI, D. B.; BATISTELI, J. P. O.; TAVARES, C. S.; ARAMUNI, J. P. C.. Participação em banca de Lucas Lage e Silva.TestArena. 2024. Trabalho de Conclusão de Curso (Graduação em Engenharia de Software) - Pontifícia Universidade Católica de Minas Gerais.
+8. SEUFITELLI, D. B.; BATISTELI, J. P. O.; TAVARES, C. S.; ARAMUNI, J. P. C.. Participação em banca de Lucas Lage e Silva.TestArena. 2024. Trabalho de Conclusão de Curso (Graduação em Engenharia de Software) - Pontifícia Universidade Católica de Minas Gerais.
 
-9. COSTA, M. A.; BATISTELI, J. P. O.; SEUFITELLI, D. B.; TAVARES, C. S.; ANDRADE, M. H. S.; ARAMUNI, J. P. C.. Participação em banca de Maria Aryene Costa.Explorando Técnicas de PLN para Tradução de Nheengatu: Uma Análise Comparativa. 2024. Trabalho de Conclusão de Curso (Graduação em Engenharia de Software) - Pontifícia Universidade Católica de Minas Gerais.
+9. BATISTELI, J. P. O.; SEUFITELLI, D. B.; TAVARES, C. S.; ANDRADE, M. H. S.; ARAMUNI, J. P. C.. Participação em banca de Maria Aryene Costa.Explorando Técnicas de PLN para Tradução de Nheengatu: Uma Análise Comparativa. 2024. Trabalho de Conclusão de Curso (Graduação em Engenharia de Software) - Pontifícia Universidade Católica de Minas Gerais.
 
 10. ARAMUNI, J. P. C.; VILLELA, H. F.; TAMEIRAO, A. D. L. O.. Participação em banca de Laura Andrade Brandão.Análise da Adoção do Scrum em Equipes Remotas: Impacto do Uso do Ágil em Equipes Distribuídas. 2020. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade FUMEC.
 
@@ -153,3 +153,9 @@
 36. TOLENTINO, V. C. C.; VILLELA, H. F.; ARAMUNI, J. P. C.. Participação em banca de André S. Macedo e Jardel A. L. Filho.Análise comparativa do desempenho de operações CRUD em um mesmo banco de dados: Graphql vs Rest. 2019. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade FUMEC.
 
 37. PARREIRAS, F. S.; VILLELA, H. F.; ARAMUNI, J. P. C.. Participação em banca de Túlio Starling de Miranda Baeta e Victor Caciquinho Pereira.Análise do Ciclo de DevOps com SRE. 2019. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade FUMEC.
+
+**Pré-bancas de projetos de TCC I**
+
+BRITO, A. N.; CARDOSO, L. V; TAVARES, C. S; ARAMUNI, J. P. C.. Participação em pré-banca de Bruno Gomes Ferreira e Matheus Vieira dos Santos.AZ Power App. 2024. Projeto de TCC I. Trabalho de Conclusão de Curso (Graduação em Engenharia de Software) - Pontifícia Universidade Católica de Minas Gerais.
+
+TAVARES, C. S; BRITO, A. N.; CARDOSO, L. V; ARAMUNI, J. P. C.. Participação em pré-banca de Breno Rosa Almeida e Matheus Brandão Freire.Gestão de Estoque - Distribuidora LC. 2024. Projeto de TCC I. Trabalho de Conclusão de Curso (Graduação em Engenharia de Software) - Pontifícia Universidade Católica de Minas Gerais.
