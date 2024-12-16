@@ -80,11 +80,11 @@
 
 **Trabalhos de conclusão de curso de graduação**
 
-1. NOBRE, C. N.; Jesus, A. C. C.; ARAMUNI, J. P. C.. Participação em banca de Gabriel Alves Costa Nardy.Tecnologias Persuasivas para o Cuidado de Crianças e Adolescentes com TDAH: Engajando Pais e Filhos em um Aplicativo de Suporte e Acompanhamento. 2024. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Pontifícia Universidade Católica de Minas Gerais.
+1. Nobre, C. N.; Jesus, A. C. C.; ARAMUNI, J. P. C.. Participação em banca de Gabriel Alves Costa Nardy.Tecnologias Persuasivas para o Cuidado de Crianças e Adolescentes com TDAH: Engajando Pais e Filhos em um Aplicativo de Suporte e Acompanhamento. 2024. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Pontifícia Universidade Católica de Minas Gerais.
 
 2. NOBRE, C. N.; Jesus, A. C. C.; ARAMUNI, J. P. C.. Participação em banca de Ludmila B. S. Nascimento.Codificação dos Atributos e sua Relação com a Interpretabilidade dos Modelos de Aprendizado de Máquina - Uma Análise em Base de Dados da Saúde Mental. 2024. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Pontifícia Universidade Católica de Minas Gerais.
 
-3. NOBRE, C. N.; Jesus, A. C. C.; ARAMUNI, J. P. C.. Participação em banca de Julia Gontijo Lopes.Análise sobre a distribuição espacial dos dados para garantia de plausabilidade na geração de explicações contrafactuais em problemas de classificação. 2024. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Pontifícia Universidade Católica de Minas Gerais.
+3. Nobre, C. N.; Jesus, A. C. C.; ARAMUNI, J. P. C.. Participação em banca de Julia Gontijo Lopes.Análise sobre a distribuição espacial dos dados para garantia de plausabilidade na geração de explicações contrafactuais em problemas de classificação. 2024. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Pontifícia Universidade Católica de Minas Gerais.
 
 4. TAVARES, C. S.; SEUFITELLI, D. B.; BATISTELI, J. P. O.; COSTA, M. R.; ARAMUNI, J. P. C.. Participação em banca de Belle Nerissa Aguiar Elizeu e Rafael Duarte Pereira.Smart Trainer - Sistema de gestão para Personal Trainers. 2024. Trabalho de Conclusão de Curso (Graduação em Engenharia de Software) - Pontifícia Universidade Católica de Minas Gerais.
 
