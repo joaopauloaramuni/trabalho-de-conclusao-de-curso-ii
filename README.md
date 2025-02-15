@@ -6,6 +6,20 @@
 
 # Repo TCCs
 
+**Orientações e supervisões em andamento**
+
+**Trabalho de conclusão de curso de graduação**
+
+1. Bernardo Cruz Rohlfs e Eric Guimarães Caldas Jardim. Tuscan - Compras em Eventos. Início: 2025. Trabalho de Conclusão de Curso (Graduação em Engenharia de Software) - Pontifícia Universidade Católica de Minas Gerais. (Orientador).
+
+2. Lucas Araujo Borges de Lima e Luis Gustavo Vaz. Chaveiro Mestre - Uma plataforma digital para facilitar o acesso a serviços de chaveiro em Belo Horizonte. Início: 2025. Trabalho de Conclusão de Curso (Graduação em Engenharia de Software) - Pontifícia Universidade Católica de Minas Gerais. (Orientador).
+
+3. Guilherme Roberto Ferreira Santos. Apptite - Sistema de Gestão de Atendimento de Restaurantes. Início: 2025. Trabalho de Conclusão de Curso (Graduação em Engenharia de Software) - Pontifícia Universidade Católica de Minas Gerais. (Orientador).
+
+4. Breno Rosa Almeida e Matheus Brandão Freire. Distribuidora LC - Sistema Integrado de Gestão de Estoque e Pedidos. Início: 2025. Trabalho de Conclusão de Curso (Graduação em Engenharia de Software) - Pontifícia Universidade Católica de Minas Gerais. (Orientador).
+
+5. Pedro Henrique Rodrigues. Buzzard - Plataforma Web que possibilita a criação de notificações por Email, Slack ou Microsoft Teams de mudanças em trechos de código ou arquivos de repositórios públicos ou privados do GitHub. Início: 2025. Trabalho de Conclusão de Curso (Graduação em Engenharia de Software) - Pontifícia Universidade Católica de Minas Gerais. (Orientador).
+
 **Orientações e supervisões concluídas**
 
 **Trabalho de conclusão de curso de graduação**
