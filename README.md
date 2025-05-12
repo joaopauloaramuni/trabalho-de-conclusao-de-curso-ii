@@ -1,6 +1,6 @@
 -----
 
-<img alt="tcc" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/tcc5.png?raw=true"/>
+<img alt="tcc" src="https://joaopauloaramuni.github.io/image/tcc5.png?raw=true"/>
 
 -----
 
