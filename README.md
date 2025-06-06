@@ -172,7 +172,7 @@
 
 1. TAVARES, C. S.; SEUFITELLI, D. B.; SOUZA, J. G. R.; CARDOSO, L. V.; ARAMUNI, J. P. C.. Participação em pré-banca de Igor Pinheiro dos Santos e Vinícius Gonzaga Guilherme.Sistema de Gestão da Barberia The Olive. 2025. Projeto de TCC I. Trabalho de Conclusão de Curso (Graduação em Engenharia de Software) - Pontifícia Universidade Católica de Minas Gerais.
 
-2. TAVARES, C. S.; ARAMUNI, J. P. C.. Participação em pré-banca de Carlos Roberto Alves de Almeida Júnior e Matheus Augusto Avelar de Souza.Sistema de Gestão da Clínica Genilton de Souza. 2025. Projeto de TCC I. Trabalho de Conclusão de Curso (Graduação em Engenharia de Software) - Pontifícia Universidade Católica de Minas Gerais.
+2. TAVARES, C. S.; SOUZA, J. G. R.; BATISTELI, J. P. O.; CARDOSO, L. V.; ARAMUNI, J. P. C.. Participação em pré-banca de Carlos Roberto Alves de Almeida Júnior e Matheus Augusto Avelar de Souza.Sistema de Gestão da Clínica Genilton de Souza. 2025. Projeto de TCC I. Trabalho de Conclusão de Curso (Graduação em Engenharia de Software) - Pontifícia Universidade Católica de Minas Gerais.
 
 3. TAVARES, C. S.; BATISTELI, J. P. O.; SOUZA, J. G. R.; CARDOSO, L. V.; ARAMUNI, J. P. C.. Participação em pré-banca de Tito Li An Chen.Sistema de Gestão de Parque de Máquinas da dti digital. 2025. Projeto de TCC I. Trabalho de Conclusão de Curso (Graduação em Engenharia de Software) - Pontifícia Universidade Católica de Minas Gerais.
 
