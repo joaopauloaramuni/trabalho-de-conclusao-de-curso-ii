@@ -1,4 +1,4 @@
------
+![image](https://github.com/user-attachments/assets/c0cf16e9-1ea5-4310-b033-87f8c76fa91c)-----
 
 <img alt="tcc" src="https://joaopauloaramuni.github.io/image/tcc5.png?raw=true"/>
 
@@ -170,6 +170,12 @@
 
 **Pré-bancas de projetos de TCC I**
 
-1. BRITO, A. N.; CARDOSO, L. V; TAVARES, C. S; ARAMUNI, J. P. C.. Participação em pré-banca de Bruno Gomes Ferreira e Matheus Vieira dos Santos.AZ Power App. 2024. Projeto de TCC I. Trabalho de Conclusão de Curso (Graduação em Engenharia de Software) - Pontifícia Universidade Católica de Minas Gerais.
+1. TAVARES, C. S.; SEUFITELLI, D. B.; SOUZA, J. G. R.; CARDOSO, L. V.; ARAMUNI, J. P. C.. Participação em pré-banca de Igor Pinheiro dos Santos e Vinícius Gonzaga Guilherme.Sistema de Gestão da Barberia The Olive. 2025. Projeto de TCC I. Trabalho de Conclusão de Curso (Graduação em Engenharia de Software) - Pontifícia Universidade Católica de Minas Gerais.
 
-2. TAVARES, C. S; BRITO, A. N.; CARDOSO, L. V; ARAMUNI, J. P. C.. Participação em pré-banca de Breno Rosa Almeida e Matheus Brandão Freire.Gestão de Estoque - Distribuidora LC. 2024. Projeto de TCC I. Trabalho de Conclusão de Curso (Graduação em Engenharia de Software) - Pontifícia Universidade Católica de Minas Gerais.
+2. TAVARES, C. S.; ARAMUNI, J. P. C.. Participação em pré-banca de Carlos Roberto Alves de Almeida Júnior e Matheus Augusto Avelar de Souza.Sistema de Gestão da Clínica Genilton de Souza. 2025. Projeto de TCC I. Trabalho de Conclusão de Curso (Graduação em Engenharia de Software) - Pontifícia Universidade Católica de Minas Gerais.
+
+3. TAVARES, C. S.; BATISTELI, J. P. O.; SOUZA, J. G. R.; CARDOSO, L. V.; ARAMUNI, J. P. C.. Participação em pré-banca de Tito Li An Chen.Sistema de Gestão de Parque de Máquinas da dti digital. 2025. Projeto de TCC I. Trabalho de Conclusão de Curso (Graduação em Engenharia de Software) - Pontifícia Universidade Católica de Minas Gerais.
+
+4. BRITO, A. N.; CARDOSO, L. V; TAVARES, C. S.; ARAMUNI, J. P. C.. Participação em pré-banca de Bruno Gomes Ferreira e Matheus Vieira dos Santos.AZ Power App. 2024. Projeto de TCC I. Trabalho de Conclusão de Curso (Graduação em Engenharia de Software) - Pontifícia Universidade Católica de Minas Gerais.
+
+5. TAVARES, C. S.; BRITO, A. N.; CARDOSO, L. V; ARAMUNI, J. P. C.. Participação em pré-banca de Breno Rosa Almeida e Matheus Brandão Freire.Gestão de Estoque - Distribuidora LC. 2024. Projeto de TCC I. Trabalho de Conclusão de Curso (Graduação em Engenharia de Software) - Pontifícia Universidade Católica de Minas Gerais.
