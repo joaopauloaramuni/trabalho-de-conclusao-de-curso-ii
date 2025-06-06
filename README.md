@@ -176,6 +176,6 @@
 
 3. TAVARES, C. S.; BATISTELI, J. P. O.; SOUZA, J. G. R.; CARDOSO, L. V.; ARAMUNI, J. P. C.. Participação em pré-banca de Tito Li An Chen.Sistema de Gestão de Parque de Máquinas da dti digital. 2025. Projeto de TCC I. Trabalho de Conclusão de Curso (Graduação em Engenharia de Software) - Pontifícia Universidade Católica de Minas Gerais.
 
-4. BRITO, A. N.; CARDOSO, L. V; TAVARES, C. S.; ARAMUNI, J. P. C.. Participação em pré-banca de Bruno Gomes Ferreira e Matheus Vieira dos Santos.AZ Power App. 2024. Projeto de TCC I. Trabalho de Conclusão de Curso (Graduação em Engenharia de Software) - Pontifícia Universidade Católica de Minas Gerais.
+4. TAVARES, C. S.; BRITO, A. N.; CARDOSO, L. V; ARAMUNI, J. P. C.. Participação em pré-banca de Bruno Gomes Ferreira e Matheus Vieira dos Santos.AZ Power App. 2024. Projeto de TCC I. Trabalho de Conclusão de Curso (Graduação em Engenharia de Software) - Pontifícia Universidade Católica de Minas Gerais.
 
 5. TAVARES, C. S.; BRITO, A. N.; CARDOSO, L. V; ARAMUNI, J. P. C.. Participação em pré-banca de Breno Rosa Almeida e Matheus Brandão Freire.Gestão de Estoque - Distribuidora LC. 2024. Projeto de TCC I. Trabalho de Conclusão de Curso (Graduação em Engenharia de Software) - Pontifícia Universidade Católica de Minas Gerais.
