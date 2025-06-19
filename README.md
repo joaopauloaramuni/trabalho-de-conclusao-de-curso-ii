@@ -106,7 +106,7 @@
 
 9. OLIVEIRA, J. A.; SEUFITELLI, D. B.; PADILHA, J.; TAVARES, C. S.; BRITO, A. N.; ARAMUNI, J. P. C.. Participação em banca de Daniella Rodrigues de Melo e Isabel Pinheiro Matos.TFLA Exams. 2024. Trabalho de Conclusão de Curso (Graduação em Engenharia de Software) - Pontifícia Universidade Católica de Minas Gerais.
 
-10. TAVARES, C. S.; SEUFITELLI, D. B.; BATISTEL, J. P. O.; COSTA, M. R.; ARAMUNI, J. P. C.. Participação em banca de Felipe Espíndola Valério e Thiago Mariano Melo.Chocolatier Management. 2024. Trabalho de Conclusão de Curso (Graduação em Engenharia de Software) - Pontifícia Universidade Católica de Minas Gerais.
+10. TAVARES, C. S.; SEUFITELLI, D. B.; BATISTELI, J. P. O.; COSTA, M. R.; ARAMUNI, J. P. C.. Participação em banca de Felipe Espíndola Valério e Thiago Mariano Melo.Chocolatier Management - Plataforma Web para gestão de encomendas e expansão de marca de uma doceria em Divinópolis. 2024. Trabalho de Conclusão de Curso (Graduação em Engenharia de Software) - Pontifícia Universidade Católica de Minas Gerais.
 
 11. TAVARES, C. S.; SEUFITELLI, D. B.; BATISTELI, J. P. O.; BRITO, A. N.; ARAMUNI, J. P. C.. Participação em banca de Júlia Evelyn de Oliveira Silva.Gerência e Atividades da Mocidade Espírita Joanna de Ângelis. 2024. Trabalho de Conclusão de Curso (Graduação em Engenharia de Software) - Pontifícia Universidade Católica de Minas Gerais.
 
