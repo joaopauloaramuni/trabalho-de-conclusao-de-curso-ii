@@ -110,7 +110,7 @@
 
 11. TAVARES, C. S.; SEUFITELLI, D. B.; BATISTELI, J. P. O.; BRITO, A. N.; ARAMUNI, J. P. C.. Participação em banca de Júlia Evelyn de Oliveira Silva.Gerência e Atividades da Mocidade Espírita Joanna de Ângelis. 2024. Trabalho de Conclusão de Curso (Graduação em Engenharia de Software) - Pontifícia Universidade Católica de Minas Gerais.
 
-12. SEUFITELLI, D. B.; BATISTELI, J. P. O.; TAVARES, C. S.; ARAMUNI, J. P. C.. Participação em banca de Lucas Lage e Silva.TestArena. 2024. Trabalho de Conclusão de Curso (Graduação em Engenharia de Software) - Pontifícia Universidade Católica de Minas Gerais.
+12. SEUFITELLI, D. B.; BATISTELI, J. P. O.; TAVARES, C. S.; ARAMUNI, J. P. C.. Participação em banca de Lucas Lage e Silva.TestArena - Aplicação WEB de programação competitiva para prática de TDD. 2024. Trabalho de Conclusão de Curso (Graduação em Engenharia de Software) - Pontifícia Universidade Católica de Minas Gerais.
 
 13. BATISTELI, J. P. O.; SEUFITELLI, D. B.; TAVARES, C. S.; ANDRADE, M. H. S.; ARAMUNI, J. P. C.. Participação em banca de Maria Aryene Costa.Explorando Técnicas de PLN para Tradução de Nheengatu: Uma Análise Comparativa. 2024. Trabalho de Conclusão de Curso (Graduação em Engenharia de Software) - Pontifícia Universidade Católica de Minas Gerais.
 
