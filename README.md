@@ -10,7 +10,7 @@
 
 **Trabalho de conclusão de curso de graduação**
 
-1. Bernardo Cruz Rohlfs e Eric Guimarães Caldas Jardim. Tuscan - Compras em Eventos. 2025. Trabalho de Conclusão de Curso. (Graduação em Engenharia de Software) - Pontifícia Universidade Católica de Minas Gerais. Orientador: João Paulo Carneiro Aramuni.
+1. Bernardo Cruz Rohlfs e Eric Guimarães Caldas Jardim. Tuscan - Sistema para compras em eventos. 2025. Trabalho de Conclusão de Curso. (Graduação em Engenharia de Software) - Pontifícia Universidade Católica de Minas Gerais. Orientador: João Paulo Carneiro Aramuni.
 
 2. Guilherme Roberto Ferreira Santos. Apptite - Sistema de Gestão de Atendimento de Restaurantes. 2025. Trabalho de Conclusão de Curso. (Graduação em Engenharia de Software) - Pontifícia Universidade Católica de Minas Gerais. Orientador: João Paulo Carneiro Aramuni.
 
