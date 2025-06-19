@@ -10,13 +10,13 @@
 
 **Trabalho de conclusão de curso de graduação**
 
-1. Bernardo Cruz Rohlfs e Eric Guimarães Caldas Jardim. Tuscan - Compras em Eventos. Início: 2025. Trabalho de Conclusão de Curso (Graduação em Engenharia de Software) - Pontifícia Universidade Católica de Minas Gerais. (Orientador).
+1. Bernardo Cruz Rohlfs e Eric Guimarães Caldas Jardim. Tuscan - Compras em Eventos. 2025. Trabalho de Conclusão de Curso. (Graduação em Engenharia de Software) - Pontifícia Universidade Católica de Minas Gerais. Orientador: João Paulo Carneiro Aramuni.
 
-2. Guilherme Roberto Ferreira Santos. Apptite - Sistema de Gestão de Atendimento de Restaurantes. Início: 2025. Trabalho de Conclusão de Curso (Graduação em Engenharia de Software) - Pontifícia Universidade Católica de Minas Gerais. (Orientador).
+2. Guilherme Roberto Ferreira Santos. Apptite - Sistema de Gestão de Atendimento de Restaurantes. 2025. Trabalho de Conclusão de Curso. (Graduação em Engenharia de Software) - Pontifícia Universidade Católica de Minas Gerais. Orientador: João Paulo Carneiro Aramuni.
 
-3. Breno Rosa Almeida e Matheus Brandão Freire. Distribuidora LC - Sistema Integrado de Gestão de Estoque e Pedidos. Início: 2025. Trabalho de Conclusão de Curso (Graduação em Engenharia de Software) - Pontifícia Universidade Católica de Minas Gerais. (Orientador).
+3. Breno Rosa Almeida e Matheus Brandão Freire. Distribuidora LC - Sistema Integrado de Gestão de Estoque e Pedidos. 2025. Trabalho de Conclusão de Curso. (Graduação em Engenharia de Software) - Pontifícia Universidade Católica de Minas Gerais. Orientador: João Paulo Carneiro Aramuni.
 
-4. Pedro Henrique Rodrigues. Buzzard - Plataforma Web que possibilita a criação de notificações por Email, Slack ou Microsoft Teams de mudanças em trechos de código ou arquivos de repositórios públicos ou privados do GitHub. Início: 2025. Trabalho de Conclusão de Curso (Graduação em Engenharia de Software) - Pontifícia Universidade Católica de Minas Gerais. (Orientador).
+4. Pedro Henrique Rodrigues. Buzzard - Plataforma Web que possibilita a criação de notificações por Email, Slack ou Microsoft Teams de mudanças em trechos de código ou arquivos de repositórios públicos ou privados do GitHub. 2025. Trabalho de Conclusão de Curso. (Graduação em Engenharia de Software) - Pontifícia Universidade Católica de Minas Gerais. Orientador: João Paulo Carneiro Aramuni.
 
 5. Paulo Henrique Ribeiro Alves. Aplicação de Técnicas da Visão Computacional para Análise de Imagens em Jogos de Futebol: Prototipação de Algoritmo com Aprendizagem de Máquina através da Biblioteca TensorFlow. 2020. Trabalho de Conclusão de Curso. (Graduação em Ciência da Computação) - Universidade FUMEC. Orientador: João Paulo Carneiro Aramuni.
 
