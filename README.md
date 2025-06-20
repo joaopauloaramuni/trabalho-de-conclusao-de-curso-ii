@@ -6,7 +6,7 @@
 
 # Repo TCCs
 
-<p align="center"><img width="350px" alt="tcc" src="https://joaopauloaramuni.github.io/image/tcc6.png?raw=true"/></p>
+<p align="center"><img alt="tcc" src="https://joaopauloaramuni.github.io/image/tcc6.png?raw=true"/></p>
 
 -----
 
