@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/c0cf16e9-1ea5-4310-b033-87f8c76fa91c)-----
+-----
 
 <img alt="tcc" src="https://joaopauloaramuni.github.io/image/tcc5.png?raw=true"/>
 
