@@ -202,12 +202,12 @@
 
 -----
 
-<img alt="tcc" src="https://joaopauloaramuni.github.io/image/tcc6.png?raw=true"/>
-
------
-
 <div align="center">
   <img width="70%" alt="pucminas" src="https://joaopauloaramuni.github.io/image/engsoft2.svg?raw=true"/>
 </div>
+
+-----
+
+<img alt="tcc" src="https://joaopauloaramuni.github.io/image/tcc6.png?raw=true"/>
 
 -----
