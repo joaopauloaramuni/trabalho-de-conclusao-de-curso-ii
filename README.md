@@ -4,11 +4,9 @@
 
 -----
 
-<img width="350px" alt="tcc" src="https://joaopauloaramuni.github.io/image/tcc5.png?raw=true"/>
-
------
-
 # Repo TCCs
+
+<p align="center"><img width="350px" alt="tcc" src="https://joaopauloaramuni.github.io/image/tcc5.png?raw=true"/></p>
 
 **Orientações e supervisões concluídas**
 
