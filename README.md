@@ -4,11 +4,11 @@
 
 -----
 
-# Repo TCCs
-
 <p align="center"><img alt="tcc" src="https://joaopauloaramuni.github.io/image/tcc6.png?raw=true"/></p>
 
 -----
+
+# Repo TCCs
 
 **Orientações e supervisões concluídas**
 
