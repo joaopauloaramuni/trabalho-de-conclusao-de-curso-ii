@@ -2,7 +2,9 @@
 
 <img alt="pucminas" src="https://joaopauloaramuni.github.io/image/FUNDOCOREUCAPA2.svg?raw=true"/>
 
-<p align="center"><img alt="tcc" src="https://joaopauloaramuni.github.io/image/tcc6.png?raw=true"/></p>
+-----
+
+<img alt="tcc" src="https://joaopauloaramuni.github.io/image/tcc6.png?raw=true"/>
 
 -----
 
