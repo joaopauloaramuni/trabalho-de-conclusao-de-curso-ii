@@ -205,3 +205,9 @@
 5. TAVARES, C. S.; BRITO, A. N.; CARDOSO, L. V; ARAMUNI, J. P. C.. Participação em pré-banca de Breno Rosa Almeida e Matheus Brandão Freire.Gestão de Estoque - Distribuidora LC. 2024. Projeto de TCC I. Trabalho de Conclusão de Curso (Graduação em Engenharia de Software) - Pontifícia Universidade Católica de Minas Gerais.
 
 -----
+
+<div align="center">
+  <img width="70%" alt="pucminas" src="https://joaopauloaramuni.github.io/image/engsoft2.svg?raw=true"/>
+</div>
+
+-----
