@@ -80,6 +80,8 @@
 
 35. Gabriel Barbosa Rocha e Matheus Velloso Oliveira Sá. Proposta de Modelo de Gamificação para Coleta de Garrafas PET e Latas de Alumínio em Redes de Supermercado de Belo Horizonte. 2017. Trabalho de Conclusão de Curso. (Graduação em Ciência da Computação) - Universidade FUMEC. Orientador: João Paulo Carneiro Aramuni.
 
+-----
+
 **Participação em bancas de trabalhos de conclusão**
 
 **Mestrado**
@@ -184,6 +186,8 @@
 
 48. PARREIRAS, F. S.; VILLELA, H. F.; ARAMUNI, J. P. C.. Participação em banca de Túlio Starling de Miranda Baeta e Victor Caciquinho Pereira.Análise do Ciclo de DevOps com SRE. 2019. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade FUMEC.
 
+-----
+
 **Pré-bancas de projetos de TCC I**
 
 1. TAVARES, C. S.; SEUFITELLI, D. B.; SOUZA, J. G. R.; CARDOSO, L. V.; ARAMUNI, J. P. C.. Participação em pré-banca de Igor Pinheiro dos Santos e Vinícius Gonzaga Guilherme.Sistema de Gestão da Barberia The Olive. 2025. Projeto de TCC I. Trabalho de Conclusão de Curso (Graduação em Engenharia de Software) - Pontifícia Universidade Católica de Minas Gerais.
@@ -195,3 +199,5 @@
 4. TAVARES, C. S.; BRITO, A. N.; CARDOSO, L. V; ARAMUNI, J. P. C.. Participação em pré-banca de Bruno Gomes Ferreira e Matheus Vieira dos Santos.AZ Power App. 2024. Projeto de TCC I. Trabalho de Conclusão de Curso (Graduação em Engenharia de Software) - Pontifícia Universidade Católica de Minas Gerais.
 
 5. TAVARES, C. S.; BRITO, A. N.; CARDOSO, L. V; ARAMUNI, J. P. C.. Participação em pré-banca de Breno Rosa Almeida e Matheus Brandão Freire.Gestão de Estoque - Distribuidora LC. 2024. Projeto de TCC I. Trabalho de Conclusão de Curso (Graduação em Engenharia de Software) - Pontifícia Universidade Católica de Minas Gerais.
+
+-----
