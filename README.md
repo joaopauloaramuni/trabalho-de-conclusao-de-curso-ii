@@ -208,6 +208,6 @@
 
 -----
 
-<img alt="tcc" src="https://joaopauloaramuni.github.io/image/tcc6.png?raw=true"/>
+<img alt="tcc" src="https://joaopauloaramuni.github.io/image/tcc5.png?raw=true"/>
 
 -----
