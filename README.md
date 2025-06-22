@@ -6,6 +6,33 @@
 
 # Repo TCCs
 
+Disciplina do curso de Engenharia de Software da PUC Minas
+
+- 1°Sem 2025
+- 2°Sem 2025
+
+-----
+
+### Sumário:
+- [Templates](https://github.com/joaopauloaramuni/trabalho-de-conclusao-de-curso-ii/tree/main/TEMPLATES)
+
+#### Links úteis:
+- [Repositório GitHub - ICEI PUC Minas PMGES TI](https://github.com/ICEI-PUC-Minas-PMGES-TI)
+- [Repositório GitHub - ICEI PUC Minas PPLES TI](https://github.com/ICEI-PUC-Minas-PPLES-TI)
+
+##### Revista SPRINTI do curso de Engenharia de Software da PUC Minas:
+
+- https://sprinti.pucminas.br/
+
+##### Trabalhos orientados - 1°Sem 2025:
+
+- [PMG ES 2025-1 TCCII - Guilherme Santos](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2024-2-tcci-0393100-dev-guilherme-santos)
+- [PMG ES 2025-1 TCCII - Bernardo Rohlfs e Eric Jardim](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2024-2-tcci-0393100-dev-bernardo-rohlfs-e-eric-jardim)
+- [PMG ES 2025-1 TCCII - Breno Rosa e Matheus Brandão](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2024-2-tcci-0393100-dev-breno-rosa-e-matheus-brandao)
+- [PMG ES 2025-1 TCCII - Pedro Rodrigues](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2024-1-tcci-0393100-dev-pedro-rodrigues)
+
+##### Histórico de orientações e participações em bancas examinadoras:
+
 **Orientações e supervisões concluídas**
 
 **Trabalho de conclusão de curso de graduação**
