@@ -43,7 +43,7 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 - TCCII - Tuscan - [Bernardo Rohlfs](https://github.com/Berohlfs) :octocat: e [Eric Jardim](https://github.com/ericgcjardim) :octocat:
   - 🌐 [Tuscan - Home](https://plf-es-2024-2-tcci-0393100-dev-bernardo-rohlfs-e-eric-jardim.vercel.app/)
 
-- TCCII - Distribuidora LC - [Breno Rosa](https://github.com/Breno1210) :octocat: e [Matheus Brandão](https://github.com/) :octocat:
+- TCCII - Distribuidora LC - [Breno Rosa](https://github.com/Breno1210) :octocat: e [Matheus Brandão](https://github.com/Matheusbfreire) :octocat:
   - 🌐 [Distribuidora LC - Home](https://)
 
 - TCCII - Buzzard - [Pedro Rodrigues](https://github.com/PeterCcT) :octocat:
