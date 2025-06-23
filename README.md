@@ -137,7 +137,7 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 
 **Trabalhos de conclusão de curso de graduação**
 
-1. ARAMUNI, J. P. C.; TAVARES, C. S.. Participação em banca de Guilherme Roberto Ferreira Santos.Apptite - Sistema de Gestão de Atendimento de Restaurantes. 2025. Trabalho de Conclusão de Curso (Graduação em Engenharia de Software) - Pontifícia Universidade Católica de Minas Gerais.
+1. ARAMUNI, J. P. C.; TAVARES, C. S.; RIVERO, I. A. S.. Participação em banca de Guilherme Roberto Ferreira Santos.Apptite - Sistema de Gestão de Atendimento de Restaurantes. 2025. Trabalho de Conclusão de Curso (Graduação em Engenharia de Software) - Pontifícia Universidade Católica de Minas Gerais.
 
 2. ARAMUNI, J. P. C.; TAVARES, C. S.. Participação em banca de Pedro Henrique Rodrigues.Buzzard - Plataforma Web que possibilita a criação de notificações por Email, Slack ou Microsoft Teams de mudanças em trechos de código ou arquivos de repositórios públicos ou privados do GitHub. 2025. Trabalho de Conclusão de Curso (Graduação em Engenharia de Software) - Pontifícia Universidade Católica de Minas Gerais.
 
