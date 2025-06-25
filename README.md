@@ -147,7 +147,7 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 
 5. ANDRADE, M. H. S.; CARDOSO, L. V.; TAVARES, C. S.; ARAMUNI, J. P. C.. Participação em banca de Geovane de Freitas Q. Morcatti e Marcos Henrique D. Barbosa.Aplicação de Deep Learning na Identificação e Revisão de Erros em High-Performance Computing: Uma Abordagem Comparativa. 2025. Trabalho de Conclusão de Curso (Graduação em Engenharia de Software) - Pontifícia Universidade Católica de Minas Gerais.
 
-6. ANDRADE, M. H. S.; TAVARES, C. S.; ARAMUNI, J. P. C.. Participação em banca de Sara Lourenço Iglesias.Práticas de Engenharia de Software em Ambientes Informais: Um Estudo Sobre o Modding na Sustentação de Jogos. 2025. Trabalho de Conclusão de Curso (Graduação em Engenharia de Software) - Pontifícia Universidade Católica de Minas Gerais.
+6. ANDRADE, M. H. S.; TAVARES, C. S.; ISHITANI, L.; ARAMUNI, J. P. C.. Participação em banca de Sara Lourenço Iglesias.Práticas de Engenharia de Software em Ambientes Informais: Um Estudo Sobre o Modding na Sustentação de Jogos. 2025. Trabalho de Conclusão de Curso (Graduação em Engenharia de Software) - Pontifícia Universidade Católica de Minas Gerais.
 
 7. ANDRADE, M. H. S.; TAVARES, C. S.; ARAMUNI, J. P. C.. Participação em banca de Rafaella Cristina de Sousa Sacramento.Schola AI - Plataforma educacional com machine learning para educação básica. 2025. Trabalho de Conclusão de Curso (Graduação em Engenharia de Software) - Pontifícia Universidade Católica de Minas Gerais.
 
