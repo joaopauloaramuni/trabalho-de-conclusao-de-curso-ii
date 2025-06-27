@@ -155,7 +155,7 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 
 9. BATISTELI, J. P. O.; TAVARES, C. S.; ARAMUNI, J. P. C.. Participação em banca de Lucas Santos Rosa e Matheus Fontes Almeida Moreira Silva.RCM Armações - Sistema para uma empresa de armações de óculos. 2025. Trabalho de Conclusão de Curso (Graduação em Engenharia de Software) - Pontifícia Universidade Católica de Minas Gerais.
 
-10. PAULA, H. B.; TAVARES, C. S.; ARAMUNI, J. P. C.. Participação em banca de Nikolas Augusto Vieira Louret.Análise de Vulnerabilidades no Runtime Bun: Um Estudo Comparativo com Node.js. 2025. Trabalho de Conclusão de Curso (Graduação em Engenharia de Software) - Pontifícia Universidade Católica de Minas Gerais.
+10. PAULA, H. B.; ARAMUNI, J. P. C.; FONSECA, G. B.. Participação em banca de Nikolas Augusto Vieira Louret.Análise de Vulnerabilidades no Runtime Bun: Um Estudo Comparativo com Node.js. 2025. Trabalho de Conclusão de Curso (Graduação em Engenharia de Software) - Pontifícia Universidade Católica de Minas Gerais.
 
 11. ANDRADE, M. H. S.; TAVARES, C. S.; ARAMUNI, J. P. C.. Participação em banca de Marco Tullio Oliviera e Pedro Márcio Oliveira Silveira.Análise do Impacto dos Large Language Models na Qualidade de Código Java. 2025. Trabalho de Conclusão de Curso (Graduação em Engenharia de Software) - Pontifícia Universidade Católica de Minas Gerais.
 
