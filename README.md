@@ -141,7 +141,7 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 
 2. ARAMUNI, J. P. C.; TAVARES, C. S.; MARQUES, R. L.. Participação em banca de Pedro Henrique Rodrigues.Buzzard - Plataforma Web que possibilita a criação de notificações por Email, Slack ou Microsoft Teams de mudanças em trechos de código ou arquivos de repositórios públicos ou privados do GitHub. 2025. Trabalho de Conclusão de Curso (Graduação em Engenharia de Software) - Pontifícia Universidade Católica de Minas Gerais.
 
-3. ARAMUNI, J. P. C.; TAVARES, C. S.. Participação em banca de Breno Rosa Almeida e Matheus Brandão Freire.Distribuidora LC - Sistema Integrado de Gestão de Estoque e Pedidos. 2025. Trabalho de Conclusão de Curso (Graduação em Engenharia de Software) - Pontifícia Universidade Católica de Minas Gerais.
+3. ARAMUNI, J. P. C.; XAVIER JUNIOR, J. L. P.; PAULA, H. B.. Participação em banca de Breno Rosa Almeida e Matheus Brandão Freire.Distribuidora LC - Sistema Integrado de Gestão de Estoque e Pedidos. 2025. Trabalho de Conclusão de Curso (Graduação em Engenharia de Software) - Pontifícia Universidade Católica de Minas Gerais.
 
 4. ARAMUNI, J. P. C.; TAVARES, C. S.; BARROS, D. A. F.. Participação em banca de Bernardo Cruz Rohlfs e Eric Guimarães Caldas Jardim.Tuscan - Sistema para compras em eventos. 2025. Trabalho de Conclusão de Curso (Graduação em Engenharia de Software) - Pontifícia Universidade Católica de Minas Gerais.
 
