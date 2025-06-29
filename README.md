@@ -54,22 +54,22 @@ Disciplina do curso de Engenharia de Software da PUC Minas
   - 🌐 [Apptite - Home - Acesso Admin e Garçom](https://apptite-front-c86d00a35e08.herokuapp.com/login)
   - 🌐 [Apptite - Home - Acesso Cliente](https://apptite-front-c86d00a35e08.herokuapp.com/cadastro-cliente/1)
   - 🗣️ [Apptite - Apresentação](https://github.com/user-attachments/files/20968216/Apptite.pdf) (Slides utilizados na defesa para a banca examinadora)
-  - 📄 [Apptite - Documentação de projeto](**Link em breve**) (Publicado no Repositório de Produção Acadêmica da PUC Minas)
+  - 📄 [Apptite - Documentação de projeto]() (Publicado no Repositório de Produção Acadêmica da PUC Minas - Acervo da Biblioteca)
 
 - TCCII - Tuscan - [Bernardo Rohlfs](https://github.com/Berohlfs) :octocat: e [Eric Jardim](https://github.com/ericgcjardim) :octocat:
   - 🌐 [Tuscan - Home](https://plf-es-2024-2-tcci-0393100-dev-bernardo-rohlfs-e-eric-jardim.vercel.app/)
   - 🗣️ [Tuscan - Apresentação](https://github.com/user-attachments/files/20968980/Tuscan.pdf) (Slides utilizados na defesa para a banca examinadora)
-  - 📄 [Tuscan - Documentação de projeto](**Link em breve**) (Publicado no Repositório de Produção Acadêmica da PUC Minas)
+  - 📄 [Tuscan - Documentação de projeto]() (Publicado no Repositório de Produção Acadêmica da PUC Minas - Acervo da Biblioteca)
 
 - TCCII - Distribuidora LC - [Breno Rosa](https://github.com/Breno1210) :octocat: e [Matheus Brandão](https://github.com/Matheusbfreire) :octocat:
   - 🌐 [Distribuidora LC - Home](https://plf-es-2024-2-tcci-0393100-dev-bren.vercel.app/)
   - 🗣️ [Distribuidora LC - Apresentação](https://github.com/user-attachments/files/20968982/DistribuidoraLC.pdf) (Slides utilizados na defesa para a banca examinadora)
-  - 📄 [Distribuidora LC - Documentação de projeto](**Link em breve**) (Publicado no Repositório de Produção Acadêmica da PUC Minas)
+  - 📄 [Distribuidora LC - Documentação de projeto]() (Publicado no Repositório de Produção Acadêmica da PUC Minas - Acervo da Biblioteca)
 
 - TCCII - Buzzard - [Pedro Rodrigues](https://github.com/PeterCcT) :octocat:
   - 🌐 [Buzzard - Home](https://buzzard-frontend.vercel.app/)
   - 🗣️ [Buzzard - Apresentação](https://github.com/user-attachments/files/20968219/Buzzard.pdf) (Slides utilizados na defesa para a banca examinadora)
-  - 📄 [Buzzard - Documentação de projeto](**Link em breve**) (Publicado no Repositório de Produção Acadêmica da PUC Minas)
+  - 📄 [Buzzard - Documentação de projeto]() (Publicado no Repositório de Produção Acadêmica da PUC Minas - Acervo da Biblioteca)
 
 -----
 
