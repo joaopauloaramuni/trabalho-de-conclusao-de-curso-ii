@@ -40,9 +40,9 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 
 -----
 
-### Trabalhos orientados:
+### 🧑‍🏫 Trabalhos orientados:
 
-#### 1°Sem 2025:
+#### 📅 1°Sem 2025:
 
 - [PMG ES 2025-1 TCCII - Guilherme Santos](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2024-2-tcci-0393100-dev-guilherme-santos)
 - [PMG ES 2025-1 TCCII - Bernardo Rohlfs e Eric Jardim](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2024-2-tcci-0393100-dev-bernardo-rohlfs-e-eric-jardim)
