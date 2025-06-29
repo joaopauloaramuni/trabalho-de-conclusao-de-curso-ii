@@ -27,7 +27,22 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 
 - https://sprinti.pucminas.br/
 
-##### Trabalhos orientados - 1°Sem 2025:
+<table>
+<tr>
+   <td align="center">Revista SprinTi - PUC Minas:</td>
+</tr>
+<tr>
+   <td align="center">
+      <a href="https://sprinti.pucminas.br/" target="_blank"><img width="210" height="200" src="https://joaopauloaramuni.github.io/image/sprinti.jpeg?raw=true"/></a>
+   </td>
+</tr>
+</table>
+
+-----
+
+### Trabalhos
+
+#### Trabalhos orientados - 1°Sem 2025:
 
 - [PMG ES 2025-1 TCCII - Guilherme Santos](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2024-2-tcci-0393100-dev-guilherme-santos)
 - [PMG ES 2025-1 TCCII - Bernardo Rohlfs e Eric Jardim](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2024-2-tcci-0393100-dev-bernardo-rohlfs-e-eric-jardim)
@@ -35,7 +50,7 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 - [PMG ES 2025-1 TCCII - Pedro Rodrigues](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2024-1-tcci-0393100-dev-pedro-rodrigues)
 - [PMG ES 2025-1 TCCII - Lucas Lima e Luis Gustavo Vaz](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2024-1-tcci-0393100-dev-lucas-lima-e-luis-gustavo)
 
-###### ☁️ Hospedagens na nuvem e apresentações - 1°Sem 2025:
+##### ☁️ Hospedagens na nuvem e apresentações - 1°Sem 2025:
 
 - TCCII - Apptite - [Guilherme Santos](https://github.com/guilhermerfs00) :octocat:
   - 🌐 [Apptite - Acesso Admin e Garçom](https://apptite-front-c86d00a35e08.herokuapp.com/login)
