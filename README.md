@@ -40,15 +40,19 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 - TCCII - Apptite - [Guilherme Santos](https://github.com/guilhermerfs00) :octocat:
   - 🌐 [Apptite - Acesso Admin e Garçom](https://apptite-front-c86d00a35e08.herokuapp.com/login)
   - 🌐 [Apptite - Acesso Cliente](https://apptite-front-c86d00a35e08.herokuapp.com/cadastro-cliente/1)
+  - Apresentação (Slides utilizados na defesa para a banca examinadora)
 
 - TCCII - Tuscan - [Bernardo Rohlfs](https://github.com/Berohlfs) :octocat: e [Eric Jardim](https://github.com/ericgcjardim) :octocat:
   - 🌐 [Tuscan - Home](https://plf-es-2024-2-tcci-0393100-dev-bernardo-rohlfs-e-eric-jardim.vercel.app/)
+  - Apresentação (Slides utilizados na defesa para a banca examinadora)
 
 - TCCII - Distribuidora LC - [Breno Rosa](https://github.com/Breno1210) :octocat: e [Matheus Brandão](https://github.com/Matheusbfreire) :octocat:
   - 🌐 [Distribuidora LC - Home](https://plf-es-2024-2-tcci-0393100-dev-bren.vercel.app/)
+  - Apresentação (Slides utilizados na defesa para a banca examinadora)
 
 - TCCII - Buzzard - [Pedro Rodrigues](https://github.com/PeterCcT) :octocat:
   - 🌐 [Buzzard - Home](https://buzzard-frontend.vercel.app/)
+  - Apresentação (Slides utilizados na defesa para a banca examinadora)
 
 -----
 
