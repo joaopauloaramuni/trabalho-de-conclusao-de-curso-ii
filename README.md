@@ -59,11 +59,11 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 
 - TCCII - Tuscan - [Bernardo Rohlfs](https://github.com/Berohlfs) :octocat: e [Eric Jardim](https://github.com/ericgcjardim) :octocat:
   - 🌐 [Tuscan - Home](https://plf-es-2024-2-tcci-0393100-dev-bernardo-rohlfs-e-eric-jardim.vercel.app/)
-  - 🗣️ Apresentação (Slides utilizados na defesa para a banca examinadora)
+  - 🗣️ [Apresentação](https://github.com/user-attachments/files/20968980/Tuscan.pdf) (Slides utilizados na defesa para a banca examinadora)
 
 - TCCII - Distribuidora LC - [Breno Rosa](https://github.com/Breno1210) :octocat: e [Matheus Brandão](https://github.com/Matheusbfreire) :octocat:
   - 🌐 [Distribuidora LC - Home](https://plf-es-2024-2-tcci-0393100-dev-bren.vercel.app/)
-  - 🗣️ Apresentação (Slides utilizados na defesa para a banca examinadora)
+  - 🗣️ [Apresentação](https://github.com/user-attachments/files/20968982/DistribuidoraLC.pdf) (Slides utilizados na defesa para a banca examinadora)
 
 - TCCII - Buzzard - [Pedro Rodrigues](https://github.com/PeterCcT) :octocat:
   - 🌐 [Buzzard - Home](https://buzzard-frontend.vercel.app/)
