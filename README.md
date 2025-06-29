@@ -168,7 +168,7 @@ date-released: 2025-06-19
 
 -----
 
-#### Histórico de orientações e participações em bancas examinadoras:
+### 🎓 Histórico de orientações e participações em bancas examinadoras:
 
 **Orientações e supervisões concluídas**
 
