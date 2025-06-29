@@ -60,7 +60,7 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 
 #### 📚 Acervo da Biblioteca:
 
-- 🌐 Site da biblioteca: [https://www.pucminas.br/biblioteca/Paginas/default.aspx](https://www.pucminas.br/biblioteca/Paginas/default.aspx)
+- 🌐 Site da biblioteca: [https://www.pucminas.br/biblioteca](https://www.pucminas.br/biblioteca/Paginas/default.aspx)
 - 📘 [PDF](https://github.com/joaopauloaramuni/trabalho-de-conclusao-de-curso-ii/blob/main/TUTORIAIS/Tutorial%20de%20Postagem%20TCC%20(formatado).pdf) - Orientações para postagem e aprovação de Trabalhos de Conclusão de Curso.
 
 -----
