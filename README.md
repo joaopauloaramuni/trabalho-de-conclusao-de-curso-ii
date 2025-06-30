@@ -69,7 +69,7 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 - TCCII - Buzzard - [Pedro Rodrigues](https://github.com/PeterCcT) :octocat:
   - 🌐 [Buzzard - Home](https://buzzard-frontend.vercel.app/)
   - 🗣️ [Buzzard - Apresentação](https://github.com/user-attachments/files/20968219/Buzzard.pdf) (Slides utilizados na defesa para a banca examinadora)
-  - 📄 [Buzzard - Documentação de projeto]() (Publicado no Repositório de Produção Acadêmica da PUC Minas - Acervo da Biblioteca)
+  - 📄 [Buzzard - Documentação de projeto](https://bib.pucminas.br/pergamumweb/downloadArquivo?vinculo=MjgxMTQxZVkyOWtSVzF3Y21WellUMHlOU1poWTJWeWRtODlOVFk0TnpVNUpuTmxjVkJoY21GbmNtRm1iejB4T0NaelpYRlRaV05oYnowM0ptdGhjbVJsZUQxT0pteHZZMkZzUVhKeGRXbDJiejFEVDAxUVFWSlVTVXhJUVUxRlRsUlBKbTV2YldWRFlXMXBibWh2UFRBd01EQmtaaTh3TURBd1pHWTJPUzV3WkdZPTM3ZGJmZDU=&nomeExtensao=.pdf) (Publicado no Repositório de Produção Acadêmica da PUC Minas - Acervo da Biblioteca)
 
 -----
 
