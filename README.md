@@ -49,26 +49,30 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 - [PMG ES 2025-1 TCCII - Pedro Rodrigues](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2024-1-tcci-0393100-dev-pedro-rodrigues)
 - [PMG ES 2025-1 TCCII - Lucas Lima e Luis Gustavo Vaz](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2024-1-tcci-0393100-dev-lucas-lima-e-luis-gustavo)
 
-##### ☁️ Hospedagens na nuvem, apresentações e documentações de projeto:
+##### ☁️ Hospedagens na nuvem, apresentações e documentos:
 - TCCII - Apptite - [Guilherme Santos](https://github.com/guilhermerfs00) :octocat:
   - 🌐 [Apptite - Home - Acesso Admin e Garçom](https://apptite-front-c86d00a35e08.herokuapp.com/login)
   - 🌐 [Apptite - Home - Acesso Cliente](https://apptite-front-c86d00a35e08.herokuapp.com/cadastro-cliente/1)
   - 🗣️ [Apptite - Apresentação](https://github.com/user-attachments/files/20968216/Apptite.pdf) (Slides utilizados na defesa para a banca examinadora)
+  - 📄 [Apptite - Documento de visão](https://github.com/user-attachments/files/20987229/Apptite.pdf)
   - 📄 [Apptite - Documentação de projeto](https://bib.pucminas.br/pergamumweb/downloadArquivo?vinculo=YWYxODk5MlkyOWtSVzF3Y21WellUMHlOU1poWTJWeWRtODlOVFk0TmpnekpuTmxjVkJoY21GbmNtRm1iejB4T0NaelpYRlRaV05oYnowM0ptdGhjbVJsZUQxT0pteHZZMkZzUVhKeGRXbDJiejFEVDAxUVFWSlVTVXhJUVUxRlRsUlBKbTV2YldWRFlXMXBibWh2UFRBd01EQmtaUzh3TURBd1pHVmlNQzV3WkdZPTJlNmIzNmU=&nomeExtensao=.pdf) (Publicado no Repositório de Produção Acadêmica da PUC Minas - Acervo da Biblioteca)
 
 - TCCII - Tuscan - [Bernardo Rohlfs](https://github.com/Berohlfs) :octocat: e [Eric Jardim](https://github.com/ericgcjardim) :octocat:
   - 🌐 [Tuscan - Home](https://plf-es-2024-2-tcci-0393100-dev-bernardo-rohlfs-e-eric-jardim.vercel.app/)
   - 🗣️ [Tuscan - Apresentação](https://github.com/user-attachments/files/20968980/Tuscan.pdf) (Slides utilizados na defesa para a banca examinadora)
+  - 📄 [Tuscan - Documento de visão](https://github.com/user-attachments/files/20987233/Tuscan.pdf)
   - 📄 [Tuscan - Documentação de projeto](https://bib.pucminas.br/pergamumweb/downloadArquivo?vinculo=NTE4OTRlY1kyOWtSVzF3Y21WellUMHlOU1poWTJWeWRtODlOVFk0T0RFd0puTmxjVkJoY21GbmNtRm1iejB4Sm5ObGNWTmxZMkZ2UFRjbWEyRnlaR1Y0UFU0bWJHOWpZV3hCY25GMWFYWnZQVU5QVFZCQlVsUkpURWhCVFVWT1ZFOG1ibTl0WlVOaGJXbHVhRzg5TURBd01HUm1MekF3TURCa1ptUTRMbkJrWmc9PWY3MzQxZGM=&nomeExtensao=.pdf) (Publicado no Repositório de Produção Acadêmica da PUC Minas - Acervo da Biblioteca)
 
 - TCCII - Distribuidora LC - [Breno Rosa](https://github.com/Breno1210) :octocat: e [Matheus Brandão](https://github.com/Matheusbfreire) :octocat:
   - 🌐 [Distribuidora LC - Home](https://plf-es-2024-2-tcci-0393100-dev-bren.vercel.app/)
   - 🗣️ [Distribuidora LC - Apresentação](https://github.com/user-attachments/files/20968982/DistribuidoraLC.pdf) (Slides utilizados na defesa para a banca examinadora)
+  - 📄 [Distribuidora LC - Documento de visão](https://github.com/user-attachments/files/20987236/DistribuidoraLC.pdf)
   - 📄 [Distribuidora LC - Documentação de projeto](https://bib.pucminas.br/pergamumweb/downloadArquivo?vinculo=ZGVmNGQ5ZVkyOWtSVzF3Y21WellUMHlOU1poWTJWeWRtODlOVFk0TnpReUpuTmxjVkJoY21GbmNtRm1iejB4Sm5ObGNWTmxZMkZ2UFRjbWEyRnlaR1Y0UFU0bWJHOWpZV3hCY25GMWFYWnZQVU5QVFZCQlVsUkpURWhCVFVWT1ZFOG1ibTl0WlVOaGJXbHVhRzg5TURBd01HUm1MekF3TURCa1pqSmlMbkJrWmc9PTgzOTRkZDA=&nomeExtensao=.pdf) (Publicado no Repositório de Produção Acadêmica da PUC Minas - Acervo da Biblioteca)
 
 - TCCII - Buzzard - [Pedro Rodrigues](https://github.com/PeterCcT) :octocat:
   - 🌐 [Buzzard - Home](https://buzzard-frontend.vercel.app/)
   - 🗣️ [Buzzard - Apresentação](https://github.com/user-attachments/files/20968219/Buzzard.pdf) (Slides utilizados na defesa para a banca examinadora)
+  - 📄 [Buzzard - Documento de visão](https://github.com/user-attachments/files/20987242/Buzzard.pdf)
   - 📄 [Buzzard - Documentação de projeto](https://bib.pucminas.br/pergamumweb/downloadArquivo?vinculo=MjgxMTQxZVkyOWtSVzF3Y21WellUMHlOU1poWTJWeWRtODlOVFk0TnpVNUpuTmxjVkJoY21GbmNtRm1iejB4T0NaelpYRlRaV05oYnowM0ptdGhjbVJsZUQxT0pteHZZMkZzUVhKeGRXbDJiejFEVDAxUVFWSlVTVXhJUVUxRlRsUlBKbTV2YldWRFlXMXBibWh2UFRBd01EQmtaaTh3TURBd1pHWTJPUzV3WkdZPTM3ZGJmZDU=&nomeExtensao=.pdf) (Publicado no Repositório de Produção Acadêmica da PUC Minas - Acervo da Biblioteca)
 
 -----
