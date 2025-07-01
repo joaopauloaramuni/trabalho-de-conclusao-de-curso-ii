@@ -54,7 +54,7 @@ Disciplina do curso de Engenharia de Software da PUC Minas
   - 🌐 [Apptite - Home - Acesso Admin e Garçom](https://apptite-front-c86d00a35e08.herokuapp.com/login)
   - 🌐 [Apptite - Home - Acesso Cliente](https://apptite-front-c86d00a35e08.herokuapp.com/cadastro-cliente/1)
   - 🗣️ [Apptite - Apresentação](https://github.com/user-attachments/files/20968216/Apptite.pdf) (Slides utilizados na defesa para a banca examinadora)
-  - 🎥 [Apptite - Vídeo]()
+  - 🎥 [Apptite - Vídeo](https://github.com/user-attachments/assets/d442f043-ce35-4fdf-be72-23047610fa42)
   - 👁️ [Apptite - Documento de visão](https://github.com/user-attachments/files/20987229/Apptite.pdf)
   - 📄 [Apptite - Documentação de projeto](https://bib.pucminas.br/pergamumweb/downloadArquivo?vinculo=YWYxODk5MlkyOWtSVzF3Y21WellUMHlOU1poWTJWeWRtODlOVFk0TmpnekpuTmxjVkJoY21GbmNtRm1iejB4T0NaelpYRlRaV05oYnowM0ptdGhjbVJsZUQxT0pteHZZMkZzUVhKeGRXbDJiejFEVDAxUVFWSlVTVXhJUVUxRlRsUlBKbTV2YldWRFlXMXBibWh2UFRBd01EQmtaUzh3TURBd1pHVmlNQzV3WkdZPTJlNmIzNmU=&nomeExtensao=.pdf) (Publicado no Repositório de Produção Acadêmica da PUC Minas - Acervo da Biblioteca)
 
