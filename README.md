@@ -49,7 +49,7 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 - [PMG ES 2025-1 TCCII - Pedro Rodrigues](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2024-1-tcci-0393100-dev-pedro-rodrigues)
 - [PMG ES 2025-1 TCCII - Lucas Lima e Luis Gustavo Vaz](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2024-1-tcci-0393100-dev-lucas-lima-e-luis-gustavo)
 
-##### ☁️ Hospedagens na nuvem, apresentações e documentos:
+##### ☁️ Hospedagens na nuvem, apresentações, vídeos e documentos:
 - TCCII - Apptite - [Guilherme Santos](https://github.com/guilhermerfs00) :octocat:
   - 🌐 [Apptite - Home - Acesso Admin e Garçom](https://apptite-front-c86d00a35e08.herokuapp.com/login)
   - 🌐 [Apptite - Home - Acesso Cliente](https://apptite-front-c86d00a35e08.herokuapp.com/cadastro-cliente/1)
@@ -60,6 +60,7 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 - TCCII - Tuscan - [Bernardo Rohlfs](https://github.com/Berohlfs) :octocat: e [Eric Jardim](https://github.com/ericgcjardim) :octocat:
   - 🌐 [Tuscan - Home](https://plf-es-2024-2-tcci-0393100-dev-bernardo-rohlfs-e-eric-jardim.vercel.app/)
   - 🗣️ [Tuscan - Apresentação](https://github.com/user-attachments/files/20968980/Tuscan.pdf) (Slides utilizados na defesa para a banca examinadora)
+  - 🎥 [Tuscan - Vídeo](https://github.com/user-attachments/assets/c3446ae2-b4a6-4328-a798-61761b85d7e7)
   - 👁️ [Tuscan - Documento de visão](https://github.com/user-attachments/files/20987233/Tuscan.pdf)
   - 📄 [Tuscan - Documentação de projeto](https://bib.pucminas.br/pergamumweb/downloadArquivo?vinculo=NTE4OTRlY1kyOWtSVzF3Y21WellUMHlOU1poWTJWeWRtODlOVFk0T0RFd0puTmxjVkJoY21GbmNtRm1iejB4Sm5ObGNWTmxZMkZ2UFRjbWEyRnlaR1Y0UFU0bWJHOWpZV3hCY25GMWFYWnZQVU5QVFZCQlVsUkpURWhCVFVWT1ZFOG1ibTl0WlVOaGJXbHVhRzg5TURBd01HUm1MekF3TURCa1ptUTRMbkJrWmc9PWY3MzQxZGM=&nomeExtensao=.pdf) (Publicado no Repositório de Produção Acadêmica da PUC Minas - Acervo da Biblioteca)
 
