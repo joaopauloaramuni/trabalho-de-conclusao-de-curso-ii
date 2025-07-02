@@ -68,7 +68,7 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 - TCCII - Distribuidora LC - [Breno Rosa](https://github.com/Breno1210) :octocat: e [Matheus Brandão](https://github.com/Matheusbfreire) :octocat:
   - 🌐 [Distribuidora LC - Home](https://plf-es-2024-2-tcci-0393100-dev-bren.vercel.app/)
   - 🗣️ [Distribuidora LC - Apresentação](https://github.com/user-attachments/files/20968982/DistribuidoraLC.pdf) (Slides utilizados na defesa para a banca examinadora)
-  - ▶️ [Distribuidora LC - Vídeo completo no YouTube](https://www.youtube.com/watch?v=OinvQRJinIc)
+  - 📺 [Distribuidora LC - Vídeo completo no YouTube](https://www.youtube.com/watch?v=OinvQRJinIc)
   - 🎥 [Distribuidora LC - Vídeo]()
   - 👁️ [Distribuidora LC - Documento de visão](https://github.com/user-attachments/files/20987236/DistribuidoraLC.pdf)
   - 📄 [Distribuidora LC - Documentação de projeto](https://bib.pucminas.br/pergamumweb/downloadArquivo?vinculo=ZGVmNGQ5ZVkyOWtSVzF3Y21WellUMHlOU1poWTJWeWRtODlOVFk0TnpReUpuTmxjVkJoY21GbmNtRm1iejB4Sm5ObGNWTmxZMkZ2UFRjbWEyRnlaR1Y0UFU0bWJHOWpZV3hCY25GMWFYWnZQVU5QVFZCQlVsUkpURWhCVFVWT1ZFOG1ibTl0WlVOaGJXbHVhRzg5TURBd01HUm1MekF3TURCa1pqSmlMbkJrWmc9PTgzOTRkZDA=&nomeExtensao=.pdf) (Publicado no Repositório de Produção Acadêmica da PUC Minas - Acervo da Biblioteca)
