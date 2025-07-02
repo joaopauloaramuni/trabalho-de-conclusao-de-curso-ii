@@ -262,7 +262,7 @@ date-released: 2025-06-19
 
 1. MAIA, L. C. G.; PARREIRAS, F. S.; ARAMUNI, J. P. C.; BRANDAO, W. C.. Participação em banca de Lucas Romualdo Fernandes de Sá. Mineração de Emoções em Textos: Um Estudo Aplicado Sobre as Interações de Programadores em Comunidade On-line de Perguntas e Respostas. 2018.
 
-**Trabalhos de conclusão de curso de graduação**
+Trabalhos de conclusão de curso de graduação
 
 1. ARAMUNI, J. P. C.; TAVARES, C. S.; RIVERO, I. A. S.. Participação em banca de Guilherme Roberto Ferreira Santos.Apptite - Sistema de Gestão de Atendimento de Restaurantes. 2025. Trabalho de Conclusão de Curso (Graduação em Engenharia de Software) - Pontifícia Universidade Católica de Minas Gerais.
 
