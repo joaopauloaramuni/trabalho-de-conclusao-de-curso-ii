@@ -170,7 +170,7 @@ keywords:
   - PHP
   - loja virtual
   - integração com WhatsApp
-repository-code: https://github.com/RafaelaRibe1ro/quelcaramel
+repository-code: https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2025-1-ti3-9577100-quel-caramel
 license: CC-BY-4.0
 version: 1.0.0
 date-released: 2025-06-19
