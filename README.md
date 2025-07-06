@@ -28,6 +28,12 @@ Os melhores TIs encontram-se publicamente disponíveis na [Revista SPRINTI](http
 - [Organização no GitHub - ICEI PUC Minas PMGES TI - Campus Coração Eucarístico](https://github.com/ICEI-PUC-Minas-PMGES-TI)
 - [Organização no GitHub - ICEI PUC Minas PPLES TI - Campus Lourdes](https://github.com/ICEI-PUC-Minas-PPLES-TI)
 
+##### Templates genéricos de TIs:
+Template de repositório contendo a estrutura geral a ser usada nos trabalhos interdisciplinares (TI) do curso de Engenharia de Software da PUC Minas.
+
+- https://github.com/ICEI-PUC-Minas-PMGES-TI/TI-ES-GenericTemplate
+- https://github.com/ICEI-PUC-Minas-PPLES-TI/TI-ES-GenericTemplate
+
 ##### Revista SPRINTI do curso de Engenharia de Software da PUC Minas:
 
 - https://sprinti.pucminas.br/
@@ -42,6 +48,10 @@ Os melhores TIs encontram-se publicamente disponíveis na [Revista SPRINTI](http
    </td>
 </tr>
 </table>
+
+##### Catálogo dos Trabalhos de Conclusão de Curso do Bacharelado em Engenharia de Software
+
+- https://github.com/ICEI-PUC-Minas-PPLES-TI/TCC-ES-Catalogue
 
 -----
 
