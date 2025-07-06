@@ -49,7 +49,7 @@ Template de repositório contendo a estrutura geral a ser usada nos trabalhos in
 </tr>
 </table>
 
-##### Catálogo dos Trabalhos de Conclusão de Curso do Bacharelado em Engenharia de Software
+##### Catálogo dos Trabalhos de Conclusão de Curso do Bacharelado em Engenharia de Software:
 
 - https://github.com/ICEI-PUC-Minas-PPLES-TI/TCC-ES-Catalogue
 
