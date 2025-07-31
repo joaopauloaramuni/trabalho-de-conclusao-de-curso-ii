@@ -24,6 +24,13 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 ##### Calendário Acadêmico
 - 📅 [Calendário Acadêmico 2025 - PUC Minas](https://github.com/user-attachments/files/21538503/FINAL_calendario.academico_2025.pdf)
 
+##### 📚 Referências gerais
+
+###### 📌 Leitura recomendada
+
+- 📕 [Como se faz uma tese - Umberto Eco](https://www.amazon.com.br/Como-se-faz-uma-tese/dp/852731200X)  
+  Um guia clássico e acessível que ensina, passo a passo, como planejar, escrever e organizar uma tese, desde a escolha do tema até a redação final, com dicas práticas e reflexões sobre o processo acadêmico.
+
 ##### :octocat: Organização no GitHub:
 As organizações abaixo incluem Trabalhos Interdisciplinares (TIs) e Trabalhos de Conclusão de Curso (TCCs) desenvolvidos pelos alunos do Curso de Engenharia de Software, da Pontifícia Universidade Católica de Minas Gerais.
 Os melhores TIs encontram-se publicamente disponíveis na [Revista SPRINTI](https://sprinti.pucminas.br) e os TCCs estão disponíveis no [catálogo](https://github.com/ICEI-PUC-Minas-PPLES-TI/TCC-ES-Catalogue) do curso.
