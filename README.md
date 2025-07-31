@@ -21,6 +21,9 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 
 #### Links úteis:
 
+##### Calendário Acadêmico
+- 📅 [Calendário Acadêmico 2025 - PUC Minas](https://github.com/user-attachments/files/21538503/FINAL_calendario.academico_2025.pdf)
+
 ##### Organização no GitHub:
 As organizações abaixo incluem Trabalhos Interdisciplinares (TIs) e Trabalhos de Conclusão de Curso (TCCs) desenvolvidos pelos alunos do Curso de Engenharia de Software, da Pontifícia Universidade Católica de Minas Gerais.
 Os melhores TIs encontram-se publicamente disponíveis na [Revista SPRINTI](https://sprinti.pucminas.br) e os TCCs estão disponíveis no [catálogo](https://github.com/ICEI-PUC-Minas-PPLES-TI/TCC-ES-Catalogue) do curso.
