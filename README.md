@@ -31,6 +31,22 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 - 📕 [Como se faz uma tese - Umberto Eco](https://www.amazon.com.br/Como-se-faz-uma-tese/dp/852731200X)  
   Um guia clássico e acessível que ensina, passo a passo, como planejar, escrever e organizar uma tese, desde a escolha do tema até a redação final, com dicas práticas e reflexões sobre o processo acadêmico.
 
+-----
+
+##### 📊 Tendências e pesquisas
+
+###### 📈 Relatórios e estudos sobre o mercado de tecnologia e comportamento de desenvolvedores  
+Relatórios anuais e pesquisas globais ajudam a entender as principais linguagens, ferramentas, salários, preferências e tendências no mercado de desenvolvimento de software. São ótimos para orientar decisões de carreira e identificar habilidades em alta.
+
+- [DevSkiller Report 2025](https://devskiller.com/it-skills-report/)
+  - [PDF - DevSkiller Future Skills Report 2025](https://github.com/joaopauloaramuni/projeto-de-software/blob/main/ARTIGOS/DevSkiller-Future-Skills-Report-2025.pdf)
+- [Stack Overflow Developer Survey 2025](https://survey.stackoverflow.co/2025/)
+- [Stack Overflow Developer Survey 2024](https://survey.stackoverflow.co/2024/)
+- [JetBrains Developer Ecosystem 2024](https://www.jetbrains.com/pt-br/lp/devecosystem-2024/)
+- [GitHub Octoverse 2024](https://github.blog/news-insights/octoverse/octoverse-2024/)
+
+-----
+
 ##### :octocat: Organização no GitHub:
 As organizações abaixo incluem Trabalhos Interdisciplinares (TIs) e Trabalhos de Conclusão de Curso (TCCs) desenvolvidos pelos alunos do Curso de Engenharia de Software, da Pontifícia Universidade Católica de Minas Gerais.
 Os melhores TIs encontram-se publicamente disponíveis na [Revista SPRINTI](https://sprinti.pucminas.br) e os TCCs estão disponíveis no [catálogo](https://github.com/ICEI-PUC-Minas-PPLES-TI/TCC-ES-Catalogue) do curso.
@@ -62,18 +78,6 @@ Template de repositório contendo a estrutura geral a ser usada nos trabalhos in
    </td>
 </tr>
 </table>
-
-##### 📊 Tendências e pesquisas
-
-###### 📈 Relatórios e estudos sobre o mercado de tecnologia e comportamento de desenvolvedores  
-Relatórios anuais e pesquisas globais ajudam a entender as principais linguagens, ferramentas, salários, preferências e tendências no mercado de desenvolvimento de software. São ótimos para orientar decisões de carreira e identificar habilidades em alta.
-
-- [DevSkiller Report 2025](https://devskiller.com/it-skills-report/)
-  - [PDF - DevSkiller Future Skills Report 2025](https://github.com/joaopauloaramuni/projeto-de-software/blob/main/ARTIGOS/DevSkiller-Future-Skills-Report-2025.pdf)
-- [Stack Overflow Developer Survey 2025](https://survey.stackoverflow.co/2025/)
-- [Stack Overflow Developer Survey 2024](https://survey.stackoverflow.co/2024/)
-- [JetBrains Developer Ecosystem 2024](https://www.jetbrains.com/pt-br/lp/devecosystem-2024/)
-- [GitHub Octoverse 2024](https://github.blog/news-insights/octoverse/octoverse-2024/)
 
 -----
 
