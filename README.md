@@ -34,6 +34,14 @@ Disciplina do curso de Engenharia de Software da PUC Minas
   
 -----
 
+##### 📄 Resolução de TCCII
+
+Antes de iniciar o TCC, realize a leitura da **Resolução de TCC**, que é um documento fundamental para coordenar os grupos da unidade curricular de Trabalhos de Conclusão de Curso II (TCC II) no curso de Engenharia de Software, no segundo semestre de 2025. Esta resolução define o processo de avaliação, estabelece o cronograma e as regras de execução que devem ser seguidas por discentes e docentes na unidade curricular.
+
+- [Link para a Resolução de TCC II no GitHub](https://github.com/joaopauloaramuni/trabalho-de-conclusao-de-curso-ii/tree/main/RESOLUC%CC%A7A%CC%83O)
+
+-----
+
 ##### ⏰ Agendamento de orientação
 
 ###### 🗓️ Confira a disponibilidade de agenda no meu Calendly
