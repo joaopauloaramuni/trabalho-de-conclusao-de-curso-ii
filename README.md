@@ -30,7 +30,8 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 
 - 📕 [Como se faz uma tese - Umberto Eco](https://www.amazon.com.br/Como-se-faz-uma-tese/dp/852731200X)  
   Um guia clássico e acessível que ensina, passo a passo, como planejar, escrever e organizar uma tese, desde a escolha do tema até a redação final, com dicas práticas e reflexões sobre o processo acadêmico.
-
+  Recomendado especialmente para estudantes que optaram por desenvolver seu TCC na forma de artigo científico.
+  
 -----
 
 ##### ⏰ Agendamento de orientação
