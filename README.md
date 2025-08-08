@@ -114,6 +114,7 @@ Template de repositório contendo a estrutura geral a ser usada nos trabalhos in
 - [PPLES ES 2025-2 TCCII - XXXX]()
 - [PPLES ES 2025-2 TCCII - XXXX]()
 - [PPLES ES 2025-2 TCCII - XXXX]()
+- [PPLES ES 2025-2 TCCII - XXXX]()
 
 #### 📅 1°Sem 2025:
 - [PPLES ES 2025-1 TCCII - Guilherme Santos](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2024-2-tcci-0393100-dev-guilherme-santos)
