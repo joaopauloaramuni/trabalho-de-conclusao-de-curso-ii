@@ -33,6 +33,20 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 
 -----
 
+##### ⏰ Agendamento de orientação
+
+###### 🗓️ Confira a disponibilidade de agenda no meu Calendly
+
+- [https://calendly.com/aramuni](https://calendly.com/aramuni)  
+  - Utilize este link para agendar sua orientação de forma prática. O Calendly permite visualizar meus horários disponíveis e escolher o que for mais conveniente para você.
+
+###### 👥 Sala fixa de reunião no Microsoft Teams
+
+- [https://tinyurl.com/tccpuc](https://tinyurl.com/tccpuc)  
+  - Todas as orientações ao longo do semestre acontecerão nesta sala virtual. Guarde o link, pois ele será o mesmo em todos os encontros.
+
+-----
+
 ##### 📊 Tendências e pesquisas
 
 ###### 📈 Relatórios e estudos sobre o mercado de tecnologia e comportamento de desenvolvedores  
@@ -83,12 +97,19 @@ Template de repositório contendo a estrutura geral a ser usada nos trabalhos in
 
 ### 🧑‍🏫 Trabalhos orientados:
 
+#### 📅 2°Sem 2025:
+- [PPLES ES 2025-2 TCCII - XXXX]()
+- [PPLES ES 2025-2 TCCII - XXXX]()
+- [PPLES ES 2025-2 TCCII - XXXX]()
+- [PPLES ES 2025-2 TCCII - XXXX]()
+- [PPLES ES 2025-2 TCCII - XXXX]()
+
 #### 📅 1°Sem 2025:
-- [PMG ES 2025-1 TCCII - Guilherme Santos](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2024-2-tcci-0393100-dev-guilherme-santos)
-- [PMG ES 2025-1 TCCII - Bernardo Rohlfs e Eric Jardim](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2024-2-tcci-0393100-dev-bernardo-rohlfs-e-eric-jardim)
-- [PMG ES 2025-1 TCCII - Breno Rosa e Matheus Brandão](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2024-2-tcci-0393100-dev-breno-rosa-e-matheus-brandao)
-- [PMG ES 2025-1 TCCII - Pedro Rodrigues](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2024-1-tcci-0393100-dev-pedro-rodrigues)
-- [PMG ES 2025-1 TCCII - Lucas Lima e Luis Gustavo Vaz](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2024-1-tcci-0393100-dev-lucas-lima-e-luis-gustavo)
+- [PPLES ES 2025-1 TCCII - Guilherme Santos](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2024-2-tcci-0393100-dev-guilherme-santos)
+- [PPLES ES 2025-1 TCCII - Bernardo Rohlfs e Eric Jardim](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2024-2-tcci-0393100-dev-bernardo-rohlfs-e-eric-jardim)
+- [PPLES ES 2025-1 TCCII - Breno Rosa e Matheus Brandão](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2024-2-tcci-0393100-dev-breno-rosa-e-matheus-brandao)
+- [PPLES ES 2025-1 TCCII - Pedro Rodrigues](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2024-1-tcci-0393100-dev-pedro-rodrigues)
+- [PPLES ES 2025-1 TCCII - Lucas Lima e Luis Gustavo Vaz](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2024-1-tcci-0393100-dev-lucas-lima-e-luis-gustavo)
 
 ##### ☁️ Hospedagens na nuvem, apresentações, vídeos e documentos:
 - TCCII - Apptite - [Guilherme Santos](https://github.com/guilhermerfs00) :octocat:
