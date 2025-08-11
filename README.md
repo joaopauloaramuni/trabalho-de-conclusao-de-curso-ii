@@ -109,12 +109,12 @@ Template de repositório contendo a estrutura geral a ser usada nos trabalhos in
 ### 🧑‍🏫 Trabalhos orientados:
 
 #### 📅 2°Sem 2025:
-- [PPLES ES 2025-2 TCCII - XXXX]()
-- [PPLES ES 2025-2 TCCII - XXXX]()
-- [PPLES ES 2025-2 TCCII - XXXX]()
-- [PPLES ES 2025-2 TCCII - XXXX]()
-- [PPLES ES 2025-2 TCCII - XXXX]()
-- [PPLES ES 2025-2 TCCII - XXXX]()
+- [PPLES ES 2025-2 TCCII - Carlos Roberto Alves de Almeida Júnior e Matheus Augusto Avelar de Souza](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2025-1-tcci-0393100-dev-carlos-junior-e-matheus-souza)
+- [PPLES ES 2025-2 TCCII - Igor Pinheiro dos Santos e Vinícius Gonzaga Guilherme](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2025-1-tcci-0393100-dev-igor-pinheiro-e-vinicius-gonzaga)
+- [PPLES ES 2025-2 TCCII - Pedro Lucas Aires dos Santos](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2025-1-tcci-0393100-dev-pedro-lucas-santos)
+- [PPLES ES 2025-2 TCCII - Tito Li An Chen](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2025-1-tcci-0393100-dev-tito-chen)
+- [PPLES ES 2025-2 TCCI - Lucas Araujo]()
+- [PPLES ES 2025-2 TCCI - Luis Gustavo Vaz]()
 
 #### 📅 1°Sem 2025:
 - [PPLES ES 2025-1 TCCII - Guilherme Santos](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2024-2-tcci-0393100-dev-guilherme-santos)
