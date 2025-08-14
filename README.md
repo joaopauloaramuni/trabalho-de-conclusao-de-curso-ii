@@ -260,7 +260,7 @@ date-released: 2025-06-19
 
 1. Igor Pinheiro dos Santos e Vinícius Gonzaga Guilherme. Smart Barber - Sistema de Gestão para Barbearias. Início: 2025. Trabalho de Conclusão de Curso (Graduação em Engenharia de Software) - Pontifícia Universidade Católica de Minas Gerais. (Orientador).
 
-2. Tito Li An Chen. Sistema de Gestão de Parque de Máquinas da dti digital. Início: 2025. Trabalho de Conclusão de Curso (Graduação em Engenharia de Software) - Pontifícia Universidade Católica de Minas Gerais. (Orientador).
+2. Tito Li An Chen. Sistema de Gestão de Parque do Máquinas da dti digital. Início: 2025. Trabalho de Conclusão de Curso (Graduação em Engenharia de Software) - Pontifícia Universidade Católica de Minas Gerais. (Orientador).
 
 3. Carlos R. A. de Almeida Júnior e Matheus A. A. de Souza. Sistema de Gestão da Clínica Genilton de Souza. Início: 2025. Trabalho de Conclusão de Curso (Graduação em Engenharia de Software) - Pontifícia Universidade Católica de Minas Gerais. (Orientador).
 
@@ -456,7 +456,7 @@ date-released: 2025-06-19
 
 2. TAVARES, C. S.; SOUZA, J. G. R.; BATISTELI, J. P. O.; CARDOSO, L. V.; ARAMUNI, J. P. C.. Participação em pré-banca de Carlos Roberto Alves de Almeida Júnior e Matheus Augusto Avelar de Souza.Sistema de Gestão da Clínica Genilton de Souza. 2025. Projeto de TCC I. Trabalho de Conclusão de Curso (Graduação em Engenharia de Software) - Pontifícia Universidade Católica de Minas Gerais.
 
-3. TAVARES, C. S.; BATISTELI, J. P. O.; SOUZA, J. G. R.; CARDOSO, L. V.; ARAMUNI, J. P. C.. Participação em pré-banca de Tito Li An Chen.Sistema de Gestão de Parque de Máquinas da dti digital. 2025. Projeto de TCC I. Trabalho de Conclusão de Curso (Graduação em Engenharia de Software) - Pontifícia Universidade Católica de Minas Gerais.
+3. TAVARES, C. S.; BATISTELI, J. P. O.; SOUZA, J. G. R.; CARDOSO, L. V.; ARAMUNI, J. P. C.. Participação em pré-banca de Tito Li An Chen.Sistema de Gestão do Parque de Máquinas da dti digital. 2025. Projeto de TCC I. Trabalho de Conclusão de Curso (Graduação em Engenharia de Software) - Pontifícia Universidade Católica de Minas Gerais.
 
 4. TAVARES, C. S.; BRITO, A. N.; CARDOSO, L. V; ARAMUNI, J. P. C.. Participação em pré-banca de Bruno Gomes Ferreira e Matheus Vieira dos Santos.AZ Power App. 2024. Projeto de TCC I. Trabalho de Conclusão de Curso (Graduação em Engenharia de Software) - Pontifícia Universidade Católica de Minas Gerais.
 
