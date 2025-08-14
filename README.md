@@ -254,6 +254,20 @@ date-released: 2025-06-19
 
 ### 🎓 Histórico de orientações e participações em bancas examinadoras:
 
+**Orientações e supervisões em andamento**
+
+**Trabalho de conclusão de curso de graduação**
+
+1. Igor Pinheiro dos Santos e Vinícius Gonzaga Guilherme. Smart Barber - Sistema de Gestão para Barbearias. Início: 2025. Trabalho de Conclusão de Curso (Graduação em Engenharia de Software) - Pontifícia Universidade Católica de Minas Gerais. (Orientador).
+
+2. Tito Li An Chen. Sistema de Gestão de Parque de Máquinas da dti digital. Início: 2025. Trabalho de Conclusão de Curso (Graduação em Engenharia de Software) - Pontifícia Universidade Católica de Minas Gerais. (Orientador).
+
+3. Carlos R. A. de Almeida Júnior e Matheus A. A. de Souza. Sistema de Gestão da Clínica Genilton de Souza. Início: 2025. Trabalho de Conclusão de Curso (Graduação em Engenharia de Software) - Pontifícia Universidade Católica de Minas Gerais. (Orientador).
+
+4. Pedro Lucas Aires dos Santos. Code Sentinel - Captura de Complexidade. Início: 2025. Trabalho de Conclusão de Curso (Graduação em Engenharia de Software) - Pontifícia Universidade Católica de Minas Gerais. (Orientador).
+
+5. Lucas Araújo Borges de Lima e Luis Gustavo Vaz. BusCar - Sistema de Agregação de Anúncios Automotivos. Início: 2025. Trabalho de Conclusão de Curso (Graduação em Engenharia de Software) - Pontifícia Universidade Católica de Minas Gerais. (Orientador).
+
 **Orientações e supervisões concluídas**
 
 **Trabalho de conclusão de curso de graduação**
