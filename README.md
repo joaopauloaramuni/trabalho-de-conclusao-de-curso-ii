@@ -132,7 +132,7 @@ Template de repositório contendo a estrutura geral a ser usada nos trabalhos in
   - 📄 [Apptite - Documentação de projeto](https://bib.pucminas.br/pergamumweb/downloadArquivo?vinculo=YWYxODk5MlkyOWtSVzF3Y21WellUMHlOU1poWTJWeWRtODlOVFk0TmpnekpuTmxjVkJoY21GbmNtRm1iejB4T0NaelpYRlRaV05oYnowM0ptdGhjbVJsZUQxT0pteHZZMkZzUVhKeGRXbDJiejFEVDAxUVFWSlVTVXhJUVUxRlRsUlBKbTV2YldWRFlXMXBibWh2UFRBd01EQmtaUzh3TURBd1pHVmlNQzV3WkdZPTJlNmIzNmU=&nomeExtensao=.pdf) (Publicado no Repositório de Produção Acadêmica da PUC Minas - Acervo da Biblioteca)
 
 - TCCII - Tuscan - [Bernardo Rohlfs](https://github.com/Berohlfs) :octocat: e [Eric Jardim](https://github.com/ericgcjardim) :octocat:
-  - 🌐 [Tuscan - Home](https://plf-es-2024-2-tcci-0393100-dev-bernardo-rohlfs-e-eric-jardim.vercel.app/)
+  - 🌐 [Tuscan - Home](https://tuscan.bernardorohlfs.com/)
   - 🗣️ [Tuscan - Apresentação](https://github.com/user-attachments/files/20968980/Tuscan.pdf) (Slides utilizados na defesa para a banca examinadora)
   - 🎥 [Tuscan - Vídeo](https://github.com/user-attachments/assets/c3446ae2-b4a6-4328-a798-61761b85d7e7)
   - 👁️ [Tuscan - Documento de visão](https://github.com/user-attachments/files/20987233/Tuscan.pdf)
