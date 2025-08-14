@@ -137,6 +137,7 @@ Template de repositório contendo a estrutura geral a ser usada nos trabalhos in
   - 🎥 [Tuscan - Vídeo](https://github.com/user-attachments/assets/c3446ae2-b4a6-4328-a798-61761b85d7e7)
   - 👁️ [Tuscan - Documento de visão](https://github.com/user-attachments/files/20987233/Tuscan.pdf)
   - 📄 [Tuscan - Documentação de projeto](https://bib.pucminas.br/pergamumweb/downloadArquivo?vinculo=NTE4OTRlY1kyOWtSVzF3Y21WellUMHlOU1poWTJWeWRtODlOVFk0T0RFd0puTmxjVkJoY21GbmNtRm1iejB4Sm5ObGNWTmxZMkZ2UFRjbWEyRnlaR1Y0UFU0bWJHOWpZV3hCY25GMWFYWnZQVU5QVFZCQlVsUkpURWhCVFVWT1ZFOG1ibTl0WlVOaGJXbHVhRzg5TURBd01HUm1MekF3TURCa1ptUTRMbkJrWmc9PWY3MzQxZGM=&nomeExtensao=.pdf) (Publicado no Repositório de Produção Acadêmica da PUC Minas - Acervo da Biblioteca)
+  - :octocat: [Repositório no GitHub](https://github.com/Berohlfs/BachelorsThesisSoftwareEngineering)
 
 - TCCII - Distribuidora LC - [Breno Rosa](https://github.com/Breno1210) :octocat: e [Matheus Brandão](https://github.com/Matheusbfreire) :octocat:
   - 🌐 [Distribuidora LC - Home](https://plf-es-2024-2-tcci-0393100-dev-bren.vercel.app/)
