@@ -227,7 +227,7 @@ date-released: 2025-06-19
 
 #### 🎓 Como orientador
 - Atualmente orienta trabalhos de conclusão de curso em Ciência da Computação e Engenharia de Software, já tendo acompanhado mais de 40 TCCs e participado de mais de 50 bancas examinadoras.
-- Atuou também no grupo de pesquisa [LAIS (Laboratório de Sistemas de Informação Avançados)](https://www.linkedin.com/company/laisfumec/), publicando artigos em periódicos nacionais e internacionais de destaque.
+- Atuou também no grupo de pesquisa [LAIS (Laboratório de Sistemas de Informação Avançados)](https://www.linkedin.com/company/laisfumec/), publicando artigos em periódicos nacionais e internacionais.
 
 #### 📚 Google Scholar  
 - [Acompanhe minhas publicações, citações e métricas de impacto científico](https://scholar.google.com.br/citations?user=OARYxSYAAAAJ&hl=pt-BR&oi=ao).
@@ -238,7 +238,7 @@ date-released: 2025-06-19
 - Reúne minha formação, experiência profissional, projetos de pesquisa, orientações e produções acadêmicas registradas oficialmente no CNPq.  
 
 #### 🆔 ORCID
-- [Acesse meu ORCID completo](https://orcid.org/0000-0001-7538-5927).
+- [Acesse meu ORCID](https://orcid.org/0000-0001-7538-5927).
 - Plataforma que fornece um identificador único para pesquisadores, permitindo associar de forma precisa suas contribuições acadêmicas e profissionais.
 
 -----
