@@ -227,7 +227,8 @@ date-released: 2025-06-19
 
 #### 🎓 Como orientador
 - Atualmente orienta trabalhos de conclusão de curso em Ciência da Computação e Engenharia de Software, já tendo acompanhado mais de 40 TCCs e participado de mais de 50 bancas examinadoras.
-- Atuou também no grupo de pesquisa [LAIS (Laboratório de Sistemas de Informação Avançados)](https://www.linkedin.com/company/laisfumec/), publicando artigos em periódicos nacionais e internacionais.
+- Foi membro do grupo de pesquisa [LAIS (Laboratório de Sistemas de Informação Avançados)](https://www.linkedin.com/company/laisfumec/) da Universidade FUMEC, onde publicou artigos em periódicos nacionais e internacionais em conjunto com outros pesquisadores do [Programa de Pós Graduação em Sistemas de Informação e Gestão do Conhecimento](https://www.fumec.br/pos-graduacao-em-tecnologia-da-informacao-e-comunicacao-e-gestao-do-conhecimento/).
+  - O LAIS é um laboratório de pesquisa e desenvolvimento de soluções baseadas em tecnologia, gestão e engenharia do conhecimento e de sistemas de informação. Entre suas competências, destacam-se o desenvolvimento de sistemas de apoio a decisão, inteligência analítica, gestão de dados na Web e gestão de processos. O laboratório reúne doutores em engenharia ou computação com experiência na elaboração e execução de projetos de P&D. Sua equipe possui membros capacitados em análise estatística, banco de dados, engenharia de software e sistemas inteligentes.
 
 #### 📚 Google Scholar  
 - Acompanhe minhas publicações, citações e métricas de impacto científico no meu perfil do [Google Scholar](https://scholar.google.com.br/citations?user=OARYxSYAAAAJ&hl=pt-BR&oi=ao).
