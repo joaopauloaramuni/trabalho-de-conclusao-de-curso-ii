@@ -27,12 +27,39 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 
 ##### 📚 Referências gerais
 
-###### 📌 Leitura recomendada
+###### 📌 Leituras recomendadas
 
 - 📕 [Como se faz uma tese - Umberto Eco](https://www.amazon.com.br/Como-se-faz-uma-tese/dp/852731200X)  
   Um guia clássico e acessível que ensina, passo a passo, como planejar, escrever e organizar uma tese, desde a escolha do tema até a redação final, com dicas práticas e reflexões sobre o processo acadêmico.
-  Recomendado especialmente para estudantes que optaram por desenvolver seu TCC na forma de artigo científico.
-  
+  Recomendado especialmente para estudantes que optaram por desenvolver seu TCC na forma de artigo científico.  
+
+- 📘 [How to Write and Publish a Scientific Paper - Barbara Gastel & Robert a Day](https://www.amazon.com.br/How-Write-Publish-Scientific-Paper/dp/1440878846)
+  Um clássico internacional sobre redação científica, atualmente em sua 9ª edição (2022).  
+  Apresenta orientações práticas sobre todas as etapas da produção de um artigo: da escolha do periódico à revisão por pares, passando pela escrita clara, objetiva e ética.  
+  Recomendado para alunos que desejam publicar seus TCCs ou artigos em periódicos científicos, nacionais e internacionais.  
+
+###### 🛠️ Ferramentas
+
+- 📄 [Overleaf](https://pt.overleaf.com/)  
+  Plataforma online para edição colaborativa de documentos em **LaTeX**, muito utilizada para produção de artigos e trabalhos acadêmicos. Dispensa instalação local e facilita o versionamento e o compartilhamento de projetos.  
+
+- ✍️ [LaTeX Project](https://www.latex-project.org/)  
+  Página oficial do **LaTeX**, sistema de preparação de documentos acadêmicos e científicos.  
+  Ideal para quem deseja instalar o LaTeX localmente e explorar recursos avançados de tipografia e formatação.
+
+-----
+
+##### 📚 Repositório de Produção Acadêmica da PUC Minas
+
+###### 🌐 Acervo da Biblioteca
+- [Site da Biblioteca](https://www.pucminas.br/biblioteca/Paginas/default.aspx)
+
+###### 📤 Postagem do TCC no Acervo da Biblioteca
+- [Orientações para Postagem e Aprovação de Trabalhos de Conclusão de Curso](https://github.com/joaopauloaramuni/trabalho-de-conclusao-de-curso-ii/blob/main/TUTORIAIS/Tutorial%20de%20Postagem%20TCC%20(formatado).pdf)
+
+###### 📝 Orientações para elaboração de trabalhos científicos e guias de postagem
+- [Documentos e Guias da Biblioteca](https://www.pucminas.br/biblioteca/Paginas/documentos.aspx)
+
 -----
 
 ##### 📄 Resolução de TCCII
@@ -154,18 +181,6 @@ Template de repositório contendo a estrutura geral a ser usada nos trabalhos in
   - 🎥 [Buzzard - Vídeo](https://github.com/user-attachments/assets/5b2755bf-ddbf-4741-9644-a96a46f01180)
   - 👁️ [Buzzard - Documento de visão](https://github.com/user-attachments/files/20987242/Buzzard.pdf)
   - 📄 [Buzzard - Documentação de projeto](https://bib.pucminas.br/pergamumweb/downloadArquivo?vinculo=MjgxMTQxZVkyOWtSVzF3Y21WellUMHlOU1poWTJWeWRtODlOVFk0TnpVNUpuTmxjVkJoY21GbmNtRm1iejB4T0NaelpYRlRaV05oYnowM0ptdGhjbVJsZUQxT0pteHZZMkZzUVhKeGRXbDJiejFEVDAxUVFWSlVTVXhJUVUxRlRsUlBKbTV2YldWRFlXMXBibWh2UFRBd01EQmtaaTh3TURBd1pHWTJPUzV3WkdZPTM3ZGJmZDU=&nomeExtensao=.pdf) (Publicado no Repositório de Produção Acadêmica da PUC Minas - Acervo da Biblioteca)
-
------
-
-### 📤 Postagem do TCC no Repositório de Produção Acadêmica da PUC Minas:
-
-#### 📚 Acervo da Biblioteca:
-
-- 🌐 Site da biblioteca:
-  - [https://www.pucminas.br/biblioteca](https://www.pucminas.br/biblioteca/Paginas/default.aspx)
-
-- 📘 Orientações para postagem e aprovação de Trabalhos de Conclusão de Curso:
-  - [Tutorial de Postagem TCC](https://github.com/joaopauloaramuni/trabalho-de-conclusao-de-curso-ii/blob/main/TUTORIAIS/Tutorial%20de%20Postagem%20TCC%20(formatado).pdf)
 
 -----
 
