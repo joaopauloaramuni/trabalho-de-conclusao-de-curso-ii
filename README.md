@@ -90,20 +90,6 @@ Esta resolução define o processo de avaliação, estabelece o cronograma e as 
 
 -----
 
-##### 📊 Tendências e pesquisas
-
-###### 📈 Relatórios e estudos sobre o mercado de tecnologia e comportamento de desenvolvedores  
-Relatórios anuais e pesquisas globais ajudam a entender as principais linguagens, ferramentas, salários, preferências e tendências no mercado de desenvolvimento de software. São ótimos para orientar decisões de carreira e identificar habilidades em alta.
-
-- [DevSkiller Report 2025](https://devskiller.com/it-skills-report/)
-  - [PDF - DevSkiller Future Skills Report 2025](https://github.com/joaopauloaramuni/projeto-de-software/blob/main/ARTIGOS/DevSkiller-Future-Skills-Report-2025.pdf)
-- [Stack Overflow Developer Survey 2025](https://survey.stackoverflow.co/2025/)
-- [Stack Overflow Developer Survey 2024](https://survey.stackoverflow.co/2024/)
-- [JetBrains Developer Ecosystem 2024](https://www.jetbrains.com/pt-br/lp/devecosystem-2024/)
-- [GitHub Octoverse 2024](https://github.blog/news-insights/octoverse/octoverse-2024/)
-
------
-
 ##### :octocat: Organização no GitHub:
 As organizações abaixo incluem Trabalhos Interdisciplinares (TIs) e Trabalhos de Conclusão de Curso (TCCs) desenvolvidos pelos alunos do Curso de Engenharia de Software, da Pontifícia Universidade Católica de Minas Gerais.
 Os melhores TIs encontram-se publicamente disponíveis na [Revista SPRINTI](https://sprinti.pucminas.br) e os TCCs estão disponíveis no [catálogo](https://github.com/ICEI-PUC-Minas-PPLES-TI/TCC-ES-Catalogue) do curso.
@@ -138,53 +124,17 @@ Template de repositório contendo a estrutura geral a ser usada nos trabalhos in
 
 -----
 
-### 🧑‍🏫 Trabalhos orientados:
+##### 📊 Tendências e pesquisas
 
-#### 📅 2°Sem 2025:
-- [PPLES ES 2025-2 TCCII - Carlos Roberto Alves de Almeida Júnior e Matheus Augusto Avelar de Souza](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2025-1-tcci-0393100-dev-carlos-junior-e-matheus-souza)
-- [PPLES ES 2025-2 TCCII - Igor Pinheiro dos Santos e Vinícius Gonzaga Guilherme](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2025-1-tcci-0393100-dev-igor-pinheiro-e-vinicius-gonzaga)
-- [PPLES ES 2025-2 TCCII - Pedro Lucas Aires dos Santos](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2025-1-tcci-0393100-dev-pedro-lucas-santos)
-- [PPLES ES 2025-2 TCCII - Tito Li An Chen](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2025-1-tcci-0393100-dev-tito-chen)
-- [PPLES ES 2025-2 TCCI e TCCII - Lucas Araújo Borges de Lima e Luis Gustavo Vaz]()
+###### 📈 Relatórios e estudos sobre o mercado de tecnologia e comportamento de desenvolvedores  
+Relatórios anuais e pesquisas globais ajudam a entender as principais linguagens, ferramentas, salários, preferências e tendências no mercado de desenvolvimento de software. São ótimos para orientar decisões de carreira e identificar habilidades em alta.
 
-#### 📅 1°Sem 2025:
-- [PPLES ES 2025-1 TCCII - Guilherme Santos](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2024-2-tcci-0393100-dev-guilherme-santos)
-- [PPLES ES 2025-1 TCCII - Bernardo Rohlfs e Eric Jardim](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2024-2-tcci-0393100-dev-bernardo-rohlfs-e-eric-jardim)
-- [PPLES ES 2025-1 TCCII - Breno Rosa e Matheus Brandão](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2024-2-tcci-0393100-dev-breno-rosa-e-matheus-brandao)
-- [PPLES ES 2025-1 TCCII - Pedro Rodrigues](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2024-1-tcci-0393100-dev-pedro-rodrigues)
-- [PPLES ES 2025-1 TCCII - Lucas Araújo Borges de Lima e Luis Gustavo Vaz](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2024-1-tcci-0393100-dev-lucas-lima-e-luis-gustavo)
-
-##### ☁️ Hospedagens na nuvem, apresentações, vídeos e documentos:
-- TCCII - Apptite - [Guilherme Santos](https://github.com/guilhermerfs00) :octocat:
-  - 🌐 [Apptite - Home - Acesso Admin e Garçom](https://apptite-front-c86d00a35e08.herokuapp.com/login)
-  - 🌐 [Apptite - Home - Acesso Cliente](https://apptite-front-c86d00a35e08.herokuapp.com/cadastro-cliente/1)
-  - 🗣️ [Apptite - Apresentação](https://github.com/user-attachments/files/20968216/Apptite.pdf) (Slides utilizados na defesa para a banca examinadora)
-  - 🎥 [Apptite - Vídeo](https://github.com/user-attachments/assets/7a0a724d-1b3c-4069-b946-0ed734d9f99e)
-  - 👁️ [Apptite - Documento de visão](https://github.com/user-attachments/files/20987229/Apptite.pdf)
-  - 📄 [Apptite - Documentação de projeto](https://bib.pucminas.br/pergamumweb/downloadArquivo?vinculo=YWYxODk5MlkyOWtSVzF3Y21WellUMHlOU1poWTJWeWRtODlOVFk0TmpnekpuTmxjVkJoY21GbmNtRm1iejB4T0NaelpYRlRaV05oYnowM0ptdGhjbVJsZUQxT0pteHZZMkZzUVhKeGRXbDJiejFEVDAxUVFWSlVTVXhJUVUxRlRsUlBKbTV2YldWRFlXMXBibWh2UFRBd01EQmtaUzh3TURBd1pHVmlNQzV3WkdZPTJlNmIzNmU=&nomeExtensao=.pdf) (Publicado no Repositório de Produção Acadêmica da PUC Minas - Acervo da Biblioteca)
-
-- TCCII - Tuscan - [Bernardo Rohlfs](https://github.com/Berohlfs) :octocat: e [Eric Jardim](https://github.com/ericgcjardim) :octocat:
-  - 🌐 [Tuscan - Home](https://tuscan.bernardorohlfs.com/)
-  - 🗣️ [Tuscan - Apresentação](https://github.com/user-attachments/files/20968980/Tuscan.pdf) (Slides utilizados na defesa para a banca examinadora)
-  - 🎥 [Tuscan - Vídeo](https://github.com/user-attachments/assets/c3446ae2-b4a6-4328-a798-61761b85d7e7)
-  - 👁️ [Tuscan - Documento de visão](https://github.com/user-attachments/files/20987233/Tuscan.pdf)
-  - 📄 [Tuscan - Documentação de projeto](https://bib.pucminas.br/pergamumweb/downloadArquivo?vinculo=NTE4OTRlY1kyOWtSVzF3Y21WellUMHlOU1poWTJWeWRtODlOVFk0T0RFd0puTmxjVkJoY21GbmNtRm1iejB4Sm5ObGNWTmxZMkZ2UFRjbWEyRnlaR1Y0UFU0bWJHOWpZV3hCY25GMWFYWnZQVU5QVFZCQlVsUkpURWhCVFVWT1ZFOG1ibTl0WlVOaGJXbHVhRzg5TURBd01HUm1MekF3TURCa1ptUTRMbkJrWmc9PWY3MzQxZGM=&nomeExtensao=.pdf) (Publicado no Repositório de Produção Acadêmica da PUC Minas - Acervo da Biblioteca)
-  - :octocat: [Repositório no GitHub](https://github.com/Berohlfs/BachelorsThesisSoftwareEngineering)
-
-- TCCII - Distribuidora LC - [Breno Rosa](https://github.com/Breno1210) :octocat: e [Matheus Brandão](https://github.com/Matheusbfreire) :octocat:
-  - 🌐 [Distribuidora LC - Home](https://plf-es-2024-2-tcci-0393100-dev-bren.vercel.app/)
-  - 🗣️ [Distribuidora LC - Apresentação](https://github.com/user-attachments/files/20968982/DistribuidoraLC.pdf) (Slides utilizados na defesa para a banca examinadora)
-  - 📺 [Distribuidora LC - Vídeo no YouTube](https://www.youtube.com/watch?v=OinvQRJinIc)
-  - 🎥 [Distribuidora LC - Vídeo](https://github.com/user-attachments/assets/f8405089-0f54-4270-ba7d-e33a693ad583)
-  - 👁️ [Distribuidora LC - Documento de visão](https://github.com/user-attachments/files/20987236/DistribuidoraLC.pdf)
-  - 📄 [Distribuidora LC - Documentação de projeto](https://bib.pucminas.br/pergamumweb/downloadArquivo?vinculo=ZGVmNGQ5ZVkyOWtSVzF3Y21WellUMHlOU1poWTJWeWRtODlOVFk0TnpReUpuTmxjVkJoY21GbmNtRm1iejB4Sm5ObGNWTmxZMkZ2UFRjbWEyRnlaR1Y0UFU0bWJHOWpZV3hCY25GMWFYWnZQVU5QVFZCQlVsUkpURWhCVFVWT1ZFOG1ibTl0WlVOaGJXbHVhRzg5TURBd01HUm1MekF3TURCa1pqSmlMbkJrWmc9PTgzOTRkZDA=&nomeExtensao=.pdf) (Publicado no Repositório de Produção Acadêmica da PUC Minas - Acervo da Biblioteca)
-
-- TCCII - Buzzard - [Pedro Rodrigues](https://github.com/PeterCcT) :octocat:
-  - 🌐 [Buzzard - Home](https://buzzard-frontend.vercel.app/)
-  - 🗣️ [Buzzard - Apresentação](https://github.com/user-attachments/files/20968219/Buzzard.pdf) (Slides utilizados na defesa para a banca examinadora)
-  - 🎥 [Buzzard - Vídeo](https://github.com/user-attachments/assets/5b2755bf-ddbf-4741-9644-a96a46f01180)
-  - 👁️ [Buzzard - Documento de visão](https://github.com/user-attachments/files/20987242/Buzzard.pdf)
-  - 📄 [Buzzard - Documentação de projeto](https://bib.pucminas.br/pergamumweb/downloadArquivo?vinculo=MjgxMTQxZVkyOWtSVzF3Y21WellUMHlOU1poWTJWeWRtODlOVFk0TnpVNUpuTmxjVkJoY21GbmNtRm1iejB4T0NaelpYRlRaV05oYnowM0ptdGhjbVJsZUQxT0pteHZZMkZzUVhKeGRXbDJiejFEVDAxUVFWSlVTVXhJUVUxRlRsUlBKbTV2YldWRFlXMXBibWh2UFRBd01EQmtaaTh3TURBd1pHWTJPUzV3WkdZPTM3ZGJmZDU=&nomeExtensao=.pdf) (Publicado no Repositório de Produção Acadêmica da PUC Minas - Acervo da Biblioteca)
+- [DevSkiller Report 2025](https://devskiller.com/it-skills-report/)
+  - [PDF - DevSkiller Future Skills Report 2025](https://github.com/joaopauloaramuni/projeto-de-software/blob/main/ARTIGOS/DevSkiller-Future-Skills-Report-2025.pdf)
+- [Stack Overflow Developer Survey 2025](https://survey.stackoverflow.co/2025/)
+- [Stack Overflow Developer Survey 2024](https://survey.stackoverflow.co/2024/)
+- [JetBrains Developer Ecosystem 2024](https://www.jetbrains.com/pt-br/lp/devecosystem-2024/)
+- [GitHub Octoverse 2024](https://github.blog/news-insights/octoverse/octoverse-2024/)
 
 -----
 
@@ -270,6 +220,71 @@ version: 1.0.0
 date-released: 2025-06-19
 ```
 </details>
+
+-----
+
+### 🧑‍🏫 Produção Acadêmica e Currículo
+
+#### 🎓 Como orientador
+Atualmente orienta trabalhos de conclusão de curso em Ciência da Computação e Engenharia de Software, já tendo acompanhado mais de 40 TCCs e participado de mais de 50 bancas examinadoras. Atuou também no grupo de pesquisa [**LAIS (Laboratório de Sistemas de Informação Avançados)**](https://www.linkedin.com/company/laisfumec/), publicando artigos em periódicos nacionais e internacionais de destaque.
+
+#### 📚 Google Scholar  
+[Acompanhe minhas publicações, citações e métricas de impacto científico](https://scholar.google.com.br/citations?user=OARYxSYAAAAJ&hl=pt-BR&oi=ao).  
+Ideal para visualizar a relevância e evolução da minha produção acadêmica ao longo do tempo.  
+
+#### 📝 Currículo Lattes  
+[Acesse meu Currículo Lattes completo](http://lattes.cnpq.br/1208427665892059).  
+Reúne minha formação, experiência profissional, projetos de pesquisa, orientações e produções acadêmicas registradas oficialmente no CNPq.  
+
+-----
+
+### 🧑‍🏫 Trabalhos orientados:
+
+#### 📅 2°Sem 2025:
+- [PPLES ES 2025-2 TCCII - Carlos Roberto Alves de Almeida Júnior e Matheus Augusto Avelar de Souza](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2025-1-tcci-0393100-dev-carlos-junior-e-matheus-souza)
+- [PPLES ES 2025-2 TCCII - Igor Pinheiro dos Santos e Vinícius Gonzaga Guilherme](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2025-1-tcci-0393100-dev-igor-pinheiro-e-vinicius-gonzaga)
+- [PPLES ES 2025-2 TCCII - Pedro Lucas Aires dos Santos](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2025-1-tcci-0393100-dev-pedro-lucas-santos)
+- [PPLES ES 2025-2 TCCII - Tito Li An Chen](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2025-1-tcci-0393100-dev-tito-chen)
+- [PPLES ES 2025-2 TCCI e TCCII - Lucas Araújo Borges de Lima e Luis Gustavo Vaz]()
+
+#### 📅 1°Sem 2025:
+- [PPLES ES 2025-1 TCCII - Guilherme Santos](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2024-2-tcci-0393100-dev-guilherme-santos)
+- [PPLES ES 2025-1 TCCII - Bernardo Rohlfs e Eric Jardim](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2024-2-tcci-0393100-dev-bernardo-rohlfs-e-eric-jardim)
+- [PPLES ES 2025-1 TCCII - Breno Rosa e Matheus Brandão](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2024-2-tcci-0393100-dev-breno-rosa-e-matheus-brandao)
+- [PPLES ES 2025-1 TCCII - Pedro Rodrigues](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2024-1-tcci-0393100-dev-pedro-rodrigues)
+- [PPLES ES 2025-1 TCCII - Lucas Araújo Borges de Lima e Luis Gustavo Vaz](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2024-1-tcci-0393100-dev-lucas-lima-e-luis-gustavo)
+
+##### ☁️ Hospedagens na nuvem, apresentações, vídeos e documentos:
+- TCCII - Apptite - [Guilherme Santos](https://github.com/guilhermerfs00) :octocat:
+  - 🌐 [Apptite - Home - Acesso Admin e Garçom](https://apptite-front-c86d00a35e08.herokuapp.com/login)
+  - 🌐 [Apptite - Home - Acesso Cliente](https://apptite-front-c86d00a35e08.herokuapp.com/cadastro-cliente/1)
+  - 🗣️ [Apptite - Apresentação](https://github.com/user-attachments/files/20968216/Apptite.pdf) (Slides utilizados na defesa para a banca examinadora)
+  - 🎥 [Apptite - Vídeo](https://github.com/user-attachments/assets/7a0a724d-1b3c-4069-b946-0ed734d9f99e)
+  - 👁️ [Apptite - Documento de visão](https://github.com/user-attachments/files/20987229/Apptite.pdf)
+  - 📄 [Apptite - Documentação de projeto](https://bib.pucminas.br/pergamumweb/downloadArquivo?vinculo=YWYxODk5MlkyOWtSVzF3Y21WellUMHlOU1poWTJWeWRtODlOVFk0TmpnekpuTmxjVkJoY21GbmNtRm1iejB4T0NaelpYRlRaV05oYnowM0ptdGhjbVJsZUQxT0pteHZZMkZzUVhKeGRXbDJiejFEVDAxUVFWSlVTVXhJUVUxRlRsUlBKbTV2YldWRFlXMXBibWh2UFRBd01EQmtaUzh3TURBd1pHVmlNQzV3WkdZPTJlNmIzNmU=&nomeExtensao=.pdf) (Publicado no Repositório de Produção Acadêmica da PUC Minas - Acervo da Biblioteca)
+
+- TCCII - Tuscan - [Bernardo Rohlfs](https://github.com/Berohlfs) :octocat: e [Eric Jardim](https://github.com/ericgcjardim) :octocat:
+  - 🌐 [Tuscan - Home](https://tuscan.bernardorohlfs.com/)
+  - 🗣️ [Tuscan - Apresentação](https://github.com/user-attachments/files/20968980/Tuscan.pdf) (Slides utilizados na defesa para a banca examinadora)
+  - 🎥 [Tuscan - Vídeo](https://github.com/user-attachments/assets/c3446ae2-b4a6-4328-a798-61761b85d7e7)
+  - 👁️ [Tuscan - Documento de visão](https://github.com/user-attachments/files/20987233/Tuscan.pdf)
+  - 📄 [Tuscan - Documentação de projeto](https://bib.pucminas.br/pergamumweb/downloadArquivo?vinculo=NTE4OTRlY1kyOWtSVzF3Y21WellUMHlOU1poWTJWeWRtODlOVFk0T0RFd0puTmxjVkJoY21GbmNtRm1iejB4Sm5ObGNWTmxZMkZ2UFRjbWEyRnlaR1Y0UFU0bWJHOWpZV3hCY25GMWFYWnZQVU5QVFZCQlVsUkpURWhCVFVWT1ZFOG1ibTl0WlVOaGJXbHVhRzg5TURBd01HUm1MekF3TURCa1ptUTRMbkJrWmc9PWY3MzQxZGM=&nomeExtensao=.pdf) (Publicado no Repositório de Produção Acadêmica da PUC Minas - Acervo da Biblioteca)
+  - :octocat: [Repositório no GitHub](https://github.com/Berohlfs/BachelorsThesisSoftwareEngineering)
+
+- TCCII - Distribuidora LC - [Breno Rosa](https://github.com/Breno1210) :octocat: e [Matheus Brandão](https://github.com/Matheusbfreire) :octocat:
+  - 🌐 [Distribuidora LC - Home](https://plf-es-2024-2-tcci-0393100-dev-bren.vercel.app/)
+  - 🗣️ [Distribuidora LC - Apresentação](https://github.com/user-attachments/files/20968982/DistribuidoraLC.pdf) (Slides utilizados na defesa para a banca examinadora)
+  - 📺 [Distribuidora LC - Vídeo no YouTube](https://www.youtube.com/watch?v=OinvQRJinIc)
+  - 🎥 [Distribuidora LC - Vídeo](https://github.com/user-attachments/assets/f8405089-0f54-4270-ba7d-e33a693ad583)
+  - 👁️ [Distribuidora LC - Documento de visão](https://github.com/user-attachments/files/20987236/DistribuidoraLC.pdf)
+  - 📄 [Distribuidora LC - Documentação de projeto](https://bib.pucminas.br/pergamumweb/downloadArquivo?vinculo=ZGVmNGQ5ZVkyOWtSVzF3Y21WellUMHlOU1poWTJWeWRtODlOVFk0TnpReUpuTmxjVkJoY21GbmNtRm1iejB4Sm5ObGNWTmxZMkZ2UFRjbWEyRnlaR1Y0UFU0bWJHOWpZV3hCY25GMWFYWnZQVU5QVFZCQlVsUkpURWhCVFVWT1ZFOG1ibTl0WlVOaGJXbHVhRzg5TURBd01HUm1MekF3TURCa1pqSmlMbkJrWmc9PTgzOTRkZDA=&nomeExtensao=.pdf) (Publicado no Repositório de Produção Acadêmica da PUC Minas - Acervo da Biblioteca)
+
+- TCCII - Buzzard - [Pedro Rodrigues](https://github.com/PeterCcT) :octocat:
+  - 🌐 [Buzzard - Home](https://buzzard-frontend.vercel.app/)
+  - 🗣️ [Buzzard - Apresentação](https://github.com/user-attachments/files/20968219/Buzzard.pdf) (Slides utilizados na defesa para a banca examinadora)
+  - 🎥 [Buzzard - Vídeo](https://github.com/user-attachments/assets/5b2755bf-ddbf-4741-9644-a96a46f01180)
+  - 👁️ [Buzzard - Documento de visão](https://github.com/user-attachments/files/20987242/Buzzard.pdf)
+  - 📄 [Buzzard - Documentação de projeto](https://bib.pucminas.br/pergamumweb/downloadArquivo?vinculo=MjgxMTQxZVkyOWtSVzF3Y21WellUMHlOU1poWTJWeWRtODlOVFk0TnpVNUpuTmxjVkJoY21GbmNtRm1iejB4T0NaelpYRlRaV05oYnowM0ptdGhjbVJsZUQxT0pteHZZMkZzUVhKeGRXbDJiejFEVDAxUVFWSlVTVXhJUVUxRlRsUlBKbTV2YldWRFlXMXBibWh2UFRBd01EQmtaaTh3TURBd1pHWTJPUzV3WkdZPTM3ZGJmZDU=&nomeExtensao=.pdf) (Publicado no Repositório de Produção Acadêmica da PUC Minas - Acervo da Biblioteca)
 
 -----
 
