@@ -33,7 +33,7 @@ Disciplina do curso de Engenharia de Software da PUC Minas
   Um guia clássico e acessível que ensina, passo a passo, como planejar, escrever e organizar uma tese, desde a escolha do tema até a redação final, com dicas práticas e reflexões sobre o processo acadêmico.
   Recomendado especialmente para estudantes que optaram por desenvolver seu TCC na forma de artigo científico.  
 
-- 📘 [How to Write and Publish a Scientific Paper - Barbara Gastel & Robert a Day](https://www.amazon.com.br/How-Write-Publish-Scientific-Paper/dp/1440878846)
+- 📘 [How to Write and Publish a Scientific Paper - Barbara Gastel & Robert a Day](https://www.amazon.com.br/How-Write-Publish-Scientific-Paper/dp/1440878846)  
   Um clássico internacional sobre redação científica, atualmente em sua 9ª edição (2022).  
   Apresenta orientações práticas sobre todas as etapas da produção de um artigo: da escolha do periódico à revisão por pares, passando pela escrita clara, objetiva e ética.  
   Recomendado para alunos que desejam publicar seus TCCs ou artigos em periódicos científicos, nacionais e internacionais.  
