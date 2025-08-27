@@ -58,10 +58,10 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 
 ###### 📤 Orientações para postagem do TCC no Acervo da Biblioteca
 
-👨‍🎓 Para alunos:
+###### 👨‍🎓 Para alunos:
 - [Orientações para postagem de Trabalhos de Conclusão de Curso](https://github.com/joaopauloaramuni/trabalho-de-conclusao-de-curso-ii/blob/main/TUTORIAIS/Tutorial%20de%20Postagem%20TCC%20(formatado).pdf)
 
-👨‍🏫 Para professores:
+###### 👨‍🏫 Para professores:
 - [Orientações para Visualização e Aprovação de Trabalhos de Conclusão de Curso pelo Professor](https://github.com/joaopauloaramuni/trabalho-de-conclusao-de-curso-ii/blob/main/TUTORIAIS/Tutorial%20de%20Aprovac%CC%A7a%CC%83o%20TCC%20(formatado).pdf)
 
 -----
