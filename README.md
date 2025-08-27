@@ -48,16 +48,16 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 
 -----
 
-##### 📚 Repositório de Produção Acadêmica da PUC Minas
+##### 📚 Repositório de Produção Acadêmica da PUC Minas - Biblioteca
 
 ###### 🌐 Acervo da Biblioteca
 - [Site da Biblioteca](https://www.pucminas.br/biblioteca/Paginas/default.aspx)
 
-###### 📤 Postagem do TCC no Acervo da Biblioteca
-- [Orientações para postagem de Trabalhos de Conclusão de Curso](https://github.com/joaopauloaramuni/trabalho-de-conclusao-de-curso-ii/blob/main/TUTORIAIS/Tutorial%20de%20Postagem%20TCC%20(formatado).pdf)
-
 ###### 📝 Orientações para elaboração de trabalhos científicos e guias de postagem
 - [Documentos e Guias da Biblioteca](https://www.pucminas.br/biblioteca/Paginas/documentos.aspx)
+
+###### 📤 Postagem do TCC no Acervo da Biblioteca
+- [Orientações para postagem de Trabalhos de Conclusão de Curso](https://github.com/joaopauloaramuni/trabalho-de-conclusao-de-curso-ii/blob/main/TUTORIAIS/Tutorial%20de%20Postagem%20TCC%20(formatado).pdf)
 
 -----
 
