@@ -14,6 +14,7 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 -----
 
 ### Sumário:
+- [Documentos da Biblioteca](https://github.com/joaopauloaramuni/trabalho-de-conclusao-de-curso-ii/tree/main/BIBLIOTECA)
 - [Certificados](https://github.com/joaopauloaramuni/trabalho-de-conclusao-de-curso-ii/tree/main/CERTIFICADOS)
 - [Especificação DEV](https://github.com/joaopauloaramuni/trabalho-de-conclusao-de-curso-ii/tree/main/ESPECIFICAC%CC%A7A%CC%83O%20DEV)
 - [Resolução](https://github.com/joaopauloaramuni/trabalho-de-conclusao-de-curso-ii/tree/main/RESOLUC%CC%A7A%CC%83O)
@@ -53,7 +54,7 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 - [Site da Biblioteca](https://www.pucminas.br/biblioteca/Paginas/default.aspx)
 
 ###### 📤 Postagem do TCC no Acervo da Biblioteca
-- [Orientações para Postagem e Aprovação de Trabalhos de Conclusão de Curso](https://github.com/joaopauloaramuni/trabalho-de-conclusao-de-curso-ii/blob/main/TUTORIAIS/Tutorial%20de%20Postagem%20TCC%20(formatado).pdf)
+- [Orientações para postagem de Trabalhos de Conclusão de Curso](https://github.com/joaopauloaramuni/trabalho-de-conclusao-de-curso-ii/blob/main/TUTORIAIS/Tutorial%20de%20Postagem%20TCC%20(formatado).pdf)
 
 ###### 📝 Orientações para elaboração de trabalhos científicos e guias de postagem
 - [Documentos e Guias da Biblioteca](https://www.pucminas.br/biblioteca/Paginas/documentos.aspx)
