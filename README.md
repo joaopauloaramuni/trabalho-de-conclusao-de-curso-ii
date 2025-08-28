@@ -31,7 +31,7 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 ###### 📌 Leituras recomendadas
 
 - 📕 [Como se faz uma tese - Umberto Eco](https://www.amazon.com.br/Como-se-faz-uma-tese/dp/852731200X)  
-  Um guia clássico sobre a elaboração de teses e monografias, atualmente em sua edição revista e aumentada de 2020. Ensina, de forma clara e prática, como planejar, escrever e organizar uma tese ou monografia, desde a escolha do tema até a redação final, com reflexões sobre o processo de pesquisa e escrita. Recomendado para estudantes que desejam estruturar seu TCC ou tese de maneira rigorosa, estimulante e, se possível, divertida.
+  Um guia clássico sobre a elaboração de teses e monografias, atualmente em sua edição revista e aumentada (2020). Ensina, de forma clara e prática, como planejar, escrever e organizar uma tese ou monografia, desde a escolha do tema até a redação final, com reflexões sobre o processo de pesquisa e escrita. Recomendado para estudantes que desejam estruturar seu TCC ou tese de maneira rigorosa, estimulante e, se possível, divertida.
 
 - 📘 [How to Write and Publish a Scientific Paper - Barbara Gastel & Robert A. Day](https://www.amazon.com.br/How-Write-Publish-Scientific-Paper/dp/1440878846)  
   Um clássico internacional sobre redação científica, atualmente em sua 9ª edição (2022). Apresenta orientações práticas sobre todas as etapas da produção de um artigo: da escolha do periódico à revisão por pares, passando pela escrita clara, objetiva e ética. Recomendado para alunos que desejam publicar seus TCCs ou artigos em periódicos científicos, nacionais e internacionais.
