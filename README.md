@@ -39,7 +39,7 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 
 - 📙 [Como Elaborar Projetos de Pesquisa – Antonio Carlos Gil](https://www.amazon.com.br/Elaborar-Projetos-Pesquisa-Antonio-Carlos/dp/6559771636)  
   Um dos manuais de metodologia científica mais utilizados no Brasil, atualmente em sua 7ª edição (2022).  
-  Explica, de forma clara e acessível, os elementos essenciais para a elaboração de projetos de pesquisa, abordando diferentes métodos (bibliográfica, documental, estudo de caso, etnográfica, pesquisa-ação, métodos mistos, entre outros). Traz exemplos práticos e orientações sobre organização, fundamentação teórica e planejamento. Recomendado para estudantes de graduação e pós-graduação que precisam estruturar seu projeto de TCC, dissertação ou tese.  
+  Explica, de forma clara e acessível, os elementos essenciais para a elaboração de projetos de pesquisa, abordando diferentes métodos (bibliográfica, documental, estudo de caso, etnográfica, pesquisa-ação, métodos mistos, entre outros). Recomendado para estudantes de graduação e pós-graduação que precisam estruturar seu projeto de TCC, dissertação ou tese.  
 
 ###### 🛠️ Ferramentas
 
