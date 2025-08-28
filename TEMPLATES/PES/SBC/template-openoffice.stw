@@ -1,0 +1,206 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML>
+<HEAD>
+	<META HTTP-EQUIV="CONTENT-TYPE" CONTENT="text/html; charset=windows-1252">
+	<TITLE></TITLE>
+	<META NAME="GENERATOR" CONTENT="BrOffice.org 3.1  (Win32)">
+	<META NAME="CREATED" CONTENT="20100803;10150500">
+	<META NAME="CHANGED" CONTENT="20100803;10163400">
+	<META NAME="Info 1" CONTENT="">
+	<META NAME="Info 2" CONTENT="">
+	<META NAME="Info 3" CONTENT="">
+	<META NAME="Info 4" CONTENT="">
+	<META NAME="SDENDNOTE" CONTENT="ARABIC">
+	<STYLE TYPE="text/css">
+	<!--
+		@page { margin-left: 3cm; margin-right: 3cm; margin-top: 3.5cm; margin-bottom: 2.5cm }
+		P { margin-bottom: 0.21cm; direction: ltr; color: #000000; widows: 0; orphans: 0 }
+		P.western { font-family: "Times", serif; font-size: 12pt; so-language: pt-BR; font-weight: normal }
+		P.cjk { font-family: "Times New Roman", serif; font-size: 12pt }
+		P.ctl { font-family: "Times New Roman", serif; font-size: 10pt }
+		A.sdfootnoteanc { font-size: 57% }
+	-->
+	</STYLE>
+</HEAD>
+<BODY LANG="pt-BR" TEXT="#000000" DIR="LTR">
+<P ALIGN=CENTER STYLE="margin-top: 0.42cm; margin-bottom: 0cm"><FONT SIZE=4 STYLE="font-size: 16pt"><B>Instructions
+for Authors of SBC Conferences Papers and Abstracts<A CLASS="sdfootnoteanc" NAME="sdfootnote1anc" HREF="#sdfootnote1sym" SDFIXED><SUP>*</SUP></A></B></FONT></P>
+<P ALIGN=CENTER STYLE="margin-top: 0.42cm; margin-bottom: 0cm; page-break-before: auto">
+<B>Luciana P. Nedel<SUP>1</SUP>, Rafael H. Bordini<SUP>2</SUP>,
+Fl&aacute;vio Rech Wagner<SUP>1</SUP>, Jomi F. H&uuml;bner<SUP>3</SUP></B></P>
+<P ALIGN=CENTER STYLE="margin-top: 0.42cm; margin-bottom: 0cm; page-break-before: auto">
+<SUP>1</SUP>Instituto de Inform&aacute;tica &ndash; Universidade
+Federal do Rio Grande do Sul (UFRGS)</P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0cm; page-break-before: auto">Caixa
+Postal 15.064 &ndash; 91.501-970 &ndash; Porto Alegre &ndash; RS &ndash;
+Brazil</P>
+<P ALIGN=CENTER STYLE="margin-top: 0.42cm; margin-bottom: 0cm; page-break-before: auto">
+<SUP>2</SUP>Department of Computer Science &ndash; University of
+Durham</P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0cm; page-break-before: auto">Durham,
+U.K.</P>
+<P ALIGN=CENTER STYLE="margin-top: 0.42cm; margin-bottom: 0cm; page-break-before: auto">
+<SUP>3</SUP>Departamento de Sistemas e Computa&ccedil;&atilde;o</P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0cm; page-break-before: auto">Universidade
+Regional de Blumenau (FURB) &ndash; Blumenau, SC &ndash; Brazil</P>
+<P ALIGN=CENTER STYLE="margin-top: 0.21cm; margin-bottom: 0.21cm"><FONT FACE="Courier, monospace"><FONT SIZE=2>{nedel,flavio}@inf.ufrgs.br,
+R.Bordini@durham.ac.uk, jomi@inf.furb.br</FONT></FONT></P>
+<P LANG="en-US" ALIGN=JUSTIFY STYLE="margin-left: 0.8cm; margin-right: 0.8cm; margin-top: 0.21cm; margin-bottom: 0.21cm; page-break-before: auto">
+<I><B>Abstract.</B> This meta-paper describes the style to be used in
+articles and short papers for SBC conferences. For papers in English,
+you should add just an abstract while for the papers in Portuguese,
+we also ask for an abstract in Portuguese (&ldquo;resumo&rdquo;). In
+both cases, abstracts should not have more than 10 lines and must be
+in the first page of the paper.</I></P>
+<P ALIGN=JUSTIFY STYLE="margin-left: 0.8cm; margin-right: 0.8cm; margin-top: 0.21cm; margin-bottom: 0.21cm; page-break-before: auto">
+<I><B>Resumo.</B> Este meta-artigo descreve o estilo a ser usado na
+confec&ccedil;&atilde;o de artigos e resumos de artigos para
+publica&ccedil;&atilde;o nos anais das confer&ecirc;ncias organizadas
+pela SBC. &Eacute; solicitada a escrita de resumo e abstract apenas
+para os artigos escritos em portugu&ecirc;s. Artigos em ingl&ecirc;s
+dever&atilde;o apresentar apenas abstract. Nos dois casos, o autor
+deve tomar cuidado para que o resumo (e o abstract) n&atilde;o
+ultrapassem 10 linhas cada, sendo que ambos devem estar na primeira
+p&aacute;gina do artigo.</I></P>
+<P STYLE="margin-top: 0.42cm; margin-bottom: 0cm; page-break-before: auto; page-break-after: avoid">
+<FONT SIZE=3><B>1.General Information</B></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.21cm; margin-bottom: 0cm; page-break-before: auto">
+All full papers and posters (short papers) submitted to some SBC
+conference, including any supporting documents, should be written in
+English or in Portuguese. The format paper should be A4 with single
+column, 3.5cm for upper margin, 2.5cm for bottom margin and 3.0cm for
+lateral margins, without headers or footers. The main font must be
+Times, 12 point nominal size, with 6 points of space before each
+paragraph. Page numbers must be suppressed.</P>
+<P ALIGN=JUSTIFY STYLE="text-indent: 1.25cm; margin-top: 0.21cm; margin-bottom: 0cm; page-break-before: auto">
+Full papers must respect the page limits defined by the conference.
+Conferences that publish just abstracts ask for <B>one-</B>page
+texts.</P>
+<P STYLE="margin-top: 0.42cm; margin-bottom: 0cm; page-break-before: auto; page-break-after: avoid">
+<FONT SIZE=3><B>2.First Page</B></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.21cm; margin-bottom: 0cm; page-break-before: auto">
+The first page must display the paper title, the name and address of
+the authors, the abstract in English and &ldquo;resumo&rdquo; in
+Portuguese (&ldquo;resumos&rdquo; are required only for papers
+written in Portuguese). The title must be centered over the whole
+page, in 16 point boldface font and with 12 points of space before
+itself. Author names must be centered in 12 point font, bold, all of
+them disposed in the same line, separated by commas and with 12
+points of space after the title. Addresses must be centered in 12
+point font, also with 12 points of space after the authors&rsquo;
+names. E-mail addresses should be written using font Courier New, 10
+point nominal size, with 6 points of space before and 6 points of
+space after.</P>
+<P ALIGN=JUSTIFY STYLE="text-indent: 1.25cm; margin-top: 0.21cm; margin-bottom: 0cm; page-break-before: auto">
+The abstract and &ldquo;resumo&rdquo; (if is the case) must be in 12
+point Times font, indented 0.8cm on both sides. The word <B>Abstract</B>
+and <B>Resumo</B>, should be written in boldface and must precede the
+text.</P>
+<P STYLE="margin-top: 0.42cm; margin-bottom: 0cm; page-break-before: auto; page-break-after: avoid">
+<FONT SIZE=3><B>3.CD-ROMs and Printed Proceedings</B></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.21cm; margin-bottom: 0cm; page-break-before: auto">
+In some conferences, the papers are published on CD-ROM while only
+the abstract is published in the printed Proceedings. In this case,
+authors are invited to prepare two final versions of the paper. One,
+complete, to be published on the CD and the other, containing only
+the first page, with abstract and &ldquo;resumo&rdquo; (for papers in
+Portuguese).</P>
+<P STYLE="margin-top: 0.42cm; margin-bottom: 0cm; page-break-before: auto; page-break-after: avoid">
+<FONT SIZE=3><B>4.Sections and Paragraphs</B></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.21cm; margin-bottom: 0cm; page-break-before: auto">
+Section titles must be in boldface, 13pt, flush left. There should be
+an extra 12 pt of space before each title. Section numbering is
+optional. The first paragraph of each section should not be indented,
+while the first lines of subsequent paragraphs should be indented by
+1.27cm.</P>
+<P STYLE="margin-top: 0.42cm; margin-bottom: 0cm; page-break-before: auto; page-break-after: avoid">
+<B>4.1.Subsections</B></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.21cm; margin-bottom: 0cm; page-break-before: auto">
+The subsection titles must be in boldface, 12pt, flush left.</P>
+<P STYLE="margin-top: 0.42cm; margin-bottom: 0cm; page-break-before: auto; page-break-after: avoid">
+<FONT SIZE=3><B>5.Figures and Captions</B></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.21cm; margin-bottom: 0cm; page-break-before: auto">
+Figure and table captions should be centered if less than one line
+(Figure 1), otherwise justified and indented by 0.8cm on both
+margins, as shown in Figure 2. The caption font must be Helvetica, 10
+point, boldface, with 6 points of space before and after each
+caption.</P>
+<P ALIGN=CENTER STYLE="margin-top: 0.21cm; margin-bottom: 0cm; widows: 2; orphans: 2; page-break-before: auto; page-break-after: avoid">
+<IMG SRC="template-openoffice_stw_m1f18f63d.png" NAME="Graphic1" ALIGN=BOTTOM WIDTH=325 HEIGHT=298 BORDER=0></P>
+<P ALIGN=CENTER STYLE="margin-left: 0.8cm; margin-right: 0.8cm; margin-top: 0.21cm; margin-bottom: 0.21cm; widows: 2; orphans: 2; page-break-before: auto">
+<FONT FACE="Helvetica, sans-serif"><FONT SIZE=2><B>Figure 1. A
+typical figure</B></FONT></FONT></P>
+<P ALIGN=CENTER STYLE="margin-top: 0.21cm; margin-bottom: 0cm; widows: 2; orphans: 2; page-break-before: auto; page-break-after: avoid">
+<IMG SRC="template-openoffice_stw_m488dc906.png" NAME="Graphic2" ALIGN=BOTTOM WIDTH=260 HEIGHT=292 BORDER=0></P>
+<P ALIGN=JUSTIFY STYLE="margin-left: 0.8cm; margin-right: 0.8cm; margin-top: 0.21cm; margin-bottom: 0.21cm; widows: 2; orphans: 2; page-break-before: auto">
+<FONT FACE="Helvetica, sans-serif"><FONT SIZE=2><B>Figure 2. This
+figure is an example of a figure caption taking more than one line
+and justified considering margins mentioned in Section 5.</B></FONT></FONT></P>
+<P ALIGN=JUSTIFY STYLE="text-indent: 1.25cm; margin-top: 0.21cm; margin-bottom: 0cm; page-break-before: auto">
+In tables, try to avoid the use of colored or shaded backgrounds, and
+avoid thick, doubled, or unnecessary framing lines. When reporting
+empirical data, do not use more decimal digits than warranted by
+their precision and reproducibility. Table caption must be placed
+before the table (see Table 1) and the font used must also be
+Helvetica, 10 point, boldface, with 6 points of space before and
+after each caption.</P>
+<P ALIGN=CENTER STYLE="margin-left: 0.8cm; margin-right: 0.8cm; margin-top: 0.21cm; margin-bottom: 0.21cm; widows: 2; orphans: 2; page-break-before: auto">
+<FONT FACE="Helvetica, sans-serif"><FONT SIZE=2><B>Table 1. Variables
+to be considered on the evaluation of interaction techniques</B></FONT></FONT></P>
+<P ALIGN=CENTER STYLE="margin-top: 0.21cm; margin-bottom: 0cm; widows: 2; orphans: 2; page-break-before: auto; page-break-after: avoid">
+<IMG SRC="template-openoffice_stw_4861226a.jpg" NAME="Graphic3" ALIGN=BOTTOM WIDTH=415 HEIGHT=243 BORDER=0>
+</P>
+<P STYLE="margin-top: 0.42cm; margin-bottom: 0cm; page-break-before: auto; page-break-after: avoid">
+<FONT SIZE=3><B>6.Images</B></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.21cm; margin-bottom: 0cm; page-break-before: auto">
+All images and illustrations should be in black-and-white, or gray
+tones, excepting for the papers that will be electronically available
+(on CD-ROMs, internet, etc.). The image resolution on paper should be
+about 600 dpi for black-and-white images, and 150-300 dpi for
+grayscale images.  Do not include images with excessive resolution,
+as they may take hours to print, without any visible difference in
+the result.</P>
+<P STYLE="margin-top: 0.42cm; margin-bottom: 0cm; page-break-before: auto; page-break-after: avoid">
+<FONT SIZE=3><B>7.References</B></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-top: 0.21cm; margin-bottom: 0cm; page-break-before: auto">
+Bibliographic references must be unambiguous and uniform.  We
+recommend giving the author names references in brackets, e.g. [Knuth
+1984], [Boulic and Renault 1991]; or dates in parentheses, e.g. Knuth
+(1984), Smith and Jones (1999).</P>
+<P ALIGN=JUSTIFY STYLE="text-indent: 1.25cm; margin-top: 0.21cm; margin-bottom: 0cm; page-break-before: auto">
+The references must be listed using 12 point font size, with 6 points
+of space before each reference. The first line of each reference
+should not be indented, while the subsequent should be indented by
+0.5cm.</P>
+<P STYLE="margin-top: 0.42cm; margin-bottom: 0cm; page-break-before: auto; page-break-after: avoid">
+<FONT SIZE=3 STYLE="font-size: 13pt"><B>References</B></FONT></P>
+<P ALIGN=JUSTIFY STYLE="margin-left: 0.5cm; text-indent: -0.5cm; margin-top: 0.21cm; margin-bottom: 0cm; page-break-before: auto">
+Boulic, R. and Renault, O. (1991) &ldquo;3D Hierarchies for
+Animation&rdquo;, In: New Trends in Animation and Visualization,
+Edited by Nadia Magnenat-Thalmann and Daniel Thalmann, John Wiley &amp;
+Sons ltd., England.</P>
+<P ALIGN=JUSTIFY STYLE="margin-left: 0.5cm; text-indent: -0.5cm; margin-top: 0.21cm; margin-bottom: 0cm; page-break-before: auto">
+Dyer, S., Martin, J. and Zulauf, J. (1995) &ldquo;Motion Capture
+White Paper&rdquo;,
+http://reality.sgi.com/employees/jam_sb/mocap/MoCapWP_v2.0.html,
+December.</P>
+<P ALIGN=JUSTIFY STYLE="margin-left: 0.5cm; text-indent: -0.5cm; margin-top: 0.21cm; margin-bottom: 0cm; page-break-before: auto">
+Holton, M. and Alexander, S. (1995) &ldquo;Soft Cellular Modeling: A
+Technique for the Simulation of Non-rigid Materials&rdquo;, Computer
+Graphics: Developments in Virtual Environments, R. A. Earnshaw and J.
+A. Vince, England, Academic Press Ltd., p. 449-460.</P>
+<P ALIGN=JUSTIFY STYLE="margin-left: 0.5cm; text-indent: -0.5cm; margin-top: 0.21cm; margin-bottom: 0cm; page-break-before: auto">
+Knuth, D. E. (1984), The TeXbook, Addison Wesley, 15<SUP>th</SUP>
+edition.</P>
+<P ALIGN=JUSTIFY STYLE="margin-left: 0.5cm; text-indent: -0.5cm; margin-top: 0.21cm; margin-bottom: 0cm; page-break-before: auto">
+Smith, A. and Jones, B. (1999). On the complexity of computing. In
+<I>Advances in Computer Science</I>, pages 555&ndash;566. Publishing
+Press.</P>
+<DIV ID="sdfootnote1">
+	<P STYLE="margin-left: 0.5cm; text-indent: -0.5cm; margin-top: 0.11cm; margin-bottom: 0cm; page-break-before: auto">
+	<FONT SIZE=2><A CLASS="sdfootnotesym" NAME="sdfootnote1sym" HREF="#sdfootnote1anc">*</A>Adapta&ccedil;&atilde;o
+	para OpenOffice.org 1.1 feita por Roland Teodorowitsch
+	(roland@ulbra.tche.br) em 29 mar. 2005.</FONT></P>
+</DIV>
+</BODY>
+</HTML>
