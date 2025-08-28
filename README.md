@@ -39,14 +39,32 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 - 📘 [How to Write and Publish a Scientific Paper - Barbara Gastel & Robert A. Day](https://www.amazon.com.br/How-Write-Publish-Scientific-Paper/dp/1440878846)  
   Um clássico internacional sobre redação científica, atualmente em sua 9ª edição (2022). Apresenta orientações práticas sobre todas as etapas da produção de um artigo: da escolha do periódico à revisão por pares, passando pela escrita clara, objetiva e ética. Recomendado para alunos que desejam publicar seus TCCs ou artigos em periódicos científicos, nacionais e internacionais.  
 
-###### 🛠️ Ferramentas
+-----
+
+##### 🛠️ Ferramentas
 
 - 📄 [Overleaf](https://pt.overleaf.com/)  
-  Plataforma online para edição colaborativa de documentos em **LaTeX**, muito utilizada para produção de artigos e trabalhos acadêmicos. Dispensa instalação local e facilita o versionamento e o compartilhamento de projetos.  
+  Plataforma online para edição colaborativa de documentos em **LaTeX**, muito utilizada para produção de artigos e trabalhos acadêmicos. Dispensa instalação local e facilita o versionamento e o compartilhamento de projetos.
 
 - ✍️ [LaTeX Project](https://www.latex-project.org/)  
   Página oficial do **LaTeX**, sistema de preparação de documentos acadêmicos e científicos.  
   Ideal para quem deseja instalar o LaTeX localmente e explorar recursos avançados de tipografia e formatação.
+
+-----
+
+##### 📑 Templates
+
+- 🏫 [Biblioteca da PUC Minas](https://www.pucminas.br/biblioteca/Paginas/documentos.aspx)  
+  Modelos oficiais da **PUC Minas** para trabalhos acadêmicos e monografias.
+
+- 📄 [Overleaf Templates](https://www.overleaf.com/latex/templates)  
+  Galeria de modelos prontos em **LaTeX**, abrangendo artigos, TCCs, relatórios e muito mais.
+
+- 💻 [Templates da SBC](https://www.sbc.org.br/documentosinstitucionais/#publicacoes)  
+  Repositório oficial da **Sociedade Brasileira de Computação (SBC)** com orientações e documentos para publicação de artigos.
+
+- 📦 [Download direto dos modelos da SBC](https://www.sbc.org.br/wp-content/uploads/2024/07/modelosparapublicaodeartigos.zip)  
+  Arquivos compactados com os modelos da SBC em **LaTeX** e **Word**, prontos para edição.
 
 -----
 
