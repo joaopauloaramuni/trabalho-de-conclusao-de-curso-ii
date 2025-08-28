@@ -63,8 +63,8 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 - 💻 [Templates da SBC](https://www.sbc.org.br/documentosinstitucionais/#publicacoes)  
   Repositório oficial da **Sociedade Brasileira de Computação (SBC)** com orientações e documentos para publicação de artigos.
 
-- 📦 [Download direto dos modelos da SBC](https://www.sbc.org.br/wp-content/uploads/2024/07/modelosparapublicaodeartigos.zip)  
-  Arquivos compactados com os modelos da SBC em **LaTeX** e **Word**, prontos para edição.
+  - 📦 [Download direto dos modelos da SBC](https://www.sbc.org.br/wp-content/uploads/2024/07/modelosparapublicaodeartigos.zip)  
+    Arquivos compactados com os modelos da SBC em **LaTeX** e **Word**, prontos para edição.
 
 -----
 
