@@ -6,7 +6,7 @@
 
 # Repo Trabalho de Conclusão de Curso II
 
-![GitHub repo size](https://img.shields.io/github/repo-size/joaopauloaramuni/trabalho-de-conclusao-de-curso-ii/?style=for-the-badge) ![GitHub stars](https://img.shields.io/github/stars/joaopauloaramuni/trabalho-de-conclusao-de-curso-ii/?style=for-the-badge) ![GitHub language count](https://img.shields.io/github/languages/count/joaopauloaramuni/trabalho-de-conclusao-de-curso-ii/?style=for-the-badge) ![GitHub last commit](https://img.shields.io/github/last-commit/joaopauloaramuni/trabalho-de-conclusao-de-curso-ii/?style=for-the-badge&color=007ec6) ![GitHub license](https://img.shields.io/github/license/joaopauloaramuni/trabalho-de-conclusao-de-curso-ii/?style=for-the-badge&color=007ec6)  
+![GitHub repo size](https://img.shields.io/github/repo-size/joaopauloaramuni/trabalho-de-conclusao-de-curso-ii?style=for-the-badge) ![GitHub stars](https://img.shields.io/github/stars/joaopauloaramuni/trabalho-de-conclusao-de-curso-ii?style=for-the-badge) ![GitHub language count](https://img.shields.io/github/languages/count/joaopauloaramuni/trabalho-de-conclusao-de-curso-ii?style=for-the-badge) ![GitHub last commit](https://img.shields.io/github/last-commit/joaopauloaramuni/trabalho-de-conclusao-de-curso-ii?style=for-the-badge&color=007ec6) ![GitHub license](https://img.shields.io/github/license/joaopauloaramuni/trabalho-de-conclusao-de-curso-ii?style=for-the-badge&color=007ec6)  
 
 Disciplina do curso de Engenharia de Software da PUC Minas
 
