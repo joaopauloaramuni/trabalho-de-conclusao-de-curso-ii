@@ -33,9 +33,13 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 - 📕 [Como se faz uma tese - Umberto Eco](https://www.amazon.com.br/Como-se-faz-uma-tese/dp/852731200X)  
   Um guia clássico e acessível que ensina, passo a passo, como planejar, escrever e organizar uma tese, desde a escolha do tema até a redação final, com dicas práticas e reflexões sobre o processo acadêmico. Recomendado especialmente para estudantes que optaram por desenvolver seu TCC na forma de artigo científico.  
 
-- 📘 [How to Write and Publish a Scientific Paper - Barbara Gastel & Robert a Day](https://www.amazon.com.br/How-Write-Publish-Scientific-Paper/dp/1440878846)  
+- 📘 [How to Write and Publish a Scientific Paper - Barbara Gastel & Robert A. Day](https://www.amazon.com.br/How-Write-Publish-Scientific-Paper/dp/1440878846)  
   Um clássico internacional sobre redação científica, atualmente em sua 9ª edição (2022).  
-  Apresenta orientações práticas sobre todas as etapas da produção de um artigo: da escolha do periódico à revisão por pares, passando pela escrita clara, objetiva e ética. Recomendado para alunos que desejam publicar seus TCCs ou artigos em periódicos científicos, nacionais e internacionais.  
+  Apresenta orientações práticas sobre todas as etapas da produção de um artigo: da escolha do periódico à revisão por pares, passando pela escrita clara, objetiva e ética. Recomendado para alunos que desejam publicar seus TCCs ou artigos em periódicos científicos, nacionais e internacionais.
+
+- 📙 [Como Elaborar Projetos de Pesquisa – Antonio Carlos Gil](https://www.amazon.com.br/Elaborar-Projetos-Pesquisa-Antonio-Carlos/dp/6559771636)  
+  Um dos manuais de metodologia científica mais utilizados no Brasil, atualmente em sua 7ª edição (2022).  
+  Explica, de forma clara e acessível, os elementos essenciais para a elaboração de projetos de pesquisa, abordando diferentes métodos (bibliográfica, documental, estudo de caso, etnográfica, pesquisa-ação, métodos mistos, entre outros). Traz exemplos práticos e orientações sobre organização, fundamentação teórica e planejamento. Recomendado para estudantes de graduação e pós-graduação que precisam estruturar seu projeto de TCC, dissertação ou tese.  
 
 ###### 🛠️ Ferramentas
 
