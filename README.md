@@ -54,10 +54,10 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 
 ##### 📑 Templates
 
-- 🏫 [Biblioteca da PUC Minas](https://www.pucminas.br/biblioteca/Paginas/documentos.aspx)  
+- 🏫 [Templates da Biblioteca da PUC Minas](https://www.pucminas.br/biblioteca/Paginas/documentos.aspx)  
   Modelos oficiais da **PUC Minas** para trabalhos acadêmicos e monografias.
 
-- 📄 [Overleaf Templates](https://www.overleaf.com/latex/templates)  
+- 📄 [Templates do LaTeX no Overleaf](https://www.overleaf.com/latex/templates)  
   Galeria de modelos prontos em **LaTeX**, abrangendo artigos, TCCs, relatórios e muito mais.
 
 - 💻 [Templates da SBC](https://www.sbc.org.br/documentosinstitucionais/#publicacoes)  
