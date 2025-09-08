@@ -273,7 +273,7 @@ date-released: 2025-06-19
 - [PPLES ES 2025-2 TCCII - Igor Pinheiro dos Santos e Vinícius Gonzaga Guilherme](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2025-1-tcci-0393100-dev-igor-pinheiro-e-vinicius-gonzaga)
 - [PPLES ES 2025-2 TCCII - Pedro Lucas Aires dos Santos](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2025-1-tcci-0393100-dev-pedro-lucas-santos)
 - [PPLES ES 2025-2 TCCII - Tito Li An Chen](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2025-1-tcci-0393100-dev-tito-chen)
-- [PPLES ES 2025-2 TCCI e TCCII - Lucas Araújo Borges de Lima e Luis Gustavo Vaz]()
+- [PPLES ES 2025-2 TCCI e TCCII - Lucas Araújo Borges de Lima e Luis Gustavo Vaz](https://github.com/Rastrian/buscars-tcc-template)
 
 #### 📅 1°Sem 2025:
 - [PPLES ES 2025-1 TCCII - Guilherme Santos](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2024-2-tcci-0393100-dev-guilherme-santos)
