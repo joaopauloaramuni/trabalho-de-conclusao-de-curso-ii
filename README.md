@@ -6,6 +6,10 @@
 
 # Repo Trabalho de Conclusão de Curso II
 
+![LaTeX](https://img.shields.io/badge/LaTeX-007ec6?style=for-the-badge&logo=latex&logoColor=white)
+![Overleaf](https://img.shields.io/badge/Overleaf-007ec6?style=for-the-badge&logo=overleaf&logoColor=white)
+
+
 ![GitHub repo size](https://img.shields.io/github/repo-size/joaopauloaramuni/trabalho-de-conclusao-de-curso-ii?style=for-the-badge&logo=files) ![GitHub directory file count](https://img.shields.io/github/directory-file-count/joaopauloaramuni/trabalho-de-conclusao-de-curso-ii?style=for-the-badge&logo=files) ![GitHub stars](https://img.shields.io/github/stars/joaopauloaramuni/trabalho-de-conclusao-de-curso-ii?style=for-the-badge&logo=github) ![GitHub forks](https://img.shields.io/github/forks/joaopauloaramuni/trabalho-de-conclusao-de-curso-ii?style=for-the-badge&logo=git) ![GitHub language count](https://img.shields.io/github/languages/count/joaopauloaramuni/trabalho-de-conclusao-de-curso-ii?style=for-the-badge&logo=python) ![GitHub license](https://img.shields.io/github/license/joaopauloaramuni/trabalho-de-conclusao-de-curso-ii?style=for-the-badge&color=007ec6&logo=opensourceinitiative) ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/joaopauloaramuni/trabalho-de-conclusao-de-curso-ii?style=for-the-badge&color=007ec6&logo=gitkraken) ![GitHub last commit](https://img.shields.io/github/last-commit/joaopauloaramuni/trabalho-de-conclusao-de-curso-ii?style=for-the-badge&logo=clockify) ![Views Counter](https://views-counter.vercel.app/badge?pageId=https%3A%2F%2Fgithub%2Ecom%2Fjoaopauloaramuni%2Ftrabalho-de-conclusao-de-curso-ii&leftColor=555555&rightColor=007ec6&type=total&label=RepoViews)  
 
 Disciplina do curso de Engenharia de Software da PUC Minas
