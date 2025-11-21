@@ -269,13 +269,13 @@ date-released: 2025-06-19
 
 <table>
   <tr>
-    <td rowspan="2" align="center">Ativ.</td>
-    <td rowspan="2" align="center">Data da entrega</td>
-    <td colspan="2" align="center">Artefato a ser entregue</td>
+    <td rowspan="2" align="center"><b>Ativ.</b></td>
+    <td rowspan="2" align="center"><b>Data da entrega</b></td>
+    <td colspan="2" align="center"><b>Artefato a ser entregue</b></td>
   </tr>
   <tr>
-    <td align="center">Pesquisa</td>
-    <td align="center">Desenvolvimento</td>
+    <td align="center"><b>Pesquisa</b></td>
+    <td align="center"><b>Desenvolvimento</b></td>
   </tr>
   <tr>
     <td align="center">A1</td>
