@@ -41,7 +41,7 @@ Disciplina do curso de Engenharia de Software da PUC Minas
   - [Organização no GitHub](#-organização-no-github)
   - [Tendências e pesquisas](#-tendências-e-pesquisas)
 - [README de projeto](#-readme-de-projeto)
-- [Arquivo CITATION.cff](#-arquivo-citation-.-cff)
+- [Arquivo CITATION.cff](#-arquivo-citation-cff)
 
 -----
 
