@@ -707,6 +707,12 @@ O pacote de replicação deste trabalho encontra-se disponível em:
 
 5. TAVARES, C. S.; BRITO, A. N.; CARDOSO, L. V; ARAMUNI, J. P. C.. Participação em pré-banca de Breno Rosa Almeida e Matheus Brandão Freire.Gestão de Estoque - Distribuidora LC. 2024. Projeto de TCC I. Trabalho de Conclusão de Curso (Graduação em Engenharia de Software) - Pontifícia Universidade Católica de Minas Gerais.
 
+6. TAVARES, C. S.; MAIA FILHO, D. Q.; CARDOSO, L. V.; COSTA, R. R. D.; ARAMUNI, J. P. C.. Participação em pré-banca de Matheus Pereira de Carvalho Silva. Sistema de Gerenciamento de Inadimplentes. 2025. Projeto de TCC I. Trabalho de Conclusão de Curso (Graduação em Engenharia de Software) – Pontifícia Universidade Católica de Minas Gerais.
+
+7. TAVARES, C. S.; MAIA FILHO, D. Q.; CARDOSO, L. V.; COSTA, R. R. D.; ARAMUNI, J. P. C.. Participação em pré-banca de João Vítor Rajão e Souza. DashVendas. 2025. Projeto de TCC I. Trabalho de Conclusão de Curso (Graduação em Engenharia de Software) – Pontifícia Universidade Católica de Minas Gerais.
+
+8. TAVARES, C. S.; MAIA FILHO, D. Q.; CARDOSO, L. V.; COSTA, R. R. D.; ARAMUNI, J. P. C.. Participação em pré-banca de Bernardo Cavanellas Biondini. Gabinete Virtual. 2025. Projeto de TCC I. Trabalho de Conclusão de Curso (Graduação em Engenharia de Software) – Pontifícia Universidade Católica de Minas Gerais.
+
 -----
 
 <div align="center">
