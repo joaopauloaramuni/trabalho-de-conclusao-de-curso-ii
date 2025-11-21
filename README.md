@@ -143,7 +143,7 @@ Esta resolução define o processo de avaliação, estabelece o cronograma e as 
 
 ##### ⏰ Agendamento de orientação
 
-###### 🗓️ Confira a disponibilidade de agenda no meu Calendly
+###### 📅 Confira a disponibilidade de agenda no meu Calendly
 
 - [https://calendly.com/aramuni](https://calendly.com/aramuni)  
   - Utilize este link para agendar sua orientação de forma prática. O Calendly permite visualizar meus horários disponíveis e escolher o que for mais conveniente para você.
