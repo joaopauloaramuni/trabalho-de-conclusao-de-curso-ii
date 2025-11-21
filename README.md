@@ -339,7 +339,7 @@ date-released: 2025-06-19
  
 5. Para maiores informações e detalhes, é essencial que vocês releiam a [Resolução de TCC 2](https://github.com/joaopauloaramuni/trabalho-de-conclusao-de-curso-ii/tree/main/RESOLUC%CC%A7A%CC%83O). A essa altura, conhecer os detalhes dos próximos passos pode ajudá-los a se prepararem melhor.
  
-#### 🔬 Orientações para Trabalhos de Pesquisa:
+#### 🔬 Orientações para Trabalhos de Pesquisa
 
 6. Por favor, incluam ao final do texto de vocês a seguinte seção (comum a todos os trabalhos):
 
@@ -357,15 +357,17 @@ O pacote de replicação deste trabalho encontra-se disponível em:
 %===================================================================================
 ```
 
-#### 💻 Orientações para Trabalhos de Desenvolvimento:
+#### 💻 Orientações para Trabalhos de Desenvolvimento
 
 7. O post-mortem, especificado para entrega A5 (Tabela 3 da Resolução de TCC 2), deve ser adicionado como seção final do Documento de Projeto. Ou seja, atualizem o Documento de Projeto para incluir uma última seção, intitulada "Post-mortem", onde vocês devem discutir quatro subseções: (i) Experiências Positivas; (ii) Experiências Negativas; (iii) Lições Aprendidas; (iv) Repositório do Trabalho. Nesta última sub-seção, recomenda-se que seja adicionado o link do repositório GitHub onde se encontra o código fonte produzido. 
  
 8. É importante destacar que o post-mortem deve tratar das suas experiências relativas ao processo de desenvolvimento do software entregue. Ou seja, não se deve tratar sobre aspectos relativos à disciplina, ao curso, ao processo de orientação ou demais detalhes acadêmicos/institucionais. 
  
 9. Uma vez que este documento será publicado na biblioteca da PUC Minas, é importante manter a linguagem formal, respeitando as Orientações de Escrita Acadêmica. Peçam que os professores-orientadores realizem uma revisão do conteúdo dessa seção antes do envio da Atividade A5.
- 
-10. Após a entrega da Atividade A5, cujo prazo é 23/11/2025 até às 23h59, não serão permitidos novos commits no repositório, nem alterações no Documento de Projeto ou no Artigo de Pesquisa. A partir dessa data, você deverá trabalhar exclusivamente nos slides da apresentação para a banca examinadora.
+
+#### 🚫 Orientações Pós-Entrega A5
+
+10. Após a entrega da Atividade A5, cujo prazo é 23/11/2025 até às 23h59, **não serão permitidos** novos commits no repositório, nem alterações no Documento de Projeto ou no Artigo de Pesquisa. A partir dessa data, você deverá trabalhar exclusivamente nos slides da apresentação para a banca examinadora.
 
 #### 📬 Contato
 
