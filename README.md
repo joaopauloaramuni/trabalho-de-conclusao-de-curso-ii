@@ -155,24 +155,24 @@ Esta resolução define o processo de avaliação, estabelece o cronograma e as 
 
 -----
 
-##### :octocat: Organização no GitHub:
+##### Organização no GitHub
 As organizações abaixo incluem Trabalhos Interdisciplinares (TIs) e Trabalhos de Conclusão de Curso (TCCs) desenvolvidos pelos alunos do Curso de Engenharia de Software, da Pontifícia Universidade Católica de Minas Gerais.
 Os melhores TIs encontram-se publicamente disponíveis na [Revista SPRINTI](https://sprinti.pucminas.br) e os TCCs estão disponíveis no [catálogo](https://github.com/ICEI-PUC-Minas-PPLES-TI/TCC-ES-Catalogue) do curso.
 
 - [Organização no GitHub - ICEI PUC Minas PMGES TI - Campus Coração Eucarístico](https://github.com/ICEI-PUC-Minas-PMGES-TI)
 - [Organização no GitHub - ICEI PUC Minas PPLES TI - Campus Lourdes](https://github.com/ICEI-PUC-Minas-PPLES-TI)
 
-##### Templates genéricos de TIs:
+##### Templates genéricos de TIs
 Template de repositório contendo a estrutura geral a ser usada nos trabalhos interdisciplinares (TI) do curso de Engenharia de Software da PUC Minas.
 
 - https://github.com/ICEI-PUC-Minas-PMGES-TI/TI-ES-GenericTemplate
 - https://github.com/ICEI-PUC-Minas-PPLES-TI/TI-ES-GenericTemplate
 
-##### Catálogo dos Trabalhos de Conclusão de Curso do Bacharelado em Engenharia de Software:
+##### Catálogo dos Trabalhos de Conclusão de Curso do Bacharelado em Engenharia de Software
 
 - https://github.com/ICEI-PUC-Minas-PPLES-TI/TCC-ES-Catalogue
 
-##### Revista SPRINTI do curso de Engenharia de Software da PUC Minas:
+##### Revista SPRINTI do curso de Engenharia de Software da PUC Minas
 
 - https://sprinti.pucminas.br/
 
