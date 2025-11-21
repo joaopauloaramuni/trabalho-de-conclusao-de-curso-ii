@@ -23,6 +23,28 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 - [Templates](https://github.com/joaopauloaramuni/trabalho-de-conclusao-de-curso-ii/tree/main/TEMPLATES)
 - [Tutoriais](https://github.com/joaopauloaramuni/trabalho-de-conclusao-de-curso-ii/tree/main/TUTORIAIS)
 
+### 📚 Índice
+- [Links Úteis](#links-úteis)
+  - [Calendário Acadêmico](#calendário-acadêmico)
+  - [Referências gerais](#-referências-gerais)
+     - [Leituras recomendadas](#-leituras-recomendadas)
+  - [Ferramentas](#-ferramentas)
+  - [Templates](#-templates)
+  - [Repositório de Produção Acadêmica da PUC Minas, Biblioteca](#-repositório-de-produção-acadêmica-da-puc-minas-biblioteca)
+     - [Acervo da Biblioteca](#-acervo-da-biblioteca)
+     - [Orientações para elaboração de trabalhos científicos e guias de postagem](#-orientações-para-elaboração-de-trabalhos-científicos-e-guias-de-postagem)
+     - [Orientações para postagem do TCC no Acervo da Biblioteca](#-orientações-para-postagem-do-tcc-no-acervo-da-biblioteca)
+  - [Resolução de TCCII](#-resolução-de-tccii)
+  - [Agendamento de orientação](#-agendamento-de-orientação)
+     - [Confira a disponibilidade de agenda no meu Calendly](#-confira-a-disponibilidade-de-agenda-no-meu-calendly)
+     - [Sala fixa de reunião no Microsoft Teams](#-sala-fixa-de-reunião-no-microsoft-teams)
+  - [Organização no GitHub](#-organização-no-github)
+  - [Tendências e pesquisas](#-tendências-e-pesquisas)
+- [README de projeto](#-readme-de-projeto)
+- [Arquivo CITATION.cff](#-arquivo-citation-cff)
+
+-----
+
 #### Links úteis:
 
 ##### Calendário Acadêmico
@@ -70,7 +92,7 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 
 -----
 
-##### 📚 Repositório de Produção Acadêmica da PUC Minas - Biblioteca
+##### 📚 Repositório de Produção Acadêmica da PUC Minas, Biblioteca
 
 ###### 🌐 Acervo da Biblioteca
 - [Site da Biblioteca](https://www.pucminas.br/biblioteca/Paginas/default.aspx)
@@ -160,15 +182,15 @@ Relatórios anuais e pesquisas globais ajudam a entender as principais linguagen
 
 -----
 
-### 📄 README de projeto:
+#### 📄 README de projeto:
 
 Esta seção reúne um **template** construído por mim e **exemplos** reais de READMEs para ajudar você a estruturar, documentar e apresentar seus projetos de forma clara, organizada e profissional.
 
-#### 📕 Template de README de projeto:
+##### 📕 Template de README de projeto:
 
 - :octocat: [Template de README](https://github.com/joaopauloaramuni/laboratorio-de-desenvolvimento-de-software/blob/main/TEMPLATES/template_README.md)
 
-#### 📘 Exemplos de README de projeto:
+##### 📘 Exemplos de README de projeto:
 
 - 🌐 [Tuscan](https://github.com/Berohlfs/BachelorsThesisSoftwareEngineering)
   - :octocat: [GitHub Bernardo Rohlfs](https://github.com/Berohlfs)
@@ -180,9 +202,9 @@ Esta seção reúne um **template** construído por mim e **exemplos** reais de 
 
 -----
 
-### 🔖 Arquivo CITATION.cff:
+#### 🔖 Arquivo CITATION.cff:
 
-#### 📌 Importância do arquivo CITATION.cff nos repositórios dos trabalhos interdisciplinares
+##### 📌 Importância do arquivo CITATION.cff nos repositórios dos trabalhos interdisciplinares
 
 O arquivo `CITATION.cff` é um arquivo de metadados em formato `YAML` criado para padronizar a forma como softwares e projetos científicos devem ser citados. Ele é reconhecido por plataformas como o GitHub, que exibe automaticamente um botão de "Citar este repositório" quando o arquivo está presente e corretamente preenchido.  
 
@@ -201,7 +223,7 @@ No contexto do nosso curso de Engenharia de Software na PUC Minas, o `CITATION.c
 
 5. 🔍 Indexação e rastreabilidade institucional dos projetos para fins de avaliação, relatórios e participação em editais e eventos.
 
-#### ✅ Como preencher corretamente os campos
+##### ✅ Como preencher corretamente os campos
 
 | Campo            | Explicação resumida                                                                                                                                                        |
 |------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -215,14 +237,14 @@ No contexto do nosso curso de Engenharia de Software na PUC Minas, o `CITATION.c
 | `version`        | Versão do software — use 1.0.0 se for a entrega final.                                                                                                                     |
 | `date-released`  | Data de liberação da versão. Deve ser preenchida com a data de término do semestre acadêmico. Use o formato AAAA-MM-DD.                                                    |
 
-##### ⚠️ Importante:
+###### ⚠️ Importante:
 
 - Preencha os nomes e sobrenomes completo dos autores sem abreviações  
 - Atualize os nomes dos autores caso tenha saído alguém do grupo de trabalho Interdisciplinar  
 - Não use siglas ou nomes genéricos no campo title.  
 - ❌ Não deixe o campo date-released em branco e use somente o formato AAAA-MM-DD.
 
-##### 📝 Exemplo de preenchimento do arquivo **CITATION.cff**:
+###### 📝 Exemplo de preenchimento do arquivo **CITATION.cff**:
 
 <details>
   <summary>Clique para exibir</summary>
@@ -265,7 +287,7 @@ date-released: 2025-06-19
 
 -----
 
-### 📅 Cronograma
+#### 📅 Cronograma
 
 <table>
   <tr>
@@ -327,7 +349,7 @@ date-released: 2025-06-19
 
 -----
 
-### 🧭 Orientações Pré-Bancas de TCC 2
+#### 🧭 Orientações Pré-Bancas de TCC 2
 
 1. A entrega da Atividade A5 representa o envio final do trabalho. Portanto, trabalhem para que o texto esteja completo, coerente, coeso e pronto para ser avaliado pela banca examinadora. Observem as orientações de escrita e os exemplos de TCCs defendidos nos semestres passados para que garantam a qualidade final do trabalho de vocês. Ademais, é essencial que vocês revisem o texto com bastante calma e apliquem as correções propostas pelos seus professores-orientadores.
  
@@ -339,7 +361,7 @@ date-released: 2025-06-19
  
 5. Para maiores informações e detalhes, é essencial que vocês releiam a [Resolução de TCC 2](https://github.com/joaopauloaramuni/trabalho-de-conclusao-de-curso-ii/tree/main/RESOLUC%CC%A7A%CC%83O). A essa altura, conhecer os detalhes dos próximos passos pode ajudá-los a se prepararem melhor.
  
-#### 🔬 Orientações para Trabalhos de Pesquisa
+##### 🔬 Orientações para Trabalhos de Pesquisa
 
 6. Por favor, incluam ao final do texto de vocês a seguinte seção (comum a todos os trabalhos):
 
@@ -357,7 +379,7 @@ O pacote de replicação deste trabalho encontra-se disponível em:
 %===================================================================================
 ```
 
-#### 💻 Orientações para Trabalhos de Desenvolvimento
+##### 💻 Orientações para Trabalhos de Desenvolvimento
 
 7. O post-mortem, especificado para entrega A5 (Tabela 3 da Resolução de TCC 2), deve ser adicionado como seção final do Documento de Projeto. Ou seja, atualizem o Documento de Projeto para incluir uma última seção, intitulada "Post-mortem", onde vocês devem discutir quatro subseções: (i) Experiências Positivas; (ii) Experiências Negativas; (iii) Lições Aprendidas; (iv) Repositório do Trabalho. Nesta última sub-seção, recomenda-se que seja adicionado o link do repositório GitHub onde se encontra o código fonte produzido. 
  
@@ -365,34 +387,34 @@ O pacote de replicação deste trabalho encontra-se disponível em:
  
 9. Uma vez que este documento será publicado na biblioteca da PUC Minas, é importante manter a linguagem formal, respeitando as Orientações de Escrita Acadêmica. Peçam que os professores-orientadores realizem uma revisão do conteúdo dessa seção antes do envio da Atividade A5.
 
-#### 🚫 Orientações Pós-Entrega A5
+##### 🚫 Orientações Pós-Entrega A5
 
 10. Após a entrega da Atividade A5, cujo prazo é 23/11/2025 até às 23h59, **não serão permitidos** novos commits no repositório, nem alterações no Documento de Projeto ou no Artigo de Pesquisa. A partir dessa data, você deverá trabalhar exclusivamente nos slides da apresentação para a banca examinadora.
 
-#### 📬 Contato
+##### 📬 Contato
 
 - **Professor Cleiton:** 📧 cleitontavares@pucminas.br  
 - **Professor Aramuni:** ✉️ joaoaramuni@pucminas.br
 
 -----
 
-### 🧑‍🏫 Trabalhos orientados:
+#### 🧑‍🏫 Trabalhos orientados:
 
-#### 📅 2°Sem 2025:
+##### 📅 2°Sem 2025:
 - [PPLES ES 2025-2 TCCII - Carlos Roberto Alves de Almeida Júnior e Matheus Augusto Avelar de Souza](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2025-1-tcci-0393100-dev-carlos-junior-e-matheus-souza)
 - [PPLES ES 2025-2 TCCII - Igor Pinheiro dos Santos e Vinícius Gonzaga Guilherme](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2025-1-tcci-0393100-dev-igor-pinheiro-e-vinicius-gonzaga)
 - [PPLES ES 2025-2 TCCII - Pedro Lucas Aires dos Santos](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2025-1-tcci-0393100-dev-pedro-lucas-santos)
 - [PPLES ES 2025-2 TCCII - Tito Li An Chen](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2025-1-tcci-0393100-dev-tito-chen)
 - [PPLES ES 2025-2 TCCI e TCCII - Lucas Araújo Borges de Lima e Luis Gustavo Vaz](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2025-2-tcci-0393100-dev-buscars)
 
-#### 📅 1°Sem 2025:
+##### 📅 1°Sem 2025:
 - [PPLES ES 2025-1 TCCII - Guilherme Santos](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2024-2-tcci-0393100-dev-guilherme-santos)
 - [PPLES ES 2025-1 TCCII - Bernardo Rohlfs e Eric Jardim](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2024-2-tcci-0393100-dev-bernardo-rohlfs-e-eric-jardim)
 - [PPLES ES 2025-1 TCCII - Breno Rosa e Matheus Brandão](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2024-2-tcci-0393100-dev-breno-rosa-e-matheus-brandao)
 - [PPLES ES 2025-1 TCCII - Pedro Rodrigues](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2024-1-tcci-0393100-dev-pedro-rodrigues)
 - [PPLES ES 2025-1 TCCII - Lucas Araújo Borges de Lima e Luis Gustavo Vaz](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2024-1-tcci-0393100-dev-lucas-lima-e-luis-gustavo)
 
-##### ☁️ Hospedagens na nuvem, apresentações, vídeos e documentos:
+###### ☁️ Hospedagens na nuvem, apresentações, vídeos e documentos:
 - TCCII - Apptite - [Guilherme Santos](https://github.com/guilhermerfs00) :octocat:
   - 🌐 [Apptite - Home - Acesso Admin e Garçom](https://apptite-front-c86d00a35e08.herokuapp.com/login)
   - 🌐 [Apptite - Home - Acesso Cliente](https://apptite-front-c86d00a35e08.herokuapp.com/cadastro-cliente/1)
@@ -426,28 +448,28 @@ O pacote de replicação deste trabalho encontra-se disponível em:
 
 -----
 
-### 🧑‍🏫 Produção Acadêmica e Currículo
+#### 🧑‍🏫 Produção Acadêmica e Currículo
 
-#### 🎓 Como orientador
+##### 🎓 Como orientador
 - Atualmente orienta trabalhos de conclusão de curso em Ciência da Computação e Engenharia de Software, já tendo acompanhado mais de 40 TCCs e participado de mais de 50 bancas examinadoras.
 - Foi membro do grupo de pesquisa [LAIS (Laboratório de Sistemas de Informação Avançados)](https://www.linkedin.com/company/laisfumec/) da Universidade FUMEC, publicando artigos em periódicos nacionais e internacionais em parceria com pesquisadores do [Programa de Pós-Graduação em Sistemas de Informação e Gestão do Conhecimento](https://www.fumec.br/pos-graduacao-em-tecnologia-da-informacao-e-comunicacao-e-gestao-do-conhecimento/).
   - O LAIS é um laboratório de pesquisa e desenvolvimento de soluções baseadas em tecnologia, gestão e engenharia do conhecimento e de sistemas de informação. Entre suas competências, destacam-se o desenvolvimento de sistemas de apoio a decisão, inteligência analítica, gestão de dados na Web e gestão de processos. O laboratório reúne doutores em engenharia ou computação com experiência na elaboração e execução de projetos de P&D. Sua equipe possui membros capacitados em análise estatística, banco de dados, engenharia de software e sistemas inteligentes.
 
-#### 📚 Google Scholar  
+##### 📚 Google Scholar  
 - Acompanhe minhas publicações, citações e métricas de impacto científico no meu perfil do [Google Scholar](https://scholar.google.com.br/citations?user=OARYxSYAAAAJ&hl=pt-BR&oi=ao).
 - Ideal para visualizar a relevância e evolução da minha produção acadêmica ao longo do tempo.  
 
-#### 📝 Currículo Lattes  
+##### 📝 Currículo Lattes  
 - Acesse meu [Currículo Lattes](http://lattes.cnpq.br/1208427665892059).
 - Reúne minha formação, experiência profissional, projetos de pesquisa, orientações e produções acadêmicas registradas oficialmente no CNPq.  
 
-#### 🆔 ORCID
+##### 🆔 ORCID
 - Acesse meu [ORCID](https://orcid.org/0000-0001-7538-5927).
 - Plataforma que fornece um identificador único para pesquisadores, permitindo associar de forma precisa suas contribuições acadêmicas e profissionais.
 
 -----
 
-### 🎓 Histórico de orientações e participações em bancas examinadoras:
+#### 🎓 Histórico de orientações e participações em bancas examinadoras:
 
 **Orientações e supervisões em andamento**
 
@@ -569,79 +591,81 @@ O pacote de replicação deste trabalho encontra-se disponível em:
 
 11. ANDRADE, M. H. S.; ARAMUNI, J. P. C.; SILVA, A. C. B.. Participação em banca de Marco Tullio Oliviera e Pedro Márcio Oliveira Silveira.Análise do Impacto dos Large Language Models na Qualidade de Código Java. 2025. Trabalho de Conclusão de Curso (Graduação em Engenharia de Software) - Pontifícia Universidade Católica de Minas Gerais.
 
-12. NOBRE, C. N.; JESUS, A. C. C.; ARAMUNI, J. P. C.. Participação em banca de Gabriel Alves Costa Nardy.Tecnologias Persuasivas para o Cuidado de Crianças e Adolescentes com TDAH: Engajando Pais e Filhos em um Aplicativo de Suporte e Acompanhamento. 2024. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Pontifícia Universidade Católica de Minas Gerais.
+12. OLIVEIRA, G. M.; DIAS, C. S.; COSTA, C. M. B.; ARAMUNI, J. P. C.. Participação em banca de Alice Kelly Silva Dias et al..Usabilidade e Viabilidade de um Aplicativo de Exercícios Terapêuticos para Smartphone Voltado para Idosos com Diferentes Condições de Saúde e Incapacidade Funcional. 2025. Trabalho de Conclusão de Curso (Graduação em Fisioterapia) - Pontifícia Universidade Católica de Minas Gerais.
 
-13. NOBRE, C. N.; JESUS, A. C. C.; ARAMUNI, J. P. C.. Participação em banca de Ludmila B. S. Nascimento.Codificação dos Atributos e sua Relação com a Interpretabilidade dos Modelos de Aprendizado de Máquina - Uma Análise em Base de Dados da Saúde Mental. 2024. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Pontifícia Universidade Católica de Minas Gerais.
+13. NOBRE, C. N.; JESUS, A. C. C.; ARAMUNI, J. P. C.. Participação em banca de Gabriel Alves Costa Nardy.Tecnologias Persuasivas para o Cuidado de Crianças e Adolescentes com TDAH: Engajando Pais e Filhos em um Aplicativo de Suporte e Acompanhamento. 2024. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Pontifícia Universidade Católica de Minas Gerais.
 
-14. NOBRE, C. N.; JESUS, A. C. C.; ARAMUNI, J. P. C.. Participação em banca de Julia Gontijo Lopes.Análise sobre a distribuição espacial dos dados para garantia de plausabilidade na geração de explicações contrafactuais em problemas de classificação. 2024. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Pontifícia Universidade Católica de Minas Gerais.
+14. NOBRE, C. N.; JESUS, A. C. C.; ARAMUNI, J. P. C.. Participação em banca de Ludmila B. S. Nascimento.Codificação dos Atributos e sua Relação com a Interpretabilidade dos Modelos de Aprendizado de Máquina - Uma Análise em Base de Dados da Saúde Mental. 2024. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Pontifícia Universidade Católica de Minas Gerais.
 
-15. TAVARES, C. S.; SEUFITELLI, D. B.; BATISTELI, J. P. O.; COSTA, M. R.; ARAMUNI, J. P. C.. Participação em banca de Belle Nerissa Aguiar Elizeu e Rafael Duarte Pereira.Smart Trainer - Sistema de gestão para Personal Trainers. 2024. Trabalho de Conclusão de Curso (Graduação em Engenharia de Software) - Pontifícia Universidade Católica de Minas Gerais.
+15. NOBRE, C. N.; JESUS, A. C. C.; ARAMUNI, J. P. C.. Participação em banca de Julia Gontijo Lopes.Análise sobre a distribuição espacial dos dados para garantia de plausabilidade na geração de explicações contrafactuais em problemas de classificação. 2024. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Pontifícia Universidade Católica de Minas Gerais.
 
-16. OLIVEIRA, J. A.; SEUFITELLI, D. B.; PADILHA, J.; TAVARES, C. S.; BRITO, A. N.; ARAMUNI, J. P. C.. Participação em banca de Daniella Rodrigues de Melo e Isabel Pinheiro Matos.TFLA Exams - Sistema para aplicação de avaliações e gestão de provas de idiomas. 2024. Trabalho de Conclusão de Curso (Graduação em Engenharia de Software) - Pontifícia Universidade Católica de Minas Gerais.
+16. TAVARES, C. S.; SEUFITELLI, D. B.; BATISTELI, J. P. O.; COSTA, M. R.; ARAMUNI, J. P. C.. Participação em banca de Belle Nerissa Aguiar Elizeu e Rafael Duarte Pereira.Smart Trainer - Sistema de gestão para Personal Trainers. 2024. Trabalho de Conclusão de Curso (Graduação em Engenharia de Software) - Pontifícia Universidade Católica de Minas Gerais.
 
-17. BATISTELI, J. P. O.; TAVARES, C. S.; SEUFITELLI, D. B.; COSTA, M. R.; ARAMUNI, J. P. C.. Participação em banca de Felipe Espíndola Valério e Thiago Mariano Melo.Chocolatier Management - Plataforma Web para gestão de encomendas e expansão de marca de uma doceria em Divinópolis. 2024. Trabalho de Conclusão de Curso (Graduação em Engenharia de Software) - Pontifícia Universidade Católica de Minas Gerais.
+17. OLIVEIRA, J. A.; SEUFITELLI, D. B.; PADILHA, J.; TAVARES, C. S.; BRITO, A. N.; ARAMUNI, J. P. C.. Participação em banca de Daniella Rodrigues de Melo e Isabel Pinheiro Matos.TFLA Exams - Sistema para aplicação de avaliações e gestão de provas de idiomas. 2024. Trabalho de Conclusão de Curso (Graduação em Engenharia de Software) - Pontifícia Universidade Católica de Minas Gerais.
 
-18. TAVARES, C. S.; SEUFITELLI, D. B.; BATISTELI, J. P. O.; BRITO, A. N.; ARAMUNI, J. P. C.. Participação em banca de Júlia Evelyn de Oliveira Silva.Gerência e Atividades da Mocidade Espírita Joanna de Ângelis. 2024. Trabalho de Conclusão de Curso (Graduação em Engenharia de Software) - Pontifícia Universidade Católica de Minas Gerais.
+18. BATISTELI, J. P. O.; TAVARES, C. S.; SEUFITELLI, D. B.; COSTA, M. R.; ARAMUNI, J. P. C.. Participação em banca de Felipe Espíndola Valério e Thiago Mariano Melo.Chocolatier Management - Plataforma Web para gestão de encomendas e expansão de marca de uma doceria em Divinópolis. 2024. Trabalho de Conclusão de Curso (Graduação em Engenharia de Software) - Pontifícia Universidade Católica de Minas Gerais.
 
-19. SEUFITELLI, D. B.; BATISTELI, J. P. O.; TAVARES, C. S.; ARAMUNI, J. P. C.. Participação em banca de Lucas Lage e Silva.TestArena - Aplicação WEB de programação competitiva para prática de TDD. 2024. Trabalho de Conclusão de Curso (Graduação em Engenharia de Software) - Pontifícia Universidade Católica de Minas Gerais.
+19. TAVARES, C. S.; SEUFITELLI, D. B.; BATISTELI, J. P. O.; BRITO, A. N.; ARAMUNI, J. P. C.. Participação em banca de Júlia Evelyn de Oliveira Silva.Gerência e Atividades da Mocidade Espírita Joanna de Ângelis. 2024. Trabalho de Conclusão de Curso (Graduação em Engenharia de Software) - Pontifícia Universidade Católica de Minas Gerais.
 
-20. BATISTELI, J. P. O.; SEUFITELLI, D. B.; TAVARES, C. S.; ANDRADE, M. H. S.; ARAMUNI, J. P. C.. Participação em banca de Maria Aryene Costa.Explorando Técnicas de PLN para Tradução de Nheengatu: Uma Análise Comparativa. 2024. Trabalho de Conclusão de Curso (Graduação em Engenharia de Software) - Pontifícia Universidade Católica de Minas Gerais.
+20. SEUFITELLI, D. B.; BATISTELI, J. P. O.; TAVARES, C. S.; ARAMUNI, J. P. C.. Participação em banca de Lucas Lage e Silva.TestArena - Aplicação WEB de programação competitiva para prática de TDD. 2024. Trabalho de Conclusão de Curso (Graduação em Engenharia de Software) - Pontifícia Universidade Católica de Minas Gerais.
 
-21. ARAMUNI, J. P. C.; VILLELA, H. F.; TAMEIRAO, A. D. L. O.. Participação em banca de Laura Andrade Brandão.Análise da Adoção do Scrum em Equipes Remotas: Impacto do Uso do Ágil em Equipes Distribuídas. 2020. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade FUMEC.
+21. BATISTELI, J. P. O.; SEUFITELLI, D. B.; TAVARES, C. S.; ANDRADE, M. H. S.; ARAMUNI, J. P. C.. Participação em banca de Maria Aryene Costa.Explorando Técnicas de PLN para Tradução de Nheengatu: Uma Análise Comparativa. 2024. Trabalho de Conclusão de Curso (Graduação em Engenharia de Software) - Pontifícia Universidade Católica de Minas Gerais.
 
-22. ARAMUNI, J. P. C.; VILLELA, H. F.; TAMEIRAO, A. D. L. O.. Participação em banca de Matheus Oliveira.Impactos da Lei Geral de Proteção de Dados Pessoais em uma Rede de Parceiros dos Setores de Tecnologia da Informação e do Sistema Bancário Brasileiro: Um Estudo de Caso. 2020. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade FUMEC.
+22. ARAMUNI, J. P. C.; VILLELA, H. F.; TAMEIRAO, A. D. L. O.. Participação em banca de Laura Andrade Brandão.Análise da Adoção do Scrum em Equipes Remotas: Impacto do Uso do Ágil em Equipes Distribuídas. 2020. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade FUMEC.
 
-23. ARAMUNI, J. P. C.; VILLELA, H. F.; TAMEIRAO, A. D. L. O.. Participação em banca de Ana Caroline Xavier Miranda.Uso da Aprendizagem de Máquina para Aplicação de Técnicas Preditivas para Otimizar o Processo de Manutenção de Caminhões em uma Frota. 2020. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade FUMEC.
+23. ARAMUNI, J. P. C.; VILLELA, H. F.; TAMEIRAO, A. D. L. O.. Participação em banca de Matheus Oliveira.Impactos da Lei Geral de Proteção de Dados Pessoais em uma Rede de Parceiros dos Setores de Tecnologia da Informação e do Sistema Bancário Brasileiro: Um Estudo de Caso. 2020. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade FUMEC.
 
-24. MAIA, L. C. G.; VILLELA, H. F.; ARAMUNI, J. P. C.; TAMEIRAO, A. D. L. O.. Participação em banca de Bruna Moura e Silva.Um Estudo sobre o Uso de um Customer Data Plataform (CDP). 2020. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade FUMEC.
+24. ARAMUNI, J. P. C.; VILLELA, H. F.; TAMEIRAO, A. D. L. O.. Participação em banca de Ana Caroline Xavier Miranda.Uso da Aprendizagem de Máquina para Aplicação de Técnicas Preditivas para Otimizar o Processo de Manutenção de Caminhões em uma Frota. 2020. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade FUMEC.
 
-25. ARAMUNI, J. P. C.; VILLELA, H. F.; OLIVEIRA, P. H. R. L.. Participação em banca de Ana Carolina Cardoso.Impactos da Lei Geral de Proteção de Dados Pessoais em Organizações do Segmento de Tecnologia da Informação. 2020. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade FUMEC.
+25. MAIA, L. C. G.; VILLELA, H. F.; ARAMUNI, J. P. C.; TAMEIRAO, A. D. L. O.. Participação em banca de Bruna Moura e Silva.Um Estudo sobre o Uso de um Customer Data Plataform (CDP). 2020. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade FUMEC.
 
-26. ARAMUNI, J. P. C.; VILLELA, H. F.; OLIVEIRA, P. H. R. L.; PARREIRAS, F. S.. Participação em banca de Arthur de Castro Laranjo Pires e Bruno Lucas de Azevedo.Prototipação de um APP para Gestão Eletrônica de Filas de Espera em Estabelecimentos Comerciais. 2020. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade FUMEC.
+26. ARAMUNI, J. P. C.; VILLELA, H. F.; OLIVEIRA, P. H. R. L.. Participação em banca de Ana Carolina Cardoso.Impactos da Lei Geral de Proteção de Dados Pessoais em Organizações do Segmento de Tecnologia da Informação. 2020. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade FUMEC.
 
-27. ARAMUNI, J. P. C.; VILLELA, H. F.; OLIVEIRA, P. H. R. L.. Participação em banca de Gabriel da Silva Cavalcante.Análise Comparativa de Performance entre Aplicações Java e Kotlin. 2020. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade FUMEC.
+27. ARAMUNI, J. P. C.; VILLELA, H. F.; OLIVEIRA, P. H. R. L.; PARREIRAS, F. S.. Participação em banca de Arthur de Castro Laranjo Pires e Bruno Lucas de Azevedo.Prototipação de um APP para Gestão Eletrônica de Filas de Espera em Estabelecimentos Comerciais. 2020. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade FUMEC.
 
-28. ARAMUNI, J. P. C.; VILLELA, H. F.; TAMEIRAO, A. D. L. O.. Participação em banca de Anemísio Batista dos Santos.Uma Revisão Sistemática de Literatura sobre Realidade Virtual e Aumentada. 2020. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade FUMEC.
+28. ARAMUNI, J. P. C.; VILLELA, H. F.; OLIVEIRA, P. H. R. L.. Participação em banca de Gabriel da Silva Cavalcante.Análise Comparativa de Performance entre Aplicações Java e Kotlin. 2020. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade FUMEC.
 
-29. VILLELA, H. F.; ARAMUNI, J. P. C.; TAMEIRAO, A. D. L. O.. Participação em banca de Felipe Thiago de Souza.Análise do Estado da Arte sobre Gerenciamento de Incidentes. 2020. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade FUMEC.
+29. ARAMUNI, J. P. C.; VILLELA, H. F.; TAMEIRAO, A. D. L. O.. Participação em banca de Anemísio Batista dos Santos.Uma Revisão Sistemática de Literatura sobre Realidade Virtual e Aumentada. 2020. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade FUMEC.
 
-30. ARAMUNI, J. P. C.; VILLELA, H. F.; TAMEIRAO, A. D. L. O.. Participação em banca de Paulo Henrique Ribeiro Alves.Aplicação de Técnicas da Visão Computacional para Análise de Imagens em Jogos de Futebol: Prototipação de Algoritmo com Aprendizagem de Máquina através da Biblioteca TensorFlow. 2020. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade FUMEC.
+30. VILLELA, H. F.; ARAMUNI, J. P. C.; TAMEIRAO, A. D. L. O.. Participação em banca de Felipe Thiago de Souza.Análise do Estado da Arte sobre Gerenciamento de Incidentes. 2020. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade FUMEC.
 
-31. MAIA, L. C. G.; VILLELA, H. F.; ARAMUNI, J. P. C.; ALMEIDA, H. M.. Participação em banca de Guilherme G. Mendes e Matheus de Oliveira Barbosa.Análise de Crimes no Estado de São Paulo com a Utilização de Machine Learning. 2020. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade FUMEC.
+31. ARAMUNI, J. P. C.; VILLELA, H. F.; TAMEIRAO, A. D. L. O.. Participação em banca de Paulo Henrique Ribeiro Alves.Aplicação de Técnicas da Visão Computacional para Análise de Imagens em Jogos de Futebol: Prototipação de Algoritmo com Aprendizagem de Máquina através da Biblioteca TensorFlow. 2020. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade FUMEC.
 
-32. MAIA, L. C. G.; VILLELA, H. F.; ARAMUNI, J. P. C.; ALMEIDA, H. M.. Participação em banca de Igor Balbino N. Lopes.Resolvendo CAPTCHAs com Aprendizado de Máquina. 2020. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade FUMEC.
+32. MAIA, L. C. G.; VILLELA, H. F.; ARAMUNI, J. P. C.; ALMEIDA, H. M.. Participação em banca de Guilherme G. Mendes e Matheus de Oliveira Barbosa.Análise de Crimes no Estado de São Paulo com a Utilização de Machine Learning. 2020. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade FUMEC.
 
-33. MAIA, L. C. G.; VILLELA, H. F.; ARAMUNI, J. P. C.; ALMEIDA, H. M.. Participação em banca de Pedro Paulo dos Santos Silva.Um Estudo de Sistema Especialista para Criação do Protótipo de um Chatbot que Classifica Diabetes Tipo 1 e Tipo 2. 2020. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade FUMEC.
+33. MAIA, L. C. G.; VILLELA, H. F.; ARAMUNI, J. P. C.; ALMEIDA, H. M.. Participação em banca de Igor Balbino N. Lopes.Resolvendo CAPTCHAs com Aprendizado de Máquina. 2020. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade FUMEC.
 
-34. ARAMUNI, J. P. C.; VILLELA, H. F.; MAIA, L. C. G.; MUYLDER, C. F.; COSTA, E. E.. Participação em banca de Gabriel da Cruz M. Falieri.Uma Análise Comparativa entre os Casos de Câncer e seus Principais Fatores: Uma implementação de algoritmo para estudo do câncer. 2019. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade FUMEC.
+34. MAIA, L. C. G.; VILLELA, H. F.; ARAMUNI, J. P. C.; ALMEIDA, H. M.. Participação em banca de Pedro Paulo dos Santos Silva.Um Estudo de Sistema Especialista para Criação do Protótipo de um Chatbot que Classifica Diabetes Tipo 1 e Tipo 2. 2020. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade FUMEC.
 
-35. ARAMUNI, J. P. C.; VILLELA, H. F.; COSTA, E. E.; MUYLDER, C. F.; MAIA, L. C. G.. Participação em banca de Mateus F. Lima e Thaís C. M. Santos.Os Impactos da Utilização de Banco de Dados em Nuvem com Ênfase na tecnologia RDS no IaaS da Amazon. 2019. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade FUMEC.
+35. ARAMUNI, J. P. C.; VILLELA, H. F.; MAIA, L. C. G.; MUYLDER, C. F.; COSTA, E. E.. Participação em banca de Gabriel da Cruz M. Falieri.Uma Análise Comparativa entre os Casos de Câncer e seus Principais Fatores: Uma implementação de algoritmo para estudo do câncer. 2019. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade FUMEC.
 
-36. ARAMUNI, J. P. C.; VILLELA, H. F.; COSTA, E. E.; MAIA, L. C. G.; MUYLDER, C. F.. Participação em banca de Eduardo M. R. Nésio.Sistema de Cuidados Automáticos para Hortas Verticais. 2019. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade FUMEC.
+36. ARAMUNI, J. P. C.; VILLELA, H. F.; COSTA, E. E.; MUYLDER, C. F.; MAIA, L. C. G.. Participação em banca de Mateus F. Lima e Thaís C. M. Santos.Os Impactos da Utilização de Banco de Dados em Nuvem com Ênfase na tecnologia RDS no IaaS da Amazon. 2019. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade FUMEC.
 
-37. ARAMUNI, J. P. C.; VILLELA, H. F.; COSTA, E. E.; MUYLDER, C. F.; MAIA, L. C. G.. Participação em banca de Silvia R. B. Salim e Victor B. Lacerda.Até que Ponto Sistemas Inteligentes Podem Tomar Decisões Sem Ferir a Ética. 2019. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade FUMEC.
+37. ARAMUNI, J. P. C.; VILLELA, H. F.; COSTA, E. E.; MAIA, L. C. G.; MUYLDER, C. F.. Participação em banca de Eduardo M. R. Nésio.Sistema de Cuidados Automáticos para Hortas Verticais. 2019. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade FUMEC.
 
-38. ARAMUNI, J. P. C.; MAIA, L. C. G.; COSTA, E. E.; VILLELA, H. F.. Participação em banca de João Paulo Theodoro de Moraes.Uma Análise Comparativa entre os Paradigmas de Programação Funcional, Orientado a Objetos e Estruturado. 2019. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade FUMEC.
+38. ARAMUNI, J. P. C.; VILLELA, H. F.; COSTA, E. E.; MUYLDER, C. F.; MAIA, L. C. G.. Participação em banca de Silvia R. B. Salim e Victor B. Lacerda.Até que Ponto Sistemas Inteligentes Podem Tomar Decisões Sem Ferir a Ética. 2019. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade FUMEC.
 
-39. ARAMUNI, J. P. C.; MAIA, L. C. G.; COSTA, E. E.; VILLELA, H. F.. Participação em banca de Thiago Jackson e Pedro Henrique Pinto.Biotecnologia Associada ao Monitoramento e Tratamento de Diabetes. 2019. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade FUMEC.
+39. ARAMUNI, J. P. C.; MAIA, L. C. G.; COSTA, E. E.; VILLELA, H. F.. Participação em banca de João Paulo Theodoro de Moraes.Uma Análise Comparativa entre os Paradigmas de Programação Funcional, Orientado a Objetos e Estruturado. 2019. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade FUMEC.
 
-40. ARAMUNI, J. P. C.; MAIA, L. C. G.; VILLELA, H. F.; COSTA, E. E.. Participação em banca de Carlos Alves de Souza Junior.Um Estudo sobre Publicações Relacionadas a Mineração de Dados. 2019. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade FUMEC.
+40. ARAMUNI, J. P. C.; MAIA, L. C. G.; COSTA, E. E.; VILLELA, H. F.. Participação em banca de Thiago Jackson e Pedro Henrique Pinto.Biotecnologia Associada ao Monitoramento e Tratamento de Diabetes. 2019. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade FUMEC.
 
-41. MAIA, L. C. G.; VILLELA, H. F.; ARAMUNI, J. P. C.. Participação em banca de Izabelle Amaral Otoni.Aprendizado de Máquina Aplicado na Classificação da Flor Iris: Um Estudo de Caso para Comparação de Diferentes Classificadores. 2019. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade FUMEC.
+41. ARAMUNI, J. P. C.; MAIA, L. C. G.; VILLELA, H. F.; COSTA, E. E.. Participação em banca de Carlos Alves de Souza Junior.Um Estudo sobre Publicações Relacionadas a Mineração de Dados. 2019. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade FUMEC.
 
-42. MUYLDER, C. F.; VILLELA, H. F.; ARAMUNI, J. P. C.. Participação em banca de Diego Leibniz Teixeira de Anchieta Rosa e Breno Godoy Terra.Adoção do "Application Performance Management" em Organizações. 2019. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade FUMEC.
+42. MAIA, L. C. G.; VILLELA, H. F.; ARAMUNI, J. P. C.. Participação em banca de Izabelle Amaral Otoni.Aprendizado de Máquina Aplicado na Classificação da Flor Iris: Um Estudo de Caso para Comparação de Diferentes Classificadores. 2019. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade FUMEC.
 
-43. MAIA, L. C. G.; VILLELA, H. F.; ARAMUNI, J. P. C.. Participação em banca de Felipe Marlon Ferreira Souza.Inteligência Artificial Aplicada a Otimização de Rotas. 2019. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade FUMEC.
+43. MUYLDER, C. F.; VILLELA, H. F.; ARAMUNI, J. P. C.. Participação em banca de Diego Leibniz Teixeira de Anchieta Rosa e Breno Godoy Terra.Adoção do "Application Performance Management" em Organizações. 2019. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade FUMEC.
 
-44. MARQUES, R. M.; VILLELA, H. F.; ARAMUNI, J. P. C.. Participação em banca de Diego Duarte Garcia.Um Estudo do Blockchain e das suas Aplicações mais Citadas na Literatura Acadêmica. 2019. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade FUMEC.
+44. MAIA, L. C. G.; VILLELA, H. F.; ARAMUNI, J. P. C.. Participação em banca de Felipe Marlon Ferreira Souza.Inteligência Artificial Aplicada a Otimização de Rotas. 2019. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade FUMEC.
 
-45. PARREIRAS, F. S.; VILLELA, H. F.; ARAMUNI, J. P. C.. Participação em banca de David Hazan.Uma Comparação de Testes Exploratórios em Metodologias Ágeis e Tradicionais. 2019. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade FUMEC.
+45. MARQUES, R. M.; VILLELA, H. F.; ARAMUNI, J. P. C.. Participação em banca de Diego Duarte Garcia.Um Estudo do Blockchain e das suas Aplicações mais Citadas na Literatura Acadêmica. 2019. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade FUMEC.
 
-46. MAIA, L. C. G.; VILLELA, H. F.; ARAMUNI, J. P. C.. Participação em banca de Thiago Dias de Matos Diniz.Uso de Rede Neural Recorrente na Classificação de Documentos Judiciais: Um Estudo Comparativo de Modelos Classificadores de Texto. 2019. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade FUMEC.
+46. PARREIRAS, F. S.; VILLELA, H. F.; ARAMUNI, J. P. C.. Participação em banca de David Hazan.Uma Comparação de Testes Exploratórios em Metodologias Ágeis e Tradicionais. 2019. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade FUMEC.
 
-47. TOLENTINO, V. C. C.; VILLELA, H. F.; ARAMUNI, J. P. C.. Participação em banca de André S. Macedo e Jardel A. L. Filho.Análise comparativa do desempenho de operações CRUD em um mesmo banco de dados: Graphql vs Rest. 2019. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade FUMEC.
+47. MAIA, L. C. G.; VILLELA, H. F.; ARAMUNI, J. P. C.. Participação em banca de Thiago Dias de Matos Diniz.Uso de Rede Neural Recorrente na Classificação de Documentos Judiciais: Um Estudo Comparativo de Modelos Classificadores de Texto. 2019. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade FUMEC.
 
-48. PARREIRAS, F. S.; VILLELA, H. F.; ARAMUNI, J. P. C.. Participação em banca de Túlio Starling de Miranda Baeta e Victor Caciquinho Pereira.Análise do Ciclo de DevOps com SRE. 2019. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade FUMEC.
+48. TOLENTINO, V. C. C.; VILLELA, H. F.; ARAMUNI, J. P. C.. Participação em banca de André S. Macedo e Jardel A. L. Filho.Análise comparativa do desempenho de operações CRUD em um mesmo banco de dados: Graphql vs Rest. 2019. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade FUMEC.
+
+49. PARREIRAS, F. S.; VILLELA, H. F.; ARAMUNI, J. P. C.. Participação em banca de Túlio Starling de Miranda Baeta e Victor Caciquinho Pereira.Análise do Ciclo de DevOps com SRE. 2019. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade FUMEC.
 
 -----
 
