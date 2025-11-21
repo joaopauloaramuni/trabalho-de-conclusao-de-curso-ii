@@ -23,6 +23,8 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 - [Templates](https://github.com/joaopauloaramuni/trabalho-de-conclusao-de-curso-ii/tree/main/TEMPLATES)
 - [Tutoriais](https://github.com/joaopauloaramuni/trabalho-de-conclusao-de-curso-ii/tree/main/TUTORIAIS)
 
+-----
+
 ### 📚 Índice
 - [Links Úteis](#links-úteis)
   - [Calendário Acadêmico](#calendário-acadêmico)
