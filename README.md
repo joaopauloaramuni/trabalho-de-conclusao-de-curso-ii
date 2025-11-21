@@ -42,6 +42,15 @@ Disciplina do curso de Engenharia de Software da PUC Minas
   - [Tendências e pesquisas](#-tendências-e-pesquisas)
 - [README de projeto](#-readme-de-projeto)
 - [Arquivo CITATION.cff](#-arquivo-citation-cff)
+- [Cronograma](#-cronograma)
+- [Orientações Pré-Bancas de TCC 2](#-orientações-pré-bancas-de-tcc-2)
+  - [Orientações para Trabalhos de Pesquisa](#-orientacoes-para-trabalhos-de-pesquisa)
+  - [Orientações para Trabalhos de Desenvolvimento](#-orientacoes-para-trabalhos-de-desenvolvimento)
+  - [Orientações Pós-Entrega A5](#-orientacoes-pós-entrega-a5)
+  - [Contato](#-contato)
+- [Trabalhos orientados](#-trabalhos-orientados)
+- [Produção Acadêmica e Currículo](#-produção-acadêmica-e-currículo)
+- [Histórico de orientações e participações em bancas examinadoras](#-histórico-de-orientações-e-participações-em-bancas-examinadoras)
 
 -----
 
