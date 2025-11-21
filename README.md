@@ -320,7 +320,7 @@ date-released: 2025-06-19
   <tr>
     <td align="center">A6</td>
     <td align="center">De 09/12/2025 à 12/12/2025</td>
-    <td><b>Descrição</b>: Apresentação do trabalho de TCC para Banca Examinadora.<br><b>Formato</b>: Apresentação oral e postagem da versão revisada do Artigo ou Documentos de Desenvolvimento (Documento de Visão, de Projeto e Postmortem), em PDF, na Biblioteca de Trabalhos de Conclusão de Cursos da PUC Minas, cujo manual está na página Web da biblioteca (http://pucminas.br/biblioteca)
+    <td colspan="2"><b>Descrição</b>: Apresentação do trabalho de TCC para Banca Examinadora.<br><b>Formato</b>: Apresentação oral e postagem da versão revisada do Artigo ou Documentos de Desenvolvimento (Documento de Visão, de Projeto e Postmortem), em PDF, na Biblioteca de Trabalhos de Conclusão de Cursos da PUC Minas, cujo manual está na página Web da biblioteca (http://pucminas.br/biblioteca)
     </td>
   </tr>
 </table>
