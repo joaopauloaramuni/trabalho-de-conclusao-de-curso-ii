@@ -278,11 +278,49 @@ date-released: 2025-06-19
     <td align="center">Desenvolvimento</td>
   </tr>
   <tr>
-    <td>A1</td>
-    <td>07/09/2025</td>
+    <td align="center">A1</td>
+    <td align="center">07/09/2025</td>
     <td><b>Descrição</b>: Artigo atualizado com resultado de Desenvolvimento do Software e/ou Coleta dos dados.<br><b>Formato</b>: PDF via Canvas
     </td>
     <td><b>Descrição</b>: Código atualizado e vídeo de 50 mb, armazenados no Github, com: (1) demonstração do software desenvolvido e (2) execução de testes.<br><b>Formato</b>: Link do vídeo via Canvas
+    </td>
+  </tr>
+  <tr>
+    <td align="center">A2</td>
+    <td align="center">28/09/2025</td>
+    <td><b>Descrição</b>: Artigo atualizado com resultado de Análise de hipóteses, questões de pesquisa ou teste do software.<br><b>Formato</b>: PDF via Canvas
+    </td>
+    <td><b>Descrição</b>: Código atualizado e vídeo de 50 mb, armazenados no Github, com: (1) demonstração do software desenvolvido e (2) execução de testes.<br><b>Formato</b>: Link do vídeo via Canvas
+    </td>
+  </tr>
+  <tr>
+    <td align="center">A3</td>
+    <td align="center">19/10/2025</td>
+    <td><b>Descrição</b>: Artigo atualizado com visualização e redação de resultados de pesquisa e desenvolvimento.<br><b>Formato</b>: PDF via Canvas
+    </td>
+    <td><b>Descrição</b>: Código atualizado e vídeo de 50 mb, armazenados no Github, com: (1) demonstração do software desenvolvido e (2) execução de testes.<br><b>Formato</b>: Link do vídeo via Canvas
+    </td>
+  </tr>
+  <tr>
+    <td align="center">A4</td>
+    <td align="center">09/11/2025</td>
+    <td><b>Descrição</b>: Artigo atualizado com discussão dos resultados de pesquisa e desenvolvimento.<br><b>Formato</b>: PDF via Canvas
+    </td>
+    <td><b>Descrição</b>: Código atualizado e vídeo de 50 mb, armazenados no Github, com: (1) demonstração do software desenvolvido e (2) execução de testes.<br><b>Formato</b>: Link do vídeo via Canvas
+    </td>
+  </tr>
+  <tr>
+    <td align="center">A5</td>
+    <td align="center">23/11/2025</td>
+    <td><b>Descrição</b>: Artigo atualizado e revisado com Conclusões e Trabalhos Futuros e aval final do orientador.<br><b>Formato</b>: PDF via Canvas
+    </td>
+    <td><b>Descrição</b>: Código finalizado e postmortem do projeto, relatando em 1 página: o que deu certo, o que deu errado e lições aprendidas.<br><b>Formato</b>: Postmortem via Canvas
+    </td>
+  </tr>
+  <tr>
+    <td align="center">A6</td>
+    <td align="center">De 09/12/2025 à 12/12/2025</td>
+    <td><b>Descrição</b>: Apresentação do trabalho de TCC para Banca Examinadora.<br><b>Formato</b>: Apresentação oral e postagem da versão revisada do Artigo ou Documentos de Desenvolvimento (Documento de Visão, de Projeto e Postmortem), em PDF, na Biblioteca de Trabalhos de Conclusão de Cursos da PUC Minas, cujo manual está na página Web da biblioteca (http://pucminas.br/biblioteca)
     </td>
   </tr>
 </table>
