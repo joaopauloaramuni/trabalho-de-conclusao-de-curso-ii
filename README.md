@@ -258,14 +258,14 @@ No contexto do nosso curso de Engenharia de Software na PUC Minas, o `CITATION.c
 | `version`        | Versão do software — use 1.0.0 se for a entrega final.                                                                                                                     |
 | `date-released`  | Data de liberação da versão. Deve ser preenchida com a data de término do semestre acadêmico. Use o formato AAAA-MM-DD.                                                    |
 
-###### ⚠️ Importante:
+###### ⚠️ Importante
 
 - Preencha os nomes e sobrenomes completo dos autores sem abreviações  
 - Atualize os nomes dos autores caso tenha saído alguém do grupo de trabalho Interdisciplinar  
 - Não use siglas ou nomes genéricos no campo title.  
 - ❌ Não deixe o campo date-released em branco e use somente o formato AAAA-MM-DD.
 
-###### 📝 Exemplo de preenchimento do arquivo **CITATION.cff**:
+###### 📝 Exemplo de preenchimento do arquivo CITATION.cff
 
 <details>
   <summary>Clique para exibir</summary>
