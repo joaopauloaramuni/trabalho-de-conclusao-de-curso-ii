@@ -419,7 +419,7 @@ O pacote de replicação deste trabalho encontra-se disponível em:
 
 -----
 
-#### 🏛️ Trabalhos orientados
+#### 📄 Trabalhos orientados
 
 ##### 📅 2°Sem 2025:
 - [PPLES ES 2025-2 TCCII - Carlos Roberto Alves de Almeida Júnior e Matheus Augusto Avelar de Souza](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2025-1-tcci-0393100-dev-carlos-junior-e-matheus-souza)
