@@ -303,7 +303,7 @@ O pacote de replicação deste trabalho encontra-se disponível em:
  
 9. Uma vez que este documento será publicado na biblioteca da PUC Minas, é importante manter a linguagem formal, respeitando as Orientações de Escrita Acadêmica. Peçam que os professores-orientadores realizem uma revisão do conteúdo dessa seção antes do envio da Atividade A5.
  
-10. Após a entrega da Atividade A5, cujo prazo é 23/11/2025 às 23h59, não serão permitidos novos commits no repositório, nem alterações no Documento de Projeto ou no artigo de pesquisa. A partir dessa data, você deverá trabalhar exclusivamente nos slides da apresentação para a banca examinadora.
+10. Após a entrega da Atividade A5, cujo prazo é 23/11/2025 até às 23h59, não serão permitidos novos commits no repositório, nem alterações no Documento de Projeto ou no Artigo de Pesquisa. A partir dessa data, você deverá trabalhar exclusivamente nos slides da apresentação para a banca examinadora.
 
 #### 📬 Contato
 
