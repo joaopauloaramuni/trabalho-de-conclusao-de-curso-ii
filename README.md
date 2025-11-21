@@ -63,7 +63,9 @@ Disciplina do curso de Engenharia de Software da PUC Minas
   - [Orientações Pós-Entrega A5](#-orientações-pós-entrega-a5)
   - [Contato](#-contato)
 - [Trabalhos orientados](#-trabalhos-orientados)
-  - [2°Sem 2025](#-2-sem-2025)
+  - [2°Sem 2025](#-2sem-2025)
+  - [1°Sem 2025](#-1sem-2025)
+  - [Hospedagens na nuvem, apresentações, vídeos e documentos](#-hospedagens-na-nuvem-apresentações-vídeos-e-documentos)
 - [Produção Acadêmica e Currículo](#-produção-acadêmica-e-currículo)
 - [Histórico de orientações e participações em bancas examinadoras](#-histórico-de-orientações-e-participações-em-bancas-examinadoras)
 
