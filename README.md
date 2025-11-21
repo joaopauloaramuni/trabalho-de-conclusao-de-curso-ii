@@ -39,6 +39,9 @@ Disciplina do curso de Engenharia de Software da PUC Minas
      - [Confira a disponibilidade de agenda no meu Calendly](#-confira-a-disponibilidade-de-agenda-no-meu-calendly)
      - [Sala fixa de reunião no Microsoft Teams](#-sala-fixa-de-reunião-no-microsoft-teams)
   - [Organização no GitHub](#-organização-no-github)
+  - [Templates genéricos de TIs](#-templates-genéricos-de-tis)
+  - [Catálogo dos Trabalhos de Conclusão de Curso do Bacharelado em Engenharia de Software](#-catálogo-dos-trabalhos-de-conclusão-de-curso-do-bacharelado-em-engenharia-de-software)
+  - [Revista SPRINTI do curso de Engenharia de Software da PUC Minas](#-revista-sprinti-do-curso-de-engenharia-de-software-da-puc-minas)
   - [Tendências e pesquisas](#-tendências-e-pesquisas)
 - [README de projeto](#-readme-de-projeto)
 - [Arquivo CITATION.cff](#-arquivo-citation-cff)
@@ -74,7 +77,7 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 
 -----
 
-##### 🛠️ Ferramentas
+##### 🔧 Ferramentas
 
 - 📄 [Overleaf](https://pt.overleaf.com/)  
   Plataforma online para edição colaborativa de documentos em **LaTeX**, muito utilizada para produção de artigos e trabalhos acadêmicos. Dispensa instalação local e facilita o versionamento e o compartilhamento de projetos.
