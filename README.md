@@ -440,7 +440,7 @@ O pacote de replicação deste trabalho encontra-se disponível em:
 - [PPLES ES 2025-1 TCCII - Pedro Rodrigues](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2024-1-tcci-0393100-dev-pedro-rodrigues)
 - [PPLES ES 2025-1 TCCII - Lucas Araújo Borges de Lima e Luis Gustavo Vaz](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2024-1-tcci-0393100-dev-lucas-lima-e-luis-gustavo)
 
-###### ☁️ Hospedagens na nuvem, apresentações, vídeos e documentos
+###### 🌐 Hospedagens na nuvem, apresentações, vídeos e documentos
 - TCCII - Apptite - [Guilherme Santos](https://github.com/guilhermerfs00) :octocat:
   - 🌐 [Apptite - Home - Acesso Admin e Garçom](https://apptite-front-c86d00a35e08.herokuapp.com/login)
   - 🌐 [Apptite - Home - Acesso Cliente](https://apptite-front-c86d00a35e08.herokuapp.com/cadastro-cliente/1)
