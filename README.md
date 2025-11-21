@@ -419,7 +419,7 @@ O pacote de replicação deste trabalho encontra-se disponível em:
 
 -----
 
-#### 🧑‍🏫 Trabalhos orientados
+#### 🏛️ Trabalhos orientados
 
 ##### 📅 2°Sem 2025:
 - [PPLES ES 2025-2 TCCII - Carlos Roberto Alves de Almeida Júnior e Matheus Augusto Avelar de Souza](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2025-1-tcci-0393100-dev-carlos-junior-e-matheus-souza)
@@ -469,7 +469,7 @@ O pacote de replicação deste trabalho encontra-se disponível em:
 
 -----
 
-#### 🧑‍🏫 Produção Acadêmica e Currículo
+#### 📚 Produção Acadêmica e Currículo
 
 ##### 🎓 Como orientador
 - Atualmente orienta trabalhos de conclusão de curso em Ciência da Computação e Engenharia de Software, já tendo acompanhado mais de 40 TCCs e participado de mais de 50 bancas examinadoras.
