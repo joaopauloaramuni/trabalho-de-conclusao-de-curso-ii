@@ -274,8 +274,6 @@ date-released: 2025-06-19
     <td colspan="2">Artefato a ser entregue</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
     <td>Pesquisa</td>
     <td>Desenvolvimento</td>
   </tr>
