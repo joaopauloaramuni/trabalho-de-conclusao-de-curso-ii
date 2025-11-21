@@ -58,7 +58,7 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 - [Orientações Pré-Bancas de TCC 2](#-orientações-pré-bancas-de-tcc-2)
   - [Orientações para Trabalhos de Pesquisa](#-orientações-para-trabalhos-de-pesquisa)
   - [Orientações para Trabalhos de Desenvolvimento](#-orientações-para-trabalhos-de-desenvolvimento)
-  - [Orientações Pós-Entrega A5](#-orientacoes-pós-entrega-a5)
+  - [Orientações Pós-Entrega A5](#-orientações-pós-entrega-a5)
   - [Contato](#-contato)
 - [Trabalhos orientados](#-trabalhos-orientados)
 - [Produção Acadêmica e Currículo](#-produção-acadêmica-e-currículo)
