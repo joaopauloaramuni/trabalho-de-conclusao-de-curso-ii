@@ -269,21 +269,21 @@ date-released: 2025-06-19
 
 <table>
   <tr>
-    <td>Ativ.</td>
-    <td>Data da entrega</td>
-    <td colspan="2">Artefato a ser entregue</td>
+    <td rowspan="2" align="center">Ativ.</td>
+    <td rowspan="2" align="center">Data da entrega</td>
+    <td colspan="2" align="center">Artefato a ser entregue</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td>Pesquisa</td>
-    <td>Desenvolvimento</td>
+    <td align="center">Pesquisa</td>
+    <td align="center">Desenvolvimento</td>
   </tr>
   <tr>
     <td>A1</td>
     <td>07/09/2025</td>
-    <td>X</td>
-    <td>Y</td>
+    <td><b>Descrição</b>: Artigo atualizado com resultado de Desenvolvimento do Software e/ou Coleta dos dados.<br><b>Formato</b>: PDF via Canvas
+    </td>
+    <td><b>Descrição</b>: Código atualizado e vídeo de 50 mb, armazenados no Github, com: (1) demonstração do software desenvolvido e (2) execução de testes.<br><b>Formato</b>: Link do vídeo via Canvas
+    </td>
   </tr>
 </table>
 
