@@ -265,6 +265,51 @@ date-released: 2025-06-19
 
 -----
 
+### 🧭 Orientações Pré-Bancas de TCC 2:
+
+1. A entrega da Atividade A5 representa o envio final do trabalho. Portanto, trabalhem para que o texto esteja completo, coerente, coeso e pronto para ser avaliado pela banca examinadora. Observem as orientações de escrita e os exemplos de TCCs defendidos nos semestres passados para que garantam a qualidade final do trabalho de vocês. Ademais, é essencial que vocês revisem o texto com bastante calma e apliquem as correções propostas pelos seus professores-orientadores.
+ 
+2. O repositório GitHub do trabalho constitui um dos artefatos a serem entregues e avaliados pela banca. Portanto, garantam que eles estejam atualizados, organizados e consistentes com o trabalho final. Eles serão enviados para os professores-avaliadores, juntamente com o texto final. Adiante, apresento, para cada linha de trabalho, como vocês devem atualizar os textos para incluir os links dos repositórios.
+ 
+3. Após o envio da Atividade A5, os professores-orientadores serão solicitados a autorizar (ou não autorizar) a participação de vocês nas apresentações da Atividade A6. É importante salientar que os trabalhos que não estiverem aptos a serem apresentados/defendidos, estão automaticamente reprovados. Portanto, sincronizem com os professores-orientadores o parecer que ele apresentará para a coordenação de TCC.
+ 
+4. As apresentações dos trabalhos para a banca examinadora acontecerão entre os dias 09/12/2025 e 12/12/2025, de maneira remota/síncrona, através de chamadas públicas no MS Teams. Após o envio da Atividade A5, os trabalhos autorizados a apresentar serão alocados para defesa em dia/horário informados em momento oportuno. 
+ 
+5. Para maiores informações e detalhes, é essencial que vocês releiam a Resolução de TCC 2. A essa altura, conhecer os detalhes dos próximos passos pode ajudá-los a se prepararem melhor.
+ 
+#### 🔬 Orientações para Trabalhos de Pesquisa:
+
+6. Por favor, incluam ao final do texto de vocês a seguinte seção (comum a todos os trabalhos):
+ 
+%============================================================================================
+
+%incluir imediatamente após o texto da conclusão, antes das referências
+
+\section*{Pacote de Replicação}
+
+O pacote de replicação deste trabalho encontra-se disponível em: 
+
+\url{} %link do repositório GitHub do trabalho.
+
+%============================================================================================
+
+#### 💻 Orientações para Trabalhos de Desenvolvimento:
+
+7. O post-mortem, especificado para entrega A5 (Tabela 3 da Resolução de TCC 2), deve ser adicionado como seção final do Documento de Projeto. Ou seja, atualizem o Documento de Projeto para incluir uma última seção, intitulada "Post-mortem", onde vocês devem discutir quatro subseções: (i) Experiências Positivas; (ii) Experiências Negativas; (iii) Lições Aprendidas; (iv) Repositório do Trabalho. Nesta última sub-seção, recomenda-se que seja adicionado o link do repositório GitHub onde se encontra o código fonte produzido. 
+ 
+8. É importante destacar que o post-mortem deve tratar das suas experiências relativas ao processo de desenvolvimento do software entregue. Ou seja, não se deve tratar sobre aspectos relativos à disciplina, ao curso, ao processo de orientação ou demais detalhes acadêmicos/institucionais. 
+ 
+9. Uma vez que este documento será publicado na biblioteca da PUC Minas, é importante manter a linguagem formal, respeitando as Orientações de Escrita Acadêmica. Peçam que os professores-orientadores realizem uma revisão do conteúdo dessa seção antes do envio da Atividade A5.
+ 
+10. Após a entrega da Atividade A5, cujo prazo é 23/11/2025 às 23h59, não serão permitidos novos commits no repositório, nem alterações no Documento de Projeto ou no artigo de pesquisa. A partir dessa data, você deverá trabalhar exclusivamente nos slides da apresentação para a banca examinadora.
+
+#### 📬 Contato
+
+- **Professor Cleiton:** 📧 cleitontavares@pucminas.br  
+- **Professor Aramuni:** ✉️ joaoaramuni@pucminas.br
+
+-----
+
 ### 🧑‍🏫 Produção Acadêmica e Currículo
 
 #### 🎓 Como orientador
