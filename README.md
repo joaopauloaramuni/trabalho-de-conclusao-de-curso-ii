@@ -382,7 +382,7 @@ date-released: 2025-06-19
  
 5. Para maiores informações e detalhes, é essencial que vocês releiam a [Resolução de TCC 2](https://github.com/joaopauloaramuni/trabalho-de-conclusao-de-curso-ii/tree/main/RESOLUC%CC%A7A%CC%83O). A essa altura, conhecer os detalhes dos próximos passos pode ajudá-los a se prepararem melhor.
  
-##### ✏️ Orientações para Trabalhos de Pesquisa
+##### 📖 Orientações para Trabalhos de Pesquisa
 
 6. Por favor, incluam ao final do texto de vocês a seguinte seção (comum a todos os trabalhos):
 
