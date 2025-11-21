@@ -223,7 +223,7 @@ Esta seção reúne um **template** construído por mim e **exemplos** reais de 
 
 -----
 
-#### 🔖 Arquivo CITATION.cff:
+#### 🔖 Arquivo CITATION.cff
 
 ##### 📌 Importância do arquivo CITATION.cff nos repositórios dos trabalhos interdisciplinares
 
