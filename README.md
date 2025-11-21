@@ -265,7 +265,31 @@ date-released: 2025-06-19
 
 -----
 
-### 🧭 Orientações Pré-Bancas de TCC 2:
+### 📅 Cronograma
+
+<table>
+  <tr>
+    <td>Ativ.</td>
+    <td>Data da entrega</td>
+    <td colspan="2">Artefato a ser entregue</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td>Pesquisa</td>
+    <td>Desenvolvimento</td>
+  </tr>
+  <tr>
+    <td>A1</td>
+    <td>07/09/2025</td>
+    <td>X</td>
+    <td>Y</td>
+  </tr>
+</table>
+
+-----
+
+### 🧭 Orientações Pré-Bancas de TCC 2
 
 1. A entrega da Atividade A5 representa o envio final do trabalho. Portanto, trabalhem para que o texto esteja completo, coerente, coeso e pronto para ser avaliado pela banca examinadora. Observem as orientações de escrita e os exemplos de TCCs defendidos nos semestres passados para que garantam a qualidade final do trabalho de vocês. Ademais, é essencial que vocês revisem o texto com bastante calma e apliquem as correções propostas pelos seus professores-orientadores.
  
@@ -309,27 +333,6 @@ O pacote de replicação deste trabalho encontra-se disponível em:
 
 - **Professor Cleiton:** 📧 cleitontavares@pucminas.br  
 - **Professor Aramuni:** ✉️ joaoaramuni@pucminas.br
-
------
-
-### 🧑‍🏫 Produção Acadêmica e Currículo
-
-#### 🎓 Como orientador
-- Atualmente orienta trabalhos de conclusão de curso em Ciência da Computação e Engenharia de Software, já tendo acompanhado mais de 40 TCCs e participado de mais de 50 bancas examinadoras.
-- Foi membro do grupo de pesquisa [LAIS (Laboratório de Sistemas de Informação Avançados)](https://www.linkedin.com/company/laisfumec/) da Universidade FUMEC, publicando artigos em periódicos nacionais e internacionais em parceria com pesquisadores do [Programa de Pós-Graduação em Sistemas de Informação e Gestão do Conhecimento](https://www.fumec.br/pos-graduacao-em-tecnologia-da-informacao-e-comunicacao-e-gestao-do-conhecimento/).
-  - O LAIS é um laboratório de pesquisa e desenvolvimento de soluções baseadas em tecnologia, gestão e engenharia do conhecimento e de sistemas de informação. Entre suas competências, destacam-se o desenvolvimento de sistemas de apoio a decisão, inteligência analítica, gestão de dados na Web e gestão de processos. O laboratório reúne doutores em engenharia ou computação com experiência na elaboração e execução de projetos de P&D. Sua equipe possui membros capacitados em análise estatística, banco de dados, engenharia de software e sistemas inteligentes.
-
-#### 📚 Google Scholar  
-- Acompanhe minhas publicações, citações e métricas de impacto científico no meu perfil do [Google Scholar](https://scholar.google.com.br/citations?user=OARYxSYAAAAJ&hl=pt-BR&oi=ao).
-- Ideal para visualizar a relevância e evolução da minha produção acadêmica ao longo do tempo.  
-
-#### 📝 Currículo Lattes  
-- Acesse meu [Currículo Lattes](http://lattes.cnpq.br/1208427665892059).
-- Reúne minha formação, experiência profissional, projetos de pesquisa, orientações e produções acadêmicas registradas oficialmente no CNPq.  
-
-#### 🆔 ORCID
-- Acesse meu [ORCID](https://orcid.org/0000-0001-7538-5927).
-- Plataforma que fornece um identificador único para pesquisadores, permitindo associar de forma precisa suas contribuições acadêmicas e profissionais.
 
 -----
 
@@ -380,6 +383,27 @@ O pacote de replicação deste trabalho encontra-se disponível em:
   - 🎥 [Buzzard - Vídeo](https://github.com/user-attachments/assets/5b2755bf-ddbf-4741-9644-a96a46f01180)
   - 👁️ [Buzzard - Documento de visão](https://github.com/user-attachments/files/20987242/Buzzard.pdf)
   - 📄 [Buzzard - Documentação de projeto](https://bib.pucminas.br/pergamumweb/downloadArquivo?vinculo=MjgxMTQxZVkyOWtSVzF3Y21WellUMHlOU1poWTJWeWRtODlOVFk0TnpVNUpuTmxjVkJoY21GbmNtRm1iejB4T0NaelpYRlRaV05oYnowM0ptdGhjbVJsZUQxT0pteHZZMkZzUVhKeGRXbDJiejFEVDAxUVFWSlVTVXhJUVUxRlRsUlBKbTV2YldWRFlXMXBibWh2UFRBd01EQmtaaTh3TURBd1pHWTJPUzV3WkdZPTM3ZGJmZDU=&nomeExtensao=.pdf) (Publicado no Repositório de Produção Acadêmica da PUC Minas - Acervo da Biblioteca)
+
+-----
+
+### 🧑‍🏫 Produção Acadêmica e Currículo
+
+#### 🎓 Como orientador
+- Atualmente orienta trabalhos de conclusão de curso em Ciência da Computação e Engenharia de Software, já tendo acompanhado mais de 40 TCCs e participado de mais de 50 bancas examinadoras.
+- Foi membro do grupo de pesquisa [LAIS (Laboratório de Sistemas de Informação Avançados)](https://www.linkedin.com/company/laisfumec/) da Universidade FUMEC, publicando artigos em periódicos nacionais e internacionais em parceria com pesquisadores do [Programa de Pós-Graduação em Sistemas de Informação e Gestão do Conhecimento](https://www.fumec.br/pos-graduacao-em-tecnologia-da-informacao-e-comunicacao-e-gestao-do-conhecimento/).
+  - O LAIS é um laboratório de pesquisa e desenvolvimento de soluções baseadas em tecnologia, gestão e engenharia do conhecimento e de sistemas de informação. Entre suas competências, destacam-se o desenvolvimento de sistemas de apoio a decisão, inteligência analítica, gestão de dados na Web e gestão de processos. O laboratório reúne doutores em engenharia ou computação com experiência na elaboração e execução de projetos de P&D. Sua equipe possui membros capacitados em análise estatística, banco de dados, engenharia de software e sistemas inteligentes.
+
+#### 📚 Google Scholar  
+- Acompanhe minhas publicações, citações e métricas de impacto científico no meu perfil do [Google Scholar](https://scholar.google.com.br/citations?user=OARYxSYAAAAJ&hl=pt-BR&oi=ao).
+- Ideal para visualizar a relevância e evolução da minha produção acadêmica ao longo do tempo.  
+
+#### 📝 Currículo Lattes  
+- Acesse meu [Currículo Lattes](http://lattes.cnpq.br/1208427665892059).
+- Reúne minha formação, experiência profissional, projetos de pesquisa, orientações e produções acadêmicas registradas oficialmente no CNPq.  
+
+#### 🆔 ORCID
+- Acesse meu [ORCID](https://orcid.org/0000-0001-7538-5927).
+- Plataforma que fornece um identificador único para pesquisadores, permitindo associar de forma precisa suas contribuições acadêmicas e profissionais.
 
 -----
 
