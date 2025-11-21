@@ -45,6 +45,7 @@ Disciplina do curso de Engenharia de Software da PUC Minas
   - [Catálogo dos Trabalhos de Conclusão de Curso do Bacharelado em Engenharia de Software](#-catálogo-dos-trabalhos-de-conclusão-de-curso-do-bacharelado-em-engenharia-de-software)
   - [Revista SPRINTI do curso de Engenharia de Software da PUC Minas](#-revista-sprinti-do-curso-de-engenharia-de-software-da-puc-minas)
   - [Tendências e pesquisas](#-tendências-e-pesquisas)
+     - [Relatórios e estudos sobre o mercado de tecnologia e comportamento de desenvolvedores](#-relatórios-e-estudos-sobre-o-mercado-de-tecnologia-e-comportamento-de-desenvolvedores)
 - [README de projeto](#-readme-de-projeto)
 - [Arquivo CITATION.cff](#-arquivo-citation-cff)
 - [Cronograma](#-cronograma)
