@@ -275,7 +275,7 @@ date-released: 2025-06-19
  
 4. As apresentações dos trabalhos para a banca examinadora acontecerão entre os dias 09/12/2025 e 12/12/2025, de maneira remota/síncrona, através de chamadas públicas no MS Teams. Após o envio da Atividade A5, os trabalhos autorizados a apresentar serão alocados para defesa em dia/horário informados em momento oportuno. 
  
-5. Para maiores informações e detalhes, é essencial que vocês releiam a [Resolução](https://github.com/joaopauloaramuni/trabalho-de-conclusao-de-curso-ii/tree/main/RESOLUC%CC%A7A%CC%83O) de TCC 2. A essa altura, conhecer os detalhes dos próximos passos pode ajudá-los a se prepararem melhor.
+5. Para maiores informações e detalhes, é essencial que vocês releiam a [Resolução de TCC 2](https://github.com/joaopauloaramuni/trabalho-de-conclusao-de-curso-ii/tree/main/RESOLUC%CC%A7A%CC%83O). A essa altura, conhecer os detalhes dos próximos passos pode ajudá-los a se prepararem melhor.
  
 #### 🔬 Orientações para Trabalhos de Pesquisa:
 
