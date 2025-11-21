@@ -54,7 +54,7 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 - [Arquivo CITATION.cff](#-arquivo-citationcff)
   - [Importância do arquivo CITATION.cff nos repositórios dos trabalhos interdisciplinares](#-importância-do-arquivo-citationcff-nos-repositórios-dos-trabalhos-interdisciplinares)
   - [Como preencher corretamente os campos](#-como-preencher-corretamente-os-campos)
-     - [Importante](#-importante)
+     - [Aviso importante](#-aviso-importante)
      - [Exemplo de preenchimento do arquivo CITATION.cff](#-exemplo-de-preenchimento-do-arquivo-citationcff)
 - [Cronograma](#-cronograma)
 - [Orientações Pré-Bancas de TCC 2](#-orientações-pré-bancas-de-tcc-2)
@@ -263,7 +263,7 @@ No contexto do nosso curso de Engenharia de Software na PUC Minas, o `CITATION.c
 | `version`        | Versão do software — use 1.0.0 se for a entrega final.                                                                                                                     |
 | `date-released`  | Data de liberação da versão. Deve ser preenchida com a data de término do semestre acadêmico. Use o formato AAAA-MM-DD.                                                    |
 
-###### 📍 Importante
+###### 📍 Aviso importante
 
 - Preencha os nomes e sobrenomes completo dos autores sem abreviações  
 - Atualize os nomes dos autores caso tenha saído alguém do grupo de trabalho Interdisciplinar  
