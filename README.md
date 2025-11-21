@@ -63,6 +63,7 @@ Disciplina do curso de Engenharia de Software da PUC Minas
   - [Orientações Pós-Entrega A5](#-orientações-pós-entrega-a5)
   - [Contato](#-contato)
 - [Trabalhos orientados](#-trabalhos-orientados)
+  - [2°Sem 2025](#-2-sem-2025)
 - [Produção Acadêmica e Currículo](#-produção-acadêmica-e-currículo)
 - [Histórico de orientações e participações em bancas examinadoras](#-histórico-de-orientações-e-participações-em-bancas-examinadoras)
 
@@ -423,21 +424,21 @@ O pacote de replicação deste trabalho encontra-se disponível em:
 
 #### 📄 Trabalhos orientados
 
-##### 📅 2°Sem 2025:
+##### 📅 2°Sem 2025
 - [PPLES ES 2025-2 TCCII - Carlos Roberto Alves de Almeida Júnior e Matheus Augusto Avelar de Souza](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2025-1-tcci-0393100-dev-carlos-junior-e-matheus-souza)
 - [PPLES ES 2025-2 TCCII - Igor Pinheiro dos Santos e Vinícius Gonzaga Guilherme](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2025-1-tcci-0393100-dev-igor-pinheiro-e-vinicius-gonzaga)
 - [PPLES ES 2025-2 TCCII - Pedro Lucas Aires dos Santos](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2025-1-tcci-0393100-dev-pedro-lucas-santos)
 - [PPLES ES 2025-2 TCCII - Tito Li An Chen](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2025-1-tcci-0393100-dev-tito-chen)
 - [PPLES ES 2025-2 TCCI e TCCII - Lucas Araújo Borges de Lima e Luis Gustavo Vaz](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2025-2-tcci-0393100-dev-buscars)
 
-##### 📅 1°Sem 2025:
+##### 📅 1°Sem 2025
 - [PPLES ES 2025-1 TCCII - Guilherme Santos](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2024-2-tcci-0393100-dev-guilherme-santos)
 - [PPLES ES 2025-1 TCCII - Bernardo Rohlfs e Eric Jardim](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2024-2-tcci-0393100-dev-bernardo-rohlfs-e-eric-jardim)
 - [PPLES ES 2025-1 TCCII - Breno Rosa e Matheus Brandão](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2024-2-tcci-0393100-dev-breno-rosa-e-matheus-brandao)
 - [PPLES ES 2025-1 TCCII - Pedro Rodrigues](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2024-1-tcci-0393100-dev-pedro-rodrigues)
 - [PPLES ES 2025-1 TCCII - Lucas Araújo Borges de Lima e Luis Gustavo Vaz](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2024-1-tcci-0393100-dev-lucas-lima-e-luis-gustavo)
 
-###### ☁️ Hospedagens na nuvem, apresentações, vídeos e documentos:
+###### ☁️ Hospedagens na nuvem, apresentações, vídeos e documentos
 - TCCII - Apptite - [Guilherme Santos](https://github.com/guilhermerfs00) :octocat:
   - 🌐 [Apptite - Home - Acesso Admin e Garçom](https://apptite-front-c86d00a35e08.herokuapp.com/login)
   - 🌐 [Apptite - Home - Acesso Cliente](https://apptite-front-c86d00a35e08.herokuapp.com/cadastro-cliente/1)
