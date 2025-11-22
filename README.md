@@ -15,7 +15,7 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 
 -----
 
-### Sumário de pastas:
+### 📁 Sumário de pastas:
 - [Documentos da Biblioteca](https://github.com/joaopauloaramuni/trabalho-de-conclusao-de-curso-ii/tree/main/BIBLIOTECA)
 - [Certificados](https://github.com/joaopauloaramuni/trabalho-de-conclusao-de-curso-ii/tree/main/CERTIFICADOS)
 - [Especificações](https://github.com/joaopauloaramuni/trabalho-de-conclusao-de-curso-ii/tree/main/ESPECIFICAC%CC%A7O%CC%83ES)
