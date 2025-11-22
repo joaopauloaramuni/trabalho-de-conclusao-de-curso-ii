@@ -433,16 +433,7 @@ O pacote de replicação deste trabalho encontra-se disponível em:
 - [PPLES ES 2025-2 TCCII - Tito Li An Chen](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2025-1-tcci-0393100-dev-tito-chen)
 - [PPLES ES 2025-2 TCCI e TCCII - Lucas Araújo Borges de Lima e Luis Gustavo Vaz](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2025-2-tcci-0393100-dev-buscars)
 
-##### 📅 1°Sem 2025
-- [PPLES ES 2025-1 TCCII - Guilherme Santos](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2024-2-tcci-0393100-dev-guilherme-santos)
-- [PPLES ES 2025-1 TCCII - Bernardo Rohlfs e Eric Jardim](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2024-2-tcci-0393100-dev-bernardo-rohlfs-e-eric-jardim)
-- [PPLES ES 2025-1 TCCII - Breno Rosa e Matheus Brandão](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2024-2-tcci-0393100-dev-breno-rosa-e-matheus-brandao)
-- [PPLES ES 2025-1 TCCII - Pedro Rodrigues](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2024-1-tcci-0393100-dev-pedro-rodrigues)
-- [PPLES ES 2025-1 TCCII - Lucas Araújo Borges de Lima e Luis Gustavo Vaz](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2024-1-tcci-0393100-dev-lucas-lima-e-luis-gustavo)
-
 ###### 🌐 Hospedagens na nuvem, apresentações, vídeos e documentos
-
-###### **2°Sem 2025**
 
 - TCCII - Sistema de Gestão da Clínica Genilton de Souza - [Carlos Roberto Alves de Almeida Júnior](https://github.com/CarlosCraaj) :octocat: e [Matheus Augusto Avelar de Souza](https://github.com/MatheusBear) :octocat:
   - 🌐 [Sistema de Gestão da Clínica Genilton de Souza - Home](xxx)
@@ -479,7 +470,14 @@ O pacote de replicação deste trabalho encontra-se disponível em:
   - 👁️ [Buscars - Documento de visão](xxx)
   - 📄 [Buscars - Documentação de projeto](xxx) (Publicado no Repositório de Produção Acadêmica da PUC Minas - Acervo da Biblioteca)
 
-###### **1°Sem 2025**
+##### 📅 1°Sem 2025
+- [PPLES ES 2025-1 TCCII - Guilherme Santos](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2024-2-tcci-0393100-dev-guilherme-santos)
+- [PPLES ES 2025-1 TCCII - Bernardo Rohlfs e Eric Jardim](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2024-2-tcci-0393100-dev-bernardo-rohlfs-e-eric-jardim)
+- [PPLES ES 2025-1 TCCII - Breno Rosa e Matheus Brandão](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2024-2-tcci-0393100-dev-breno-rosa-e-matheus-brandao)
+- [PPLES ES 2025-1 TCCII - Pedro Rodrigues](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2024-1-tcci-0393100-dev-pedro-rodrigues)
+- [PPLES ES 2025-1 TCCII - Lucas Araújo Borges de Lima e Luis Gustavo Vaz](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2024-1-tcci-0393100-dev-lucas-lima-e-luis-gustavo)
+
+###### 🌐 Hospedagens na nuvem, apresentações, vídeos e documentos
 
 - TCCII - Apptite - [Guilherme Santos](https://github.com/guilhermerfs00) :octocat:
   - 🌐 [Apptite - Home - Acesso Admin e Garçom](https://apptite-front-c86d00a35e08.herokuapp.com/login)
