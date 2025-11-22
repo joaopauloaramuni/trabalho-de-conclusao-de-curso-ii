@@ -65,9 +65,7 @@ Disciplina do curso de Engenharia de Software da PUC Minas
   - [Contato](#-contato)
 - [Trabalhos orientados](#-trabalhos-orientados)
   - [2°Sem 2025](#-2sem-2025)
-     - [Arquivo 2°Sem 2025](#-arquivo-2-sem-2025)
   - [1°Sem 2025](#-1sem-2025)
-     - [Arquivo 1°Sem 2025](#-arquivo-1-Sem-2025)
 - [Produção Acadêmica e Currículo](#-produção-acadêmica-e-currículo)
 - [Histórico de orientações e participações em bancas examinadoras](#-histórico-de-orientações-e-participações-em-bancas-examinadoras)
 
