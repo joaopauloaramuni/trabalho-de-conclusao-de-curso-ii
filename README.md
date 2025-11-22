@@ -22,6 +22,7 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 - [Resolução](https://github.com/joaopauloaramuni/trabalho-de-conclusao-de-curso-ii/tree/main/RESOLUC%CC%A7A%CC%83O)
 - [Templates](https://github.com/joaopauloaramuni/trabalho-de-conclusao-de-curso-ii/tree/main/TEMPLATES)
 - [Tutoriais](https://github.com/joaopauloaramuni/trabalho-de-conclusao-de-curso-ii/tree/main/TUTORIAIS)
+- [SWEBOK](https://github.com/joaopauloaramuni/trabalho-de-conclusao-de-curso-ii/tree/main/SWEBOK)
 
 -----
 
