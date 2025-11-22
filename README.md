@@ -42,6 +42,7 @@ Disciplina do curso de Engenharia de Software da PUC Minas
   - [Agendamento de orientação](#-agendamento-de-orientação)
      - [Confira a disponibilidade de agenda no meu Calendly](#-confira-a-disponibilidade-de-agenda-no-meu-calendly)
      - [Sala fixa de reunião no Microsoft Teams](#-sala-fixa-de-reunião-no-microsoft-teams)
+     - [Grupo de TCC no WhatsApp](#-grupo-de-tcc-no-whatsapp)
   - [Organização no GitHub](#organização-no-github)
   - [Templates genéricos de TIs](#templates-genéricos-de-tis)
   - [Catálogo dos Trabalhos de Conclusão de Curso do Bacharelado em Engenharia de Software](#catálogo-dos-trabalhos-de-conclusão-de-curso-do-bacharelado-em-engenharia-de-software)
@@ -156,6 +157,11 @@ Esta resolução define o processo de avaliação, estabelece o cronograma e as 
 
 - [https://tinyurl.com/tccpuc](https://tinyurl.com/tccpuc)  
   - Todas as orientações ao longo do semestre acontecerão nesta sala virtual. Guarde o link, pois ele será o mesmo em todos os encontros.
+
+###### 📞 Grupo de TCC no WhatsApp
+
+- [https://chat.whatsapp.com/ItHbVmhaErqIcPrjPWNPEC](https://chat.whatsapp.com/ItHbVmhaErqIcPrjPWNPEC)  
+  - Entre no grupo de TCC no WhatsApp utilizando o convite acima.
 
 -----
 
