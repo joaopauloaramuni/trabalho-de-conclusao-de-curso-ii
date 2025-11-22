@@ -440,7 +440,7 @@ O pacote de replicação deste trabalho encontra-se disponível em:
 - [PPLES ES 2025-2 TCCII - Tito Li An Chen](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2025-1-tcci-0393100-dev-tito-chen)
 - [PPLES ES 2025-2 TCCI e TCCII - Lucas Araújo Borges de Lima e Luis Gustavo Vaz](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2025-2-tcci-0393100-dev-buscars)
 
-###### Arquivo 2°Sem 2025: Hospedagens na nuvem, apresentações, vídeos e documentos
+###### Arquivo 2°Sem 2025 Hospedagens na nuvem, apresentações, vídeos e documentos
 
 - TCCII - Sistema de Gestão da Clínica Genilton de Souza - [Carlos Roberto Alves de Almeida Júnior](https://github.com/CarlosCraaj) :octocat: e [Matheus Augusto Avelar de Souza](https://github.com/MatheusBear) :octocat:
   - 🌐 [Sistema de Gestão da Clínica Genilton de Souza - Home](xxx)
