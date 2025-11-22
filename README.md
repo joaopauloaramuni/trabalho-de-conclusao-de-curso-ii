@@ -469,6 +469,8 @@ O pacote de replicação deste trabalho encontra-se disponível em:
   - 👁️ [Buscars - Documento de visão](xxx)
   - 📄 [Buscars - Documentação de projeto](xxx) (Publicado no Repositório de Produção Acadêmica da PUC Minas - Acervo da Biblioteca)
 
+-----
+
 ##### 📅 1°Sem 2025
 - [PPLES ES 2025-1 TCCII - Guilherme Santos](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2024-2-tcci-0393100-dev-guilherme-santos)
 - [PPLES ES 2025-1 TCCII - Bernardo Rohlfs e Eric Jardim](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2024-2-tcci-0393100-dev-bernardo-rohlfs-e-eric-jardim)
