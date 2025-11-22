@@ -442,7 +442,14 @@ O pacote de replicação deste trabalho encontra-se disponível em:
 
 ###### 🌐 Hospedagens na nuvem, apresentações, vídeos e documentos
 
-**2°Sem 2025**
+###### **2°Sem 2025**
+
+- TCCII - Sistema de Gestão da Clínica Genilton de Souza - [Carlos Roberto Alves de Almeida Júnior](https://github.com/CarlosCraaj) :octocat: e [Matheus Augusto Avelar de Souza](https://github.com/MatheusBear) :octocat:
+  - 🌐 [Sistema de Gestão da Clínica Genilton de Souza - Home](xxx)
+  - 🗣️ [Sistema de Gestão da Clínica Genilton de Souza - Apresentação](xxx) (Slides utilizados na defesa para a banca examinadora)
+  - 🎥 [Sistema de Gestão da Clínica Genilton de Souza - Vídeo](xxx)
+  - 👁️ [Sistema de Gestão da Clínica Genilton de Souza - Documento de visão](xxx)
+  - 📄 [Sistema de Gestão da Clínica Genilton de Souza - Documentação de projeto](xxx) (Publicado no Repositório de Produção Acadêmica da PUC Minas - Acervo da Biblioteca)
 
 - TCCII - Smart Barber - [Igor Pinheiro dos Santos](https://github.com/pinheiro09igor) :octocat: e [Vinícius Gonzaga Guilherme](https://github.com/viniciusg23) :octocat:
   - 🌐 [Smart Barber - Home](xxx)
@@ -451,6 +458,20 @@ O pacote de replicação deste trabalho encontra-se disponível em:
   - 👁️ [Smart Barber - Documento de visão](xxx)
   - 📄 [Smart Barber - Documentação de projeto](xxx) (Publicado no Repositório de Produção Acadêmica da PUC Minas - Acervo da Biblioteca)
 
+- TCCII - Apex Sentinel - [Pedro Lucas Aires dos Santos](https://github.com/Pedrolaires) :octocat:
+  - 🌐 [Apex Sentinel - Home](xxx)
+  - 🗣️ [Apex Sentinel - Apresentação](xxx) (Slides utilizados na defesa para a banca examinadora)
+  - 🎥 [Apex Sentinel - Vídeo](xxx)
+  - 👁️ [Apex Sentinel - Documento de visão](xxx)
+  - 📄 [Apex Sentinel - Documentação de projeto](xxx) (Publicado no Repositório de Produção Acadêmica da PUC Minas - Acervo da Biblioteca)
+
+- TCCII - Keep - [Tito Li An Chen](https://github.com/Nilocan) :octocat:
+  - 🌐 [Keep - Home](xxx)
+  - 🗣️ [Keep - Apresentação](xxx) (Slides utilizados na defesa para a banca examinadora)
+  - 🎥 [Keep - Vídeo](xxx)
+  - 👁️ [Keep - Documento de visão](xxx)
+  - 📄 [Keep - Documentação de projeto](xxx) (Publicado no Repositório de Produção Acadêmica da PUC Minas - Acervo da Biblioteca)
+
 - TCCII - Buscars - [Lucas Araújo Borges de Lima](https://github.com/lucasABLima) :octocat: e [Luis Gustavo Vaz](https://github.com/rastrian) :octocat:
   - 🌐 [Buscars - Home](https://buscar-demo.rastrian.dev/)
   - 🗣️ [Buscars - Apresentação](xxx) (Slides utilizados na defesa para a banca examinadora)
@@ -458,7 +479,7 @@ O pacote de replicação deste trabalho encontra-se disponível em:
   - 👁️ [Buscars - Documento de visão](xxx)
   - 📄 [Buscars - Documentação de projeto](xxx) (Publicado no Repositório de Produção Acadêmica da PUC Minas - Acervo da Biblioteca)
 
-**1°Sem 2025**
+###### **1°Sem 2025**
 
 - TCCII - Apptite - [Guilherme Santos](https://github.com/guilhermerfs00) :octocat:
   - 🌐 [Apptite - Home - Acesso Admin e Garçom](https://apptite-front-c86d00a35e08.herokuapp.com/login)
@@ -522,11 +543,11 @@ O pacote de replicação deste trabalho encontra-se disponível em:
 
 1. Igor Pinheiro dos Santos e Vinícius Gonzaga Guilherme. Smart Barber - Sistema de Gestão para Barbearias. Início: 2025. Trabalho de Conclusão de Curso (Graduação em Engenharia de Software) - Pontifícia Universidade Católica de Minas Gerais. (Orientador).
 
-2. Tito Li An Chen. Sistema de Gestão de Parque do Máquinas da dti digital. Início: 2025. Trabalho de Conclusão de Curso (Graduação em Engenharia de Software) - Pontifícia Universidade Católica de Minas Gerais. (Orientador).
+2. Tito Li An Chen. Keep - Sistema de Gestão de Parque do Máquinas da dti digital. Início: 2025. Trabalho de Conclusão de Curso (Graduação em Engenharia de Software) - Pontifícia Universidade Católica de Minas Gerais. (Orientador).
 
 3. Carlos R. A. de Almeida Júnior e Matheus A. A. de Souza. Sistema de Gestão da Clínica Genilton de Souza. Início: 2025. Trabalho de Conclusão de Curso (Graduação em Engenharia de Software) - Pontifícia Universidade Católica de Minas Gerais. (Orientador).
 
-4. Pedro Lucas Aires dos Santos. Code Sentinel - Captura de Complexidade. Início: 2025. Trabalho de Conclusão de Curso (Graduação em Engenharia de Software) - Pontifícia Universidade Católica de Minas Gerais. (Orientador).
+4. Pedro Lucas Aires dos Santos. Apex Sentinel - Captura de Complexidade. Início: 2025. Trabalho de Conclusão de Curso (Graduação em Engenharia de Software) - Pontifícia Universidade Católica de Minas Gerais. (Orientador).
 
 5. Lucas Araújo Borges de Lima e Luis Gustavo Vaz. BusCars - Sistema de Agregação de Anúncios Automotivos. Início: 2025. Trabalho de Conclusão de Curso (Graduação em Engenharia de Software) - Pontifícia Universidade Católica de Minas Gerais. (Orientador).
 
@@ -720,7 +741,7 @@ O pacote de replicação deste trabalho encontra-se disponível em:
 
 2. TAVARES, C. S.; SOUZA, J. G. R.; BATISTELI, J. P. O.; CARDOSO, L. V.; ARAMUNI, J. P. C.. Participação em pré-banca de Carlos Roberto Alves de Almeida Júnior e Matheus Augusto Avelar de Souza.Sistema de Gestão da Clínica Genilton de Souza. 2025. Projeto de TCC I. Trabalho de Conclusão de Curso (Graduação em Engenharia de Software) - Pontifícia Universidade Católica de Minas Gerais.
 
-3. TAVARES, C. S.; BATISTELI, J. P. O.; SOUZA, J. G. R.; CARDOSO, L. V.; ARAMUNI, J. P. C.. Participação em pré-banca de Tito Li An Chen.Sistema de Gestão do Parque de Máquinas da dti digital. 2025. Projeto de TCC I. Trabalho de Conclusão de Curso (Graduação em Engenharia de Software) - Pontifícia Universidade Católica de Minas Gerais.
+3. TAVARES, C. S.; BATISTELI, J. P. O.; SOUZA, J. G. R.; CARDOSO, L. V.; ARAMUNI, J. P. C.. Participação em pré-banca de Tito Li An Chen. Keep - Sistema de Gestão do Parque de Máquinas da dti digital. 2025. Projeto de TCC I. Trabalho de Conclusão de Curso (Graduação em Engenharia de Software) - Pontifícia Universidade Católica de Minas Gerais.
 
 4. TAVARES, C. S.; BRITO, A. N.; CARDOSO, L. V; ARAMUNI, J. P. C.. Participação em pré-banca de Bruno Gomes Ferreira e Matheus Vieira dos Santos.AZ Power App. 2024. Projeto de TCC I. Trabalho de Conclusão de Curso (Graduação em Engenharia de Software) - Pontifícia Universidade Católica de Minas Gerais.
 
