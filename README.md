@@ -441,6 +441,25 @@ O pacote de replicação deste trabalho encontra-se disponível em:
 - [PPLES ES 2025-1 TCCII - Lucas Araújo Borges de Lima e Luis Gustavo Vaz](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2024-1-tcci-0393100-dev-lucas-lima-e-luis-gustavo)
 
 ###### 🌐 Hospedagens na nuvem, apresentações, vídeos e documentos
+
+**2°Sem 2025**
+
+- TCCII - Smart Barber - [Igor Pinheiro dos Santos](https://github.com/pinheiro09igor) :octocat: e [Vinícius Gonzaga Guilherme](https://github.com/viniciusg23) :octocat:
+  - 🌐 [Smart Barber - Home](xxx)
+  - 🗣️ [Smart Barber - Apresentação](https://www.canva.com/design/DAGpIivbxCA/zGIo9Xt2HglZ8ZyAZfuqFQ/edit) (Slides utilizados na defesa para a banca examinadora)
+  - 🎥 [Smart Barber - Vídeo](xxx)
+  - 👁️ [Smart Barber - Documento de visão](xxx)
+  - 📄 [Smart Barber - Documentação de projeto](xxx) (Publicado no Repositório de Produção Acadêmica da PUC Minas - Acervo da Biblioteca)
+
+- TCCII - Buscars - [Lucas Araújo Borges de Lima](https://github.com/lucasABLima) :octocat: e [Luis Gustavo Vaz](https://github.com/rastrian) :octocat:
+  - 🌐 [Buscars - Home](https://buscar-demo.rastrian.dev/)
+  - 🗣️ [Buscars - Apresentação](xxx) (Slides utilizados na defesa para a banca examinadora)
+  - 🎥 [Buscars - Vídeo](xxx)
+  - 👁️ [Buscars - Documento de visão](xxx)
+  - 📄 [Buscars - Documentação de projeto](xxx) (Publicado no Repositório de Produção Acadêmica da PUC Minas - Acervo da Biblioteca)
+
+**1°Sem 2025**
+
 - TCCII - Apptite - [Guilherme Santos](https://github.com/guilhermerfs00) :octocat:
   - 🌐 [Apptite - Home - Acesso Admin e Garçom](https://apptite-front-c86d00a35e08.herokuapp.com/login)
   - 🌐 [Apptite - Home - Acesso Cliente](https://apptite-front-c86d00a35e08.herokuapp.com/cadastro-cliente/1)
@@ -509,7 +528,7 @@ O pacote de replicação deste trabalho encontra-se disponível em:
 
 4. Pedro Lucas Aires dos Santos. Code Sentinel - Captura de Complexidade. Início: 2025. Trabalho de Conclusão de Curso (Graduação em Engenharia de Software) - Pontifícia Universidade Católica de Minas Gerais. (Orientador).
 
-5. Lucas Araújo Borges de Lima e Luis Gustavo Vaz. BusCar - Sistema de Agregação de Anúncios Automotivos. Início: 2025. Trabalho de Conclusão de Curso (Graduação em Engenharia de Software) - Pontifícia Universidade Católica de Minas Gerais. (Orientador).
+5. Lucas Araújo Borges de Lima e Luis Gustavo Vaz. BusCars - Sistema de Agregação de Anúncios Automotivos. Início: 2025. Trabalho de Conclusão de Curso (Graduação em Engenharia de Software) - Pontifícia Universidade Católica de Minas Gerais. (Orientador).
 
 **Orientações e supervisões concluídas**
 
