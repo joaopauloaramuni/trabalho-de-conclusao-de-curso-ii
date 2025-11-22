@@ -65,7 +65,6 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 - [Trabalhos orientados](#-trabalhos-orientados)
   - [2°Sem 2025](#-2sem-2025)
   - [1°Sem 2025](#-1sem-2025)
-  - [Hospedagens na nuvem, apresentações, vídeos e documentos](#-hospedagens-na-nuvem-apresentações-vídeos-e-documentos)
 - [Produção Acadêmica e Currículo](#-produção-acadêmica-e-currículo)
 - [Histórico de orientações e participações em bancas examinadoras](#-histórico-de-orientações-e-participações-em-bancas-examinadoras)
 
@@ -463,7 +462,7 @@ O pacote de replicação deste trabalho encontra-se disponível em:
   - 👁️ [Keep - Documento de visão](xxx)
   - 📄 [Keep - Documentação de projeto](xxx) (Publicado no Repositório de Produção Acadêmica da PUC Minas - Acervo da Biblioteca)
 
-- TCCII - Buscars - [Lucas Araújo Borges de Lima](https://github.com/lucasABLima) :octocat: e [Luis Gustavo Vaz](https://github.com/rastrian) :octocat:
+- TCCI e TCCII - Buscars - [Lucas Araújo Borges de Lima](https://github.com/lucasABLima) :octocat: e [Luis Gustavo Vaz](https://github.com/rastrian) :octocat:
   - 🌐 [Buscars - Home](https://buscar-demo.rastrian.dev/)
   - 🗣️ [Buscars - Apresentação](xxx) (Slides utilizados na defesa para a banca examinadora)
   - 🎥 [Buscars - Vídeo](xxx)
