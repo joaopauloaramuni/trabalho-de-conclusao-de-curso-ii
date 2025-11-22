@@ -65,9 +65,9 @@ Disciplina do curso de Engenharia de Software da PUC Minas
   - [Contato](#-contato)
 - [Trabalhos orientados](#-trabalhos-orientados)
   - [2°Sem 2025](#-2sem-2025)
-     - [Arquivo 2°Sem 2025: Hospedagens na nuvem, apresentações, vídeos e documentos](#arquivo-2-sem-2025-hospedagens-na-nuvem-apresentações-vídeos-e-documentos)
+     - [Arquivo 2°Sem 2025](#-arquivo-2-sem-2025)
   - [1°Sem 2025](#-1sem-2025)
-     - [Arquivo 1°Sem 2025: Hospedagens na nuvem, apresentações, vídeos e documentos](#-arquivo-1-Sem-2025-hospedagens-na-nuvem-apresentações-vídeos-e-documentos)
+     - [Arquivo 1°Sem 2025](#-arquivo-1-Sem-2025)
 - [Produção Acadêmica e Currículo](#-produção-acadêmica-e-currículo)
 - [Histórico de orientações e participações em bancas examinadoras](#-histórico-de-orientações-e-participações-em-bancas-examinadoras)
 
@@ -440,7 +440,9 @@ O pacote de replicação deste trabalho encontra-se disponível em:
 - [PPLES ES 2025-2 TCCII - Tito Li An Chen](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2025-1-tcci-0393100-dev-tito-chen)
 - [PPLES ES 2025-2 TCCI e TCCII - Lucas Araújo Borges de Lima e Luis Gustavo Vaz](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2025-2-tcci-0393100-dev-buscars)
 
-###### Arquivo 2°Sem 2025 Hospedagens na nuvem, apresentações, vídeos e documentos
+###### 📁 Arquivo 2°Sem 2025
+
+###### ☁️ Hospedagens na nuvem, apresentações, vídeos e documentos
 
 - TCCII - Sistema de Gestão da Clínica Genilton de Souza - [Carlos Roberto Alves de Almeida Júnior](https://github.com/CarlosCraaj) :octocat: e [Matheus Augusto Avelar de Souza](https://github.com/MatheusBear) :octocat:
   - 🌐 [Sistema de Gestão da Clínica Genilton de Souza - Home](xxx)
@@ -486,7 +488,9 @@ O pacote de replicação deste trabalho encontra-se disponível em:
 - [PPLES ES 2025-1 TCCII - Pedro Rodrigues](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2024-1-tcci-0393100-dev-pedro-rodrigues)
 - [PPLES ES 2025-1 TCCII - Lucas Araújo Borges de Lima e Luis Gustavo Vaz](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2024-1-tcci-0393100-dev-lucas-lima-e-luis-gustavo)
 
-###### 📁 Arquivo 1°Sem 2025: Hospedagens na nuvem, apresentações, vídeos e documentos
+###### 📁 Arquivo 1°Sem 2025
+
+###### ☁️ Hospedagens na nuvem, apresentações, vídeos e documentos
 
 - TCCII - Apptite - [Guilherme Santos](https://github.com/guilhermerfs00) :octocat:
   - 🌐 [Apptite - Home - Acesso Admin e Garçom](https://apptite-front-c86d00a35e08.herokuapp.com/login)
