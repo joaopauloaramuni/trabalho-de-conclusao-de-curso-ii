@@ -130,7 +130,7 @@ Disciplina do curso de Engenharia de Software da PUC Minas
   💬 O **template de README** fornece um modelo estruturado e profissional, construído pelo Prof. Dr. João Paulo Aramuni, para auxiliar estudantes na criação de documentações claras, padronizadas e completas em seus projetos de desenvolvimento.
 
 - 📁 [Docs - Desenvolvimento - ENGSOFT](https://github.com/joaopauloaramuni/trabalho-de-conclusao-de-curso-ii/tree/main/TEMPLATES/DEV)  
-  💬 O diretório acima disponibiliza **modelos de documentos** utilizados no curso de engenharia de software, incluindo: ata de reunião com o cliente, caso de uso descritivo, documentação de projeto, documento de interface de usuário, documento de visão, documento para e-book SPRINTI, procuração ao NIT-PUC Minas, termo de ciência, anuência e compromisso e termo de sigilo e confidencialidade.
+  💬 O diretório acima disponibiliza **modelos de documentos** utilizados no curso de Engenharia de Software da PUC Minas, incluindo: ata de reunião com o cliente, caso de uso descritivo, documentação de projeto, documento de interface de usuário, documento de visão, documento para e-book SPRINTI, procuração ao NIT-PUC Minas, termo de ciência, anuência e compromisso e termo de sigilo e confidencialidade.
 
 -----
 
