@@ -531,6 +531,7 @@ O pacote de replicação deste trabalho encontra-se disponível em:
 
 - TCCI e TCCII - Buscars - [Lucas Araújo Borges de Lima](https://github.com/lucasABLima) :octocat: e [Luis Gustavo Vaz](https://github.com/rastrian) :octocat:
   - 🌐 [Buscars - Home](https://buscar-demo.rastrian.dev/)
+  - 📚 [Buscars - Docs](https://buscar-demo.rastrian.dev/api/docs/)
   - 🗣️ [Buscars - Apresentação](xxx) (Slides utilizados na defesa para a banca examinadora)
   - 🎥 [Buscars - Vídeo](xxx)
   - 👁️ [Buscars - Documento de visão](xxx)
