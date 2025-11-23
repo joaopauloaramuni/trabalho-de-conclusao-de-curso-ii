@@ -101,34 +101,62 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 ###### 📝 Ferramentas para a linha de Pesquisa
 
 - 📄 [Overleaf](https://pt.overleaf.com/)  
-  Plataforma online para edição colaborativa de documentos em **LaTeX**, muito utilizada para produção de artigos e trabalhos acadêmicos. Dispensa instalação local e facilita o versionamento e o compartilhamento de projetos.
+  💬 Plataforma online para edição colaborativa de documentos em **LaTeX**, muito utilizada para produção de artigos e trabalhos acadêmicos. Dispensa instalação local e facilita o versionamento e o compartilhamento de projetos.
 
 - ✍️ [LaTeX Project](https://www.latex-project.org/)  
-  Página oficial do **LaTeX**, sistema de preparação de documentos acadêmicos e científicos.  
+  💬 Página oficial do **LaTeX**, sistema de preparação de documentos acadêmicos e científicos.  
   Ideal para quem deseja instalar o LaTeX localmente e explorar recursos avançados de tipografia e formatação.
 
 ###### 💻 Ferramentas para a linha de Desenvolvimento
 
 ###### ⚙️ Ambientes de desenvolvimento para produtividade e depuração  
 
-- [💡 IntelliJ IDEA - IDE da JetBrains](https://www.jetbrains.com/pt-br/idea/)
-- [🧩 Visual Studio Code - Editor leve e extensível da Microsoft](https://code.visualstudio.com/)
-- [⚡ Cursor - IDE com IA integrada](https://cursor.com/)
+- [💡 IntelliJ IDEA](https://www.jetbrains.com/pt-br/idea/)  
+  💬 IDE completa da JetBrains com suporte avançado a Java, Kotlin, depuração, análise estática e integração com frameworks como Spring.
+
+- [🧩 Visual Studio Code](https://code.visualstudio.com/)  
+  💬 Editor leve e altamente extensível, com marketplace robusto, integração com Git, depuração integrada e suporte a diversas linguagens via extensões.
+
+- [⚡ Cursor](https://cursor.com/)  
+  💬 IDE baseada em IA, focada em produtividade, geração de código e navegação inteligente em projetos, ideal para workflows modernos.
 
 ###### 🛠️ Ferramentas de desenho e diagramas
 
-- 🖼️ [Draw.io - Criação e edição de diagramas online](https://drawio.com/)
-- 🎓 [Astah - Licença gratuita para estudantes](https://astah.net/products/free-student-license/)
-- 📐 [PlantUML - Diagramas UML](https://plantuml.com/)
-- 📖 [PlantUML - Guia oficial](https://plantuml.com/guide)
-- 🧜 [Mermaid - Criação de diagramas a partir de texto Markdown](https://mermaid.js.org/)
-- 🎨 [Figma - Design colaborativo de interfaces e protótipos](https://www.figma.com/pt-br/)
-- 🌟 [StarUML - Ferramenta para modelagem UML e design de software](https://staruml.io/)
-- 🧩 [C4 Model – Modelo para visualização de arquitetura de software](https://c4model.com/)
-- 🗺️ [dbdiagram.io - Criação e visualização de diagramas ER online](https://dbdiagram.io/home)
-- 🧱 [BR Modelo Web - Ferramenta brasileira para modelagem de dados](https://www.brmodeloweb.com/lang/pt-br/index.html)
-- 🧮 [DrawDB.app - Modelagem de banco de dados visual e moderna](https://drawdb.app/)
-- ✨ [Eraser.io - Diagramas, documentação técnica e IA para times de engenharia](https://www.eraser.io/)
+- 🖼️ [Draw.io](https://drawio.com/)  
+  💬 Ferramenta gratuita para criação de diagrammas de forma simples e colaborativa, com integração ao Google Drive e GitHub.
+
+- 🎓 [Astah](https://astah.net/products/free-student-license/)  
+  💬 Ferramenta de modelagem UML com versão gratuita para estudantes, ideal para aprendizado e projetos acadêmicos.
+
+- 📐 [PlantUML](https://plantuml.com/)  
+  💬 Ferramenta baseada em texto para criação de diagramas UML de forma rápida e eficiente.
+
+- 📖 [PlantUML – Guia oficial](https://plantuml.com/guide)  
+  💬 Guia completo com sintaxe, exemplos e documentação oficial do PlantUML.
+
+- 🧜 [Mermaid](https://mermaid.js.org/)  
+  💬 Biblioteca que permite gerar diagramas diretamente em Markdown, amplamente usada em documentações técnicas.
+
+- 🎨 [Figma](https://www.figma.com/pt-br/)  
+  💬 Ferramenta de design colaborativo para protótipos, wireframes e interfaces de alta fidelidade.
+
+- 🌟 [StarUML](https://staruml.io/)  
+  💬 Software profissional para modelagem UML, suporte a múltiplos diagramas e extensões.
+
+- 🧩 [C4 Model](https://c4model.com/)  
+  💬 Abordagem visual para representar arquiteturas de software em diferentes níveis de abstração.
+
+- 🗺️ [dbdiagram.io](https://dbdiagram.io/home)  
+  💬 Ferramenta online para modelagem rápida de diagramas de entidade-relacionamento.
+
+- 🧱 [BR Modelo Web](https://www.brmodeloweb.com/lang/pt-br/index.html)  
+  💬 Ferramenta nacional para criar modelos conceituais, lógicos e físicos de banco de dados.
+
+- 🧮 [DrawDB.app](https://drawdb.app/)  
+  💬 Plataforma web moderna para construção visual de bancos de dados.
+
+- ✨ [Eraser.io](https://www.eraser.io/)  
+  💬 Ferramenta para criação de diagramas, documentação colaborativa e automação com IA voltada para engenharia de software.
 
 -----
 
