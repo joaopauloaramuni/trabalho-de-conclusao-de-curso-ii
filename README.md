@@ -33,6 +33,8 @@ Disciplina do curso de Engenharia de Software da PUC Minas
      - [Leituras recomendadas](#-leituras-recomendadas)
   - [Ferramentas](#-ferramentas)
   - [Templates](#-templates)
+     - [Linha de Pesquisa](#-linha-de-pesquisa) 
+     - [Linha de Desenvolvimento](#-linha-de-desenvolvimento)
   - [Repositório de Produção Acadêmica da PUC Minas, Biblioteca](#-repositório-de-produção-acadêmica-da-puc-minas-biblioteca)
      - [Acervo da Biblioteca](#-acervo-da-biblioteca)
      - [Orientações para elaboração de trabalhos científicos e guias de postagem](#-orientações-para-elaboração-de-trabalhos-científicos-e-guias-de-postagem)
@@ -105,17 +107,30 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 
 ##### 📑 Templates
 
+###### ✏️ Linha de Pesquisa
+
 - 🏫 [Templates da Biblioteca da PUC Minas](https://www.pucminas.br/biblioteca/Paginas/documentos.aspx)  
-  Modelos oficiais da **PUC Minas** para trabalhos acadêmicos e monografias.
+  💬 Modelos oficiais da **PUC Minas** para trabalhos acadêmicos e monografias.
 
 - 📄 [Templates do LaTeX no Overleaf](https://www.overleaf.com/latex/templates)  
-  Galeria de modelos prontos em **LaTeX**, abrangendo artigos, TCCs, relatórios e muito mais.
+  💬 Galeria de modelos prontos em **LaTeX**, abrangendo artigos, TCCs, relatórios e muito mais.
 
 - 💻 [Templates da SBC](https://www.sbc.org.br/documentosinstitucionais/#publicacoes)  
-  Repositório oficial da **Sociedade Brasileira de Computação (SBC)** com orientações e documentos para publicação de artigos.
+  💬 Repositório oficial da **Sociedade Brasileira de Computação (SBC)** com orientações e documentos para publicação de artigos.
   
   - 📦 [Download direto dos modelos da SBC](https://www.sbc.org.br/wp-content/uploads/2024/07/modelosparapublicaodeartigos.zip)  
-    Arquivos compactados com os modelos da SBC em **LaTeX** e **Word**, prontos para edição.
+    💬 Arquivos compactados com os modelos da SBC em **LaTeX** e **Word**, prontos para edição.
+
+- 📁 [Docs - Pesquisa - ENGSOFT](https://github.com/joaopauloaramuni/trabalho-de-conclusao-de-curso-ii/tree/main/TEMPLATES/PES)
+  💬 O diretório acima oferece templates acadêmicos seguindo padrões ABNT e SBC, adequados para artigos, projetos de pesquisa e trabalhos acadêmicos, garantindo conformidade com normas institucionais e científicas.
+
+###### 👨‍💻 Linha de Desenvolvimento
+
+- :octocat: [Template de README de projeto](https://github.com/joaopauloaramuni/laboratorio-de-desenvolvimento-de-software/blob/main/TEMPLATES/template_README.md)
+  💬 O template de README fornece um modelo estruturado e profissional, recomendado pelo Prof. Dr. João Paulo Aramuni, para auxiliar estudantes na criação de documentações claras, padronizadas e completas em seus projetos de desenvolvimento.
+
+- 📁 [Docs - Desenvolvimento - ENGSOFT](https://github.com/joaopauloaramuni/trabalho-de-conclusao-de-curso-ii/tree/main/TEMPLATES/DEV)
+  💬 O diretório acima disponibiliza modelos completos utilizados no processo de engenharia de software, incluindo: ata de reunião com o cliente, caso de uso descritivo, documentação de projeto, documento de interface de usuário, documento de visão, documento para e-book SPRINTI, procuração ao NIT-PUC Minas, termo de ciência, anuência e compromisso e termo de sigilo e confidencialidade.
 
 -----
 
