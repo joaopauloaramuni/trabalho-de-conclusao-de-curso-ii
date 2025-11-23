@@ -115,7 +115,7 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 - 📄 [Templates do LaTeX no Overleaf](https://www.overleaf.com/latex/templates)  
   💬 Galeria de modelos prontos em **LaTeX**, abrangendo artigos, TCCs, relatórios e muito mais.
 
-- 💻 [Templates da SBC](https://www.sbc.org.br/documentosinstitucionais/#publicacoes)  
+- 🖥 [Templates da SBC](https://www.sbc.org.br/documentosinstitucionais/#publicacoes)  
   💬 Repositório oficial da **Sociedade Brasileira de Computação (SBC)** com orientações e documentos para publicação de artigos.
   
   - 📦 [Download direto dos modelos da SBC](https://www.sbc.org.br/wp-content/uploads/2024/07/modelosparapublicaodeartigos.zip)  
