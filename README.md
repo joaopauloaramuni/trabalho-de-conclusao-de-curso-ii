@@ -111,13 +111,13 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 
 ###### ⚙️ Ambientes de desenvolvimento para produtividade e depuração  
 
-- [💡 IntelliJ IDEA](https://www.jetbrains.com/pt-br/idea/)  
+- 💡 [IntelliJ IDEA](https://www.jetbrains.com/pt-br/idea/)  
   💬 IDE completa da JetBrains com suporte avançado a Java, Kotlin, depuração, análise estática e integração com frameworks como Spring.
 
-- [🧩 Visual Studio Code](https://code.visualstudio.com/)  
+- 🧩 [Visual Studio Code](https://code.visualstudio.com/)  
   💬 Editor leve e altamente extensível, com marketplace robusto, integração com Git, depuração integrada e suporte a diversas linguagens via extensões.
 
-- [⚡ Cursor](https://cursor.com/)  
+- ⚡ [Cursor](https://cursor.com/)  
   💬 IDE baseada em IA, focada em produtividade, geração de código e navegação inteligente em projetos, ideal para workflows modernos.
 
 ###### 🛠️ Ferramentas de desenho e diagramas
