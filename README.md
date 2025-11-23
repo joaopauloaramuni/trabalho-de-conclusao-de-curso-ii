@@ -124,13 +124,13 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 - 📁 [Docs - Pesquisa - ENGSOFT](https://github.com/joaopauloaramuni/trabalho-de-conclusao-de-curso-ii/tree/main/TEMPLATES/PES)  
   💬 O diretório acima oferece templates acadêmicos seguindo padrões ABNT e SBC, adequados para artigos, projetos de pesquisa e trabalhos acadêmicos, garantindo conformidade com normas institucionais e científicas.
 
-###### 👨‍💻 Linha de Desenvolvimento
+###### 💻 Linha de Desenvolvimento
 
 - :octocat: [Template de README de projeto](https://github.com/joaopauloaramuni/laboratorio-de-desenvolvimento-de-software/blob/main/TEMPLATES/template_README.md)  
-  💬 O **template de README** fornece um modelo estruturado e profissional, construído e recomendado pelo Prof. Dr. João Paulo Aramuni, para auxiliar estudantes na criação de documentações claras, padronizadas e completas em seus projetos de desenvolvimento.
+  💬 O **template de README** fornece um modelo estruturado e profissional, construído pelo Prof. Dr. João Paulo Aramuni, para auxiliar estudantes na criação de documentações claras, padronizadas e completas em seus projetos de desenvolvimento.
 
 - 📁 [Docs - Desenvolvimento - ENGSOFT](https://github.com/joaopauloaramuni/trabalho-de-conclusao-de-curso-ii/tree/main/TEMPLATES/DEV)  
-  💬 O diretório acima disponibiliza **modelos** completos utilizados no processo de engenharia de software, incluindo: ata de reunião com o cliente, caso de uso descritivo, documentação de projeto, documento de interface de usuário, documento de visão, documento para e-book SPRINTI, procuração ao NIT-PUC Minas, termo de ciência, anuência e compromisso e termo de sigilo e confidencialidade.
+  💬 O diretório acima disponibiliza **modelos** utilizados no curso de engenharia de software, incluindo: ata de reunião com o cliente, caso de uso descritivo, documentação de projeto, documento de interface de usuário, documento de visão, documento para e-book SPRINTI, procuração ao NIT-PUC Minas, termo de ciência, anuência e compromisso e termo de sigilo e confidencialidade.
 
 -----
 
