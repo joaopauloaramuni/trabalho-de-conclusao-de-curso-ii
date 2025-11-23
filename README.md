@@ -122,41 +122,29 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 
 ###### 🛠️ Ferramentas de desenho e diagramas
 
-- 🖼️ [Draw.io](https://drawio.com/)  
-  💬 Ferramenta gratuita para criação de diagrammas de forma simples e colaborativa, com integração ao Google Drive e GitHub.
+- 🖼️ [Draw.io](https://drawio.com/) 💬 Ferramenta gratuita para criação de diagrammas de forma simples e colaborativa, com integração ao Google Drive e GitHub.
 
-- 🎓 [Astah](https://astah.net/products/free-student-license/)  
-  💬 Ferramenta de modelagem UML com versão gratuita para estudantes, ideal para aprendizado e projetos acadêmicos.
+- 🎓 [Astah](https://astah.net/products/free-student-license/) 💬 Ferramenta de modelagem UML com versão gratuita para estudantes, ideal para aprendizado e projetos acadêmicos.
 
-- 📐 [PlantUML](https://plantuml.com/)  
-  💬 Ferramenta baseada em texto para criação de diagramas UML de forma rápida e eficiente.
+- 📐 [PlantUML](https://plantuml.com/) 💬 Ferramenta baseada em texto para criação de diagramas UML de forma rápida e eficiente.
 
-- 📖 [PlantUML – Guia oficial](https://plantuml.com/guide)  
-  💬 Guia completo com sintaxe, exemplos e documentação oficial do PlantUML.
+- 📖 [PlantUML – Guia oficial](https://plantuml.com/guide) 💬 Guia completo com sintaxe, exemplos e documentação oficial do PlantUML.
 
-- 🧜 [Mermaid](https://mermaid.js.org/)  
-  💬 Biblioteca que permite gerar diagramas diretamente em Markdown, amplamente usada em documentações técnicas.
+- 🧜 [Mermaid](https://mermaid.js.org/) 💬 Biblioteca que permite gerar diagramas diretamente em Markdown, amplamente usada em documentações técnicas.
 
-- 🎨 [Figma](https://www.figma.com/pt-br/)  
-  💬 Ferramenta de design colaborativo para protótipos, wireframes e interfaces de alta fidelidade.
+- 🎨 [Figma](https://www.figma.com/pt-br/) 💬 Ferramenta de design colaborativo para protótipos, wireframes e interfaces de alta fidelidade.
 
-- 🌟 [StarUML](https://staruml.io/)  
-  💬 Software profissional para modelagem UML, suporte a múltiplos diagramas e extensões.
+- 🌟 [StarUML](https://staruml.io/) 💬 Software profissional para modelagem UML, suporte a múltiplos diagramas e extensões.
 
-- 🧩 [C4 Model](https://c4model.com/)  
-  💬 Abordagem visual para representar arquiteturas de software em diferentes níveis de abstração.
+- 🧩 [C4 Model](https://c4model.com/) 💬 Abordagem visual para representar arquiteturas de software em diferentes níveis de abstração.
 
-- 🗺️ [dbdiagram.io](https://dbdiagram.io/home)  
-  💬 Ferramenta online para modelagem rápida de diagramas de entidade-relacionamento.
+- 🗺️ [dbdiagram.io](https://dbdiagram.io/home) 💬 Ferramenta online para modelagem rápida de diagramas de entidade-relacionamento.
 
-- 🧱 [BR Modelo Web](https://www.brmodeloweb.com/lang/pt-br/index.html)  
-  💬 Ferramenta nacional para criar modelos conceituais, lógicos e físicos de banco de dados.
+- 🧱 [BR Modelo Web](https://www.brmodeloweb.com/lang/pt-br/index.html) 💬 Ferramenta nacional para criar modelos conceituais, lógicos e físicos de banco de dados.
 
-- 🧮 [DrawDB.app](https://drawdb.app/)  
-  💬 Plataforma web moderna para construção visual de bancos de dados.
+- 🧮 [DrawDB.app](https://drawdb.app/) 💬 Plataforma web moderna para construção visual de bancos de dados.
 
-- ✨ [Eraser.io](https://www.eraser.io/)  
-  💬 Ferramenta para criação de diagramas, documentação colaborativa e automação com IA voltada para engenharia de software.
+- ✨ [Eraser.io](https://www.eraser.io/) 💬 Ferramenta para criação de diagramas, documentação colaborativa e automação com IA voltada para engenharia de software.
 
 -----
 
