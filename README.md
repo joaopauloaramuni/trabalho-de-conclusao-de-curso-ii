@@ -107,7 +107,7 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 
 ##### 📑 Templates
 
-###### ✍️ Linha de Pesquisa
+###### 📝 Linha de Pesquisa
 
 - 🏫 [Templates da Biblioteca da PUC Minas](https://www.pucminas.br/biblioteca/Paginas/documentos.aspx)  
   💬 Modelos oficiais da **PUC Minas** para trabalhos acadêmicos e monografias.
