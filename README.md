@@ -32,9 +32,11 @@ Disciplina do curso de Engenharia de Software da PUC Minas
   - [Referências gerais](#-referências-gerais)
      - [Leituras recomendadas](#-leituras-recomendadas)
   - [Ferramentas](#-ferramentas)
+     - [Ferramentas para a linha de Pesquisa](#-ferramentas-para-a-linha-de-pesquisa) 
+     - [Ferramentas para a linha de Desenvolvimento](#-ferramentas-para-a-linha-de-desenvolvimento)
   - [Templates](#-templates)
-     - [Linha de Pesquisa](#-linha-de-pesquisa) 
-     - [Linha de Desenvolvimento](#-linha-de-desenvolvimento)
+     - [Templates para a linha de Pesquisa](#-templates-para-a-linha-de-pesquisa) 
+     - [Templates para a linha de Desenvolvimento](#-templates-para-a-linha-de-desenvolvimento)
   - [Repositório de Produção Acadêmica da PUC Minas, Biblioteca](#-repositório-de-produção-acadêmica-da-puc-minas-biblioteca)
      - [Acervo da Biblioteca](#-acervo-da-biblioteca)
      - [Orientações para elaboração de trabalhos científicos e guias de postagem](#-orientações-para-elaboração-de-trabalhos-científicos-e-guias-de-postagem)
@@ -96,6 +98,8 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 
 ##### 🔧 Ferramentas
 
+###### 📝 Ferramentas para a linha de Pesquisa
+
 - 📄 [Overleaf](https://pt.overleaf.com/)  
   Plataforma online para edição colaborativa de documentos em **LaTeX**, muito utilizada para produção de artigos e trabalhos acadêmicos. Dispensa instalação local e facilita o versionamento e o compartilhamento de projetos.
 
@@ -103,11 +107,34 @@ Disciplina do curso de Engenharia de Software da PUC Minas
   Página oficial do **LaTeX**, sistema de preparação de documentos acadêmicos e científicos.  
   Ideal para quem deseja instalar o LaTeX localmente e explorar recursos avançados de tipografia e formatação.
 
+###### 💻 Ferramentas para a linha de Desenvolvimento
+
+###### ⚙️ Ambientes de desenvolvimento para produtividade e depuração  
+
+- [💡 IntelliJ IDEA - IDE da JetBrains](https://www.jetbrains.com/pt-br/idea/)
+- [🧩 Visual Studio Code - Editor leve e extensível da Microsoft](https://code.visualstudio.com/)
+- [⚡ Cursor - IDE com IA integrada](https://cursor.com/)
+
+###### 🛠️ Ferramentas de desenho e diagramas
+
+- 🖼️ [Draw.io - Criação e edição de diagramas online](https://drawio.com/)
+- 🎓 [Astah - Licença gratuita para estudantes](https://astah.net/products/free-student-license/)
+- 📐 [PlantUML - Diagramas UML](https://plantuml.com/)
+- 📖 [PlantUML - Guia oficial](https://plantuml.com/guide)
+- 🧜 [Mermaid - Criação de diagramas a partir de texto Markdown](https://mermaid.js.org/)
+- 🎨 [Figma - Design colaborativo de interfaces e protótipos](https://www.figma.com/pt-br/)
+- 🌟 [StarUML - Ferramenta para modelagem UML e design de software](https://staruml.io/)
+- 🧩 [C4 Model – Modelo para visualização de arquitetura de software](https://c4model.com/)
+- 🗺️ [dbdiagram.io - Criação e visualização de diagramas ER online](https://dbdiagram.io/home)
+- 🧱 [BR Modelo Web - Ferramenta brasileira para modelagem de dados](https://www.brmodeloweb.com/lang/pt-br/index.html)
+- 🧮 [DrawDB.app - Modelagem de banco de dados visual e moderna](https://drawdb.app/)
+- ✨ [Eraser.io - Diagramas, documentação técnica e IA para times de engenharia](https://www.eraser.io/)
+
 -----
 
 ##### 📑 Templates
 
-###### 📝 Linha de Pesquisa
+###### 📝 Templates para a linha de Pesquisa
 
 - 🏫 [Templates da Biblioteca da PUC Minas](https://www.pucminas.br/biblioteca/Paginas/documentos.aspx)  
   💬 Modelos oficiais da **PUC Minas** para trabalhos acadêmicos e monografias.
@@ -124,7 +151,7 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 - 📁 [Docs - Pesquisa - ENGSOFT](https://github.com/joaopauloaramuni/trabalho-de-conclusao-de-curso-ii/tree/main/TEMPLATES/PES)  
   💬 O diretório acima oferece **templates acadêmicos** seguindo padrões da **ABNT** e da **SBC**, adequados para artigos, projetos de pesquisa e trabalhos acadêmicos, garantindo conformidade com normas institucionais e científicas.
 
-###### 💻 Linha de Desenvolvimento
+###### 💻 Templates para a linha de Desenvolvimento
 
 - :octocat: [Template de README de projeto](https://github.com/joaopauloaramuni/laboratorio-de-desenvolvimento-de-software/blob/main/TEMPLATES/template_README.md)  
   💬 O **template de README** fornece um modelo estruturado e profissional, construído pelo Prof. Dr. João Paulo Aramuni, para auxiliar estudantes na criação de documentações claras, padronizadas e completas em seus projetos de desenvolvimento.
