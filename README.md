@@ -494,7 +494,7 @@ O pacote de replicação deste trabalho encontra-se disponível em:
    - Organize seus slides de forma clara, evitando excesso de texto;
    - Use **imagens nítidas**, especialmente prints da aplicação em funcionamento;
    - Evite **fundo preto**, pois dificulta o contraste e a visualização dos elementos;
-   - Prepare anotações para ajudá-lo a falar de forma concisa e objetiva.
+   - Prepare anotações para ajudá-lo a falar de forma concisa e objetiva;
    - Neste README você encontra modelos de apresentações anteriores [aqui](#-trabalhos-orientados).
 
 13. Leve um **vídeo da aplicação funcionando**, além de ter a aplicação pronta para demonstração em sua máquina.  
@@ -506,8 +506,8 @@ O pacote de replicação deste trabalho encontra-se disponível em:
    - **Cronometre-se** para garantir que não ultrapasse o tempo;
    - Pratique a explicação dos resultados ou das funcionalidades de forma clara e objetiva, destacando os aspectos mais inovadores e relevantes do seu trabalho;
    - Simule possíveis perguntas da banca e prepare respostas;
-   - Haverá uma **apresentação de teste** comigo (Prof. Aramuni) na semana anterior à banca, para revisar seu desempenho, ajustar o tempo e identificar pontos de melhoria;
-   - Caso esteja fazendo o trabalho **em dupla**, divida o tempo e as falas de forma equilibrada entre os integrantes.
+   - Caso esteja fazendo o trabalho **em dupla**, divida o tempo e as falas de forma equilibrada entre os integrantes;
+   - Haverá uma **apresentação de teste** comigo (Prof. Aramuni) na semana anterior à banca, para revisar seu desempenho, ajustar o tempo e identificar pontos de melhoria.
 
 15. Verifique a **qualidade da transmissão** durante a apresentação:  
    - Use uma **câmera com boa resolução** para que sua imagem fique nítida;  
