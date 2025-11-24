@@ -481,6 +481,38 @@ O pacote de replicação deste trabalho encontra-se disponível em:
 
 10. Após a entrega da Atividade A5, cujo prazo é 23/11/2025 até às 23h59, **não serão permitidos** novos commits no repositório, nem alterações no Documento de Projeto ou no Artigo de Pesquisa. A partir dessa data, você deverá trabalhar exclusivamente nos slides da apresentação para a banca examinadora.
 
+##### ⏰ Orientações sobre a Defesa do TCC II
+
+11. A defesa tem duração média de **50 minutos**, distribuídos da seguinte forma:
+   - **15 minutos** para a apresentação do trabalho;
+   - **15 minutos** para comentários do primeiro membro da banca;
+   - **15 minutos** para comentários do segundo membro da banca;
+   - **5 minutos** para considerações finais do orientador.
+
+12. Consulte **modelos de apresentações anteriores** para se familiarizar com o formato, estrutura e tempo de cada parte.  
+   - Organize seus slides de forma clara, evitando excesso de texto;
+   - Use **imagens nítidas**, especialmente prints da aplicação em funcionamento;
+   - Evite **fundo preto**, pois dificulta o contraste e a visualização dos elementos;
+   - Prepare anotações para ajudá-lo a falar de forma concisa e objetiva.
+
+13. Leve um **vídeo da aplicação funcionando**, além de ter a aplicação pronta para demonstração em sua máquina.  
+   - Certifique-se de que todos os recursos necessários (banco de dados, bibliotecas, arquivos) estejam disponíveis;  
+   - Teste o vídeo e a aplicação em outro computador, se possível, para evitar problemas técnicos;  
+   - Prepare-se para responder perguntas sobre funcionalidades, decisões de implementação e limitações do projeto.
+
+14. Ensaiar a apresentação é fundamental:  
+   - Cronometre-se para garantir que não ultrapasse o tempo;  
+   - Pratique a explicação dos resultados de forma clara e objetiva;  
+   - Simule possíveis perguntas da banca e prepare respostas;
+   - Haverá uma **apresentação de teste** comigo (Prof. Aramuni) na semana anterior à banca, para revisar seu desempenho, ajustar o tempo e identificar pontos de melhoria.
+
+15. Verifique a **qualidade da transmissão** durante a apresentação:  
+   - Use uma **câmera com boa resolução** para que sua imagem fique nítida;  
+   - Certifique-se de que o **áudio esteja limpo e compreensível**, utilizando microfone ou fone de qualidade;  
+   - Garanta uma **conexão de internet estável**, principalmente se a defesa for remota, para evitar interrupções ou atrasos;  
+   - Escolha uma **área bem iluminada** e mantenha-se **centralizado** na câmera;
+   - Se necessário, utilize a **estrutura física da PUC Minas** disponível, como laboratórios e salas de estudo, e faça um empréstimo de microfone e câmera no CRC: [https://crc.pucminas.br/](https://crc.pucminas.br/).
+
 ##### 📬 Contato
 
 - **Professor Cleiton:** 📧 cleitontavares@pucminas.br  
