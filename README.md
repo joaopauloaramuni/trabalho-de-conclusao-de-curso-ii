@@ -495,6 +495,7 @@ O pacote de replicação deste trabalho encontra-se disponível em:
    - Use **imagens nítidas**, especialmente prints da aplicação em funcionamento;
    - Evite **fundo preto**, pois dificulta o contraste e a visualização dos elementos;
    - Prepare anotações para ajudá-lo a falar de forma concisa e objetiva.
+   - Neste README você encontra modelos de apresentações anteriores [aqui](#-trabalhos-orientados).
 
 13. Leve um **vídeo da aplicação funcionando**, além de ter a aplicação pronta para demonstração em sua máquina.  
    - Certifique-se de que todos os recursos necessários (banco de dados, bibliotecas, arquivos) estejam disponíveis;  
@@ -502,8 +503,8 @@ O pacote de replicação deste trabalho encontra-se disponível em:
    - Prepare-se para responder perguntas sobre funcionalidades, decisões de implementação e limitações do projeto.
 
 14. **Ensaiar a apresentação** é fundamental:  
-   - **Cronometre-se** para garantir que não ultrapasse o tempo;  
-   - Pratique a explicação dos resultados de forma clara e objetiva;  
+   - **Cronometre-se** para garantir que não ultrapasse o tempo;
+   - Pratique a explicação dos resultados ou das funcionalidades de forma clara e objetiva, destacando os aspectos mais inovadores e relevantes do seu trabalho;
    - Simule possíveis perguntas da banca e prepare respostas;
    - Haverá uma **apresentação de teste** comigo (Prof. Aramuni) na semana anterior à banca, para revisar seu desempenho, ajustar o tempo e identificar pontos de melhoria;
    - Caso esteja fazendo o trabalho **em dupla**, divida o tempo e as falas de forma equilibrada entre os integrantes.
