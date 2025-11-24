@@ -67,6 +67,7 @@ Disciplina do curso de Engenharia de Software da PUC Minas
   - [Orientações para Trabalhos de Pesquisa](#-orientações-para-trabalhos-de-pesquisa)
   - [Orientações para Trabalhos de Desenvolvimento](#-orientações-para-trabalhos-de-desenvolvimento)
   - [Orientações Pós-Entrega A5](#-orientações-pós-entrega-a5)
+  - [Orientações sobre a Defesa do TCC II](#-orientações-sobre-a-defesa-do-tcc-ii)
   - [Contato](#-contato)
 - [Trabalhos orientados](#-trabalhos-orientados)
   - [2°Sem 2025](#-2sem-2025)
@@ -500,11 +501,12 @@ O pacote de replicação deste trabalho encontra-se disponível em:
    - Teste o vídeo e a aplicação em outro computador, se possível, para evitar problemas técnicos;  
    - Prepare-se para responder perguntas sobre funcionalidades, decisões de implementação e limitações do projeto.
 
-14. Ensaiar a apresentação é fundamental:  
-   - Cronometre-se para garantir que não ultrapasse o tempo;  
+14. **Ensaiar a apresentação** é fundamental:  
+   - **Cronometre-se** para garantir que não ultrapasse o tempo;  
    - Pratique a explicação dos resultados de forma clara e objetiva;  
    - Simule possíveis perguntas da banca e prepare respostas;
-   - Haverá uma **apresentação de teste** comigo (Prof. Aramuni) na semana anterior à banca, para revisar seu desempenho, ajustar o tempo e identificar pontos de melhoria.
+   - Haverá uma **apresentação de teste** comigo (Prof. Aramuni) na semana anterior à banca, para revisar seu desempenho, ajustar o tempo e identificar pontos de melhoria;
+   - Caso esteja fazendo o trabalho **em dupla**, divida o tempo e as falas de forma equilibrada entre os integrantes.
 
 15. Verifique a **qualidade da transmissão** durante a apresentação:  
    - Use uma **câmera com boa resolução** para que sua imagem fique nítida;  
