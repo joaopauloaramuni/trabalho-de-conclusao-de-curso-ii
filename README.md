@@ -540,37 +540,37 @@ O pacote de replicação deste trabalho encontra-se disponível em:
   - 🌐 [Sistema de Gestão da Clínica Genilton de Souza - Download do pacote de instalação: Android .apk](https://github.com/user-attachments/files/23725287/app-release-apk.zip)
   - 🗣️ [Sistema de Gestão da Clínica Genilton de Souza - Apresentação](xxx) (Slides utilizados na defesa para a banca examinadora)
   - 🎥 [Sistema de Gestão da Clínica Genilton de Souza - Vídeo](xxx)
-  - 👁️ [Sistema de Gestão da Clínica Genilton de Souza - Documento de visão](xxx)
+  - 👁️ [Sistema de Gestão da Clínica Genilton de Souza - Documento de visão](https://github.com/user-attachments/files/23809618/Clinica_Genilton_de_Souza.pdf)
   - 📄 [Sistema de Gestão da Clínica Genilton de Souza - Documentação de projeto](xxx) (Publicado no Repositório de Produção Acadêmica da PUC Minas - Acervo da Biblioteca)
 
 - TCCII - Smart Barber - [Igor Pinheiro dos Santos](https://github.com/pinheiro09igor) :octocat: e [Vinícius Gonzaga Guilherme](https://github.com/viniciusg23) :octocat:
   - 🌐 [Smart Barber - Home](xxx)
   - 🗣️ [Smart Barber - Apresentação](https://www.canva.com/design/DAGpIivbxCA/zGIo9Xt2HglZ8ZyAZfuqFQ/edit) (Slides utilizados na defesa para a banca examinadora)
   - 🎥 [Smart Barber - Vídeo](xxx)
-  - 👁️ [Smart Barber - Documento de visão](xxx)
+  - 👁️ [Smart Barber - Documento de visão](https://github.com/user-attachments/files/23809621/SmartBarber.pdf)
   - 📄 [Smart Barber - Documentação de projeto](xxx) (Publicado no Repositório de Produção Acadêmica da PUC Minas - Acervo da Biblioteca)
 
 - TCCII - Apex Sentinel - [Pedro Lucas Aires dos Santos](https://github.com/Pedrolaires) :octocat:
   - 🌐 [Apex Sentinel - Visual Studio Marketplace: Extensão](https://marketplace.visualstudio.com/items?itemName=ASolution.apex-sentinel)
   - 🗣️ [Apex Sentinel - Apresentação](xxx) (Slides utilizados na defesa para a banca examinadora)
   - 🎥 [Apex Sentinel - Vídeo](xxx)
-  - 👁️ [Apex Sentinel - Documento de visão](xxx)
+  - 👁️ [Apex Sentinel - Documento de visão](https://github.com/user-attachments/files/23809626/ApexSentinel.pdf)
   - 📄 [Apex Sentinel - Documentação de projeto](xxx) (Publicado no Repositório de Produção Acadêmica da PUC Minas - Acervo da Biblioteca)
 
 - TCCII - Keep - [Tito Li An Chen](https://github.com/Nilocan) :octocat:
   - 🌐 [Keep - Home](xxx)
   - 🗣️ [Keep - Apresentação](xxx) (Slides utilizados na defesa para a banca examinadora)
   - 🎥 [Keep - Vídeo](xxx)
-  - 👁️ [Keep - Documento de visão](xxx)
+  - 👁️ [Keep - Documento de visão](https://github.com/user-attachments/files/23809630/Keep.pdf)
   - 📄 [Keep - Documentação de projeto](xxx) (Publicado no Repositório de Produção Acadêmica da PUC Minas - Acervo da Biblioteca)
 
-- TCCI e TCCII - Buscars - [Lucas Araújo Borges de Lima](https://github.com/lucasABLima) :octocat: e [Luis Gustavo Vaz](https://github.com/rastrian) :octocat:
-  - 🌐 [Buscars - Home](https://buscar-demo.rastrian.dev/)
-  - 📚 [Buscars - Docs](https://buscar-demo.rastrian.dev/api/docs/)
-  - 🗣️ [Buscars - Apresentação](xxx) (Slides utilizados na defesa para a banca examinadora)
-  - 🎥 [Buscars - Vídeo](xxx)
-  - 👁️ [Buscars - Documento de visão](xxx)
-  - 📄 [Buscars - Documentação de projeto](xxx) (Publicado no Repositório de Produção Acadêmica da PUC Minas - Acervo da Biblioteca)
+- TCCI e TCCII - BusCars - [Lucas Araújo Borges de Lima](https://github.com/lucasABLima) :octocat: e [Luis Gustavo Vaz](https://github.com/rastrian) :octocat:
+  - 🌐 [BusCars - Home](https://buscar-demo.rastrian.dev/)
+  - 📚 [BusCars - Docs](https://buscar-demo.rastrian.dev/api/docs/)
+  - 🗣️ [BusCars - Apresentação](xxx) (Slides utilizados na defesa para a banca examinadora)
+  - 🎥 [BusCars - Vídeo](xxx)
+  - 👁️ [BusCars - Documento de visão](https://github.com/user-attachments/files/23809635/BusCars.pdf)
+  - 📄 [BusCars - Documentação de projeto](xxx) (Publicado no Repositório de Produção Acadêmica da PUC Minas - Acervo da Biblioteca)
 
 -----
 
