@@ -220,7 +220,7 @@ Esta resolução define o processo de avaliação, estabelece o cronograma e as 
 
 ###### 📞 Grupo de TCC no WhatsApp
 
-- [chat.whatsapp.com/ItHbVmhaErqIcPrjPWNPEC](chat.whatsapp.com/ItHbVmhaErqIcPrjPWNPEC)  
+- [https://chat.whatsapp.com/ItHbVmhaErqIcPrjPWNPEC](https://chat.whatsapp.com/ItHbVmhaErqIcPrjPWNPEC)  
   - Entre no grupo de TCC no WhatsApp utilizando o convite acima.
 
 -----
