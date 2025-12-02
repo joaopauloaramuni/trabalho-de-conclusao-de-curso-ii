@@ -545,7 +545,7 @@ O pacote de replicação deste trabalho encontra-se disponível em:
 
 - TCCII - Smart Barber - [Igor Pinheiro dos Santos](https://github.com/pinheiro09igor) :octocat: e [Vinícius Gonzaga Guilherme](https://github.com/viniciusg23) :octocat:
   - 🌐 [Smart Barber - Home](xxx)
-  - 🗣️ [Smart Barber - Apresentação](https://www.canva.com/design/DAGpIivbxCA/zGIo9Xt2HglZ8ZyAZfuqFQ/edit) (Slides utilizados na defesa para a banca examinadora)
+  - 🗣️ [Smart Barber - Apresentação](https://github.com/user-attachments/files/23879781/SmartBarber.pdf) (Slides utilizados na defesa para a banca examinadora)
   - 🎥 [Smart Barber - Vídeo](xxx)
   - 👁️ [Smart Barber - Documento de visão](https://github.com/user-attachments/files/23809621/SmartBarber.pdf)
   - 📄 [Smart Barber - Documentação de projeto](xxx) (Publicado no Repositório de Produção Acadêmica da PUC Minas - Acervo da Biblioteca)
