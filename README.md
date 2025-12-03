@@ -552,7 +552,7 @@ O pacote de replicação deste trabalho encontra-se disponível em:
 
 - TCCII - Apex Sentinel - [Pedro Lucas Aires dos Santos](https://github.com/Pedrolaires) :octocat:
   - 🌐 [Apex Sentinel - Visual Studio Marketplace: Extensão](https://marketplace.visualstudio.com/items?itemName=ASolution.apex-sentinel)
-  - 🗣️ [Apex Sentinel - Apresentação](xxx) (Slides utilizados na defesa para a banca examinadora)
+  - 🗣️ [Apex Sentinel - Apresentação](https://github.com/user-attachments/files/23893021/ApexSentinel.pdf) (Slides utilizados na defesa para a banca examinadora)
   - 🎥 [Apex Sentinel - Vídeo](xxx)
   - 👁️ [Apex Sentinel - Documento de visão](https://github.com/user-attachments/files/23809626/ApexSentinel.pdf)
   - 📄 [Apex Sentinel - Documentação de projeto](xxx) (Publicado no Repositório de Produção Acadêmica da PUC Minas - Acervo da Biblioteca)
