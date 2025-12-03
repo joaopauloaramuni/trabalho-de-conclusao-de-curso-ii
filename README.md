@@ -567,7 +567,7 @@ O pacote de replicação deste trabalho encontra-se disponível em:
 - TCCI e TCCII - BusCars - [Lucas Araújo Borges de Lima](https://github.com/lucasABLima) :octocat: e [Luis Gustavo Vaz](https://github.com/rastrian) :octocat:
   - 🌐 [BusCars - Home](https://buscar-demo.rastrian.dev/)
   - 📚 [BusCars - Docs](https://buscar-demo.rastrian.dev/api/docs/)
-  - 🗣️ [BusCars - Apresentação](https://github.com/user-attachments/files/23884661/BusCars.pdf) (Slides utilizados na defesa para a banca examinadora)
+  - 🗣️ [BusCars - Apresentação](https://github.com/user-attachments/files/23917990/BusCars.pdf) (Slides utilizados na defesa para a banca examinadora)
   - 🎥 [BusCars - Vídeo](xxx)
   - 👁️ [BusCars - Documento de visão](https://github.com/user-attachments/files/23809635/BusCars.pdf)
   - 📄 [BusCars - Documentação de projeto](xxx) (Publicado no Repositório de Produção Acadêmica da PUC Minas - Acervo da Biblioteca)
