@@ -540,7 +540,7 @@ O pacote de replicação deste trabalho encontra-se disponível em:
 - TCCII - Sistema de Gestão da Clínica Genilton de Souza - [Carlos Roberto Alves de Almeida Júnior](https://github.com/CarlosCraaj) :octocat: e [Matheus Augusto Avelar de Souza](https://github.com/MatheusBear) :octocat:
   - 🌐 [Sistema de Gestão da Clínica Genilton de Souza - Download do pacote de instalação: Android .apk](https://github.com/user-attachments/files/23725287/app-release-apk.zip)
   - 🗣️ [Sistema de Gestão da Clínica Genilton de Souza - Apresentação](https://github.com/user-attachments/files/23914376/Clinica_Genilton_de_Souza.pdf) (Slides utilizados na defesa para a banca examinadora)
-  - 🎥 [Sistema de Gestão da Clínica Genilton de Souza - Vídeo](xxx)
+  - 🎥 [Sistema de Gestão da Clínica Genilton de Souza - Vídeo](https://github.com/user-attachments/assets/02094d4d-12d3-402d-b482-14c5dd8e2251)
   - 👁️ [Sistema de Gestão da Clínica Genilton de Souza - Documento de visão](https://github.com/user-attachments/files/23809618/Clinica_Genilton_de_Souza.pdf)
   - 📄 [Sistema de Gestão da Clínica Genilton de Souza - Documentação de projeto](xxx) (Publicado no Repositório de Produção Acadêmica da PUC Minas - Acervo da Biblioteca)
 
