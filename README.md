@@ -560,7 +560,7 @@ O pacote de replicação deste trabalho encontra-se disponível em:
 
 - TCCII - Keep - [Tito Li An Chen](https://github.com/Nilocan) :octocat:
   - 🌐 [Keep - Home](xxx)
-  - 🗣️ [Keep - Apresentação](https://github.com/user-attachments/files/23914374/Keep.pdf) (Slides utilizados na defesa para a banca examinadora)
+  - 🗣️ [Keep - Apresentação](https://github.com/user-attachments/files/23972334/Keep.pdf) (Slides utilizados na defesa para a banca examinadora)
   - 🎥 [Keep - Vídeo](xxx)
   - 👁️ [Keep - Documento de visão](https://github.com/user-attachments/files/23809630/Keep.pdf)
   - 📄 [Keep - Documentação de projeto](xxx) (Publicado no Repositório de Produção Acadêmica da PUC Minas - Acervo da Biblioteca)
