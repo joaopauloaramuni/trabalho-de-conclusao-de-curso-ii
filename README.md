@@ -764,79 +764,107 @@ O pacote de replicação deste trabalho encontra-se disponível em:
 
 12. OLIVEIRA, G. M.; DIAS, C. S.; COSTA, C. M. B.; ARAMUNI, J. P. C.. Participação em banca de Alice Kelly Silva Dias et al..Usabilidade e Viabilidade de um Aplicativo de Exercícios Terapêuticos para Smartphone Voltado para Idosos com Diferentes Condições de Saúde e Incapacidade Funcional. 2025. Trabalho de Conclusão de Curso (Graduação em Fisioterapia) - Pontifícia Universidade Católica de Minas Gerais.
 
-13. NOBRE, C. N.; JESUS, A. C. C.; ARAMUNI, J. P. C.. Participação em banca de Gabriel Alves Costa Nardy.Tecnologias Persuasivas para o Cuidado de Crianças e Adolescentes com TDAH: Engajando Pais e Filhos em um Aplicativo de Suporte e Acompanhamento. 2024. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Pontifícia Universidade Católica de Minas Gerais.
+13. ARAMUNI, J. P. C.; MAIA FILHO, D. Q.. Participação em banca de Murilo Costa Golçalves.Geração de Código DSL para Diagramas C4 Model via LLMs. 2025. Trabalho de Conclusão de Curso (Graduação em Engenharia de Software) - Pontifícia Universidade Católica de Minas Gerais.
 
-14. NOBRE, C. N.; JESUS, A. C. C.; ARAMUNI, J. P. C.. Participação em banca de Ludmila B. S. Nascimento.Codificação dos Atributos e sua Relação com a Interpretabilidade dos Modelos de Aprendizado de Máquina - Uma Análise em Base de Dados da Saúde Mental. 2024. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Pontifícia Universidade Católica de Minas Gerais.
+14. ARAMUNI, J. P. C.; MAIA FILHO, D. Q.. Participação em banca de Pedro Reis de Souza.Mapeamento Automatizado de Ddependências em Sistemas Legados: Estudo de Caso com a Meta3AI. 2025. Trabalho de Conclusão de Curso (Graduação em Engenharia de Software) - Pontifícia Universidade Católica de Minas Gerais.
 
-15. NOBRE, C. N.; JESUS, A. C. C.; ARAMUNI, J. P. C.. Participação em banca de Julia Gontijo Lopes.Análise sobre a distribuição espacial dos dados para garantia de plausabilidade na geração de explicações contrafactuais em problemas de classificação. 2024. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Pontifícia Universidade Católica de Minas Gerais.
+15. ARAMUNI, J. P. C.; MAIA FILHO, D. Q.. Participação em banca de Humberto Vieira de Souza.Investigação do Uso de Técnicas de RAG na Refatoração de Sistemas Legados com Base na Análise de "Code Smells". 2025. Trabalho de Conclusão de Curso (Graduação em Engenharia de Software) - Pontifícia Universidade Católica de Minas Gerais.
 
-16. TAVARES, C. S.; SEUFITELLI, D. B.; BATISTELI, J. P. O.; COSTA, M. R.; ARAMUNI, J. P. C.. Participação em banca de Belle Nerissa Aguiar Elizeu e Rafael Duarte Pereira.Smart Trainer - Sistema de gestão para Personal Trainers. 2024. Trabalho de Conclusão de Curso (Graduação em Engenharia de Software) - Pontifícia Universidade Católica de Minas Gerais.
+16. ARAMUNI, J. P. C.; BATISTELI, J. P. O.. Participação em banca de Diego Machado Cordeiro.Análise da Qualidade e Assertividade Do Código Gerado por LLMs em C#: Um estudo com problemas de Algoritmos. 2025. Trabalho de Conclusão de Curso (Graduação em Engenharia de Software) - Pontifícia Universidade Católica de Minas Gerais.
 
-17. OLIVEIRA, J. A.; SEUFITELLI, D. B.; PADILHA, J.; TAVARES, C. S.; BRITO, A. N.; ARAMUNI, J. P. C.. Participação em banca de Daniella Rodrigues de Melo e Isabel Pinheiro Matos.TFLA Exams - Sistema para aplicação de avaliações e gestão de provas de idiomas. 2024. Trabalho de Conclusão de Curso (Graduação em Engenharia de Software) - Pontifícia Universidade Católica de Minas Gerais.
+17. ARAMUNI, J. P. C.; MARQUES, R. L.. Participação em banca de Augusto Baldiotti Mendonça Alvares.Análise do Impacto do Tamanho de Componentes React na Qualidade do Software em Repositorios no Github. 2025. Trabalho de Conclusão de Curso (Graduação em Engenharia de Software) - Pontifícia Universidade Católica de Minas Gerais.
 
-18. BATISTELI, J. P. O.; TAVARES, C. S.; SEUFITELLI, D. B.; COSTA, M. R.; ARAMUNI, J. P. C.. Participação em banca de Felipe Espíndola Valério e Thiago Mariano Melo.Chocolatier Management - Plataforma Web para gestão de encomendas e expansão de marca de uma doceria em Divinópolis. 2024. Trabalho de Conclusão de Curso (Graduação em Engenharia de Software) - Pontifícia Universidade Católica de Minas Gerais.
+18. ARAMUNI, J. P. C.; NASCIMENTO, M. N.. Participação em banca de Amanda Moura Souza.Análise do Uso de Práticas de DevOps em Projetos Acadêmicos de Graduação na Área de Engenharia de Software. 2025. Trabalho de Conclusão de Curso (Graduação em Engenharia de Software) - Pontifícia Universidade Católica de Minas Gerais.
 
-19. TAVARES, C. S.; SEUFITELLI, D. B.; BATISTELI, J. P. O.; BRITO, A. N.; ARAMUNI, J. P. C.. Participação em banca de Júlia Evelyn de Oliveira Silva.Gerência e Atividades da Mocidade Espírita Joanna de Ângelis. 2024. Trabalho de Conclusão de Curso (Graduação em Engenharia de Software) - Pontifícia Universidade Católica de Minas Gerais.
+19. ARAMUNI, J. P. C.; TAVARES, C. S.. Participação em banca de Yan Rodrigues Nalon.cURLer - Extensão para Geração Automática de Requisições. 2025. Trabalho de Conclusão de Curso (Graduação em Engenharia de Software) - Pontifícia Universidade Católica de Minas Gerais.
 
-20. SEUFITELLI, D. B.; BATISTELI, J. P. O.; TAVARES, C. S.; ARAMUNI, J. P. C.. Participação em banca de Lucas Lage e Silva.TestArena - Aplicação WEB de programação competitiva para prática de TDD. 2024. Trabalho de Conclusão de Curso (Graduação em Engenharia de Software) - Pontifícia Universidade Católica de Minas Gerais.
+20. ARAMUNI, J. P. C.; TAVARES, C. S.. Participação em banca de Gabriel Dolabela Marques e Henrique Carvalho Almeida.HookCI - Sistema para Integração Contínua Local com Docker e Git Hooks. 2025. Trabalho de Conclusão de Curso (Graduação em Engenharia de Software) - Pontifícia Universidade Católica de Minas Gerais.
 
-21. BATISTELI, J. P. O.; SEUFITELLI, D. B.; TAVARES, C. S.; ANDRADE, M. H. S.; ARAMUNI, J. P. C.. Participação em banca de Maria Aryene Costa.Explorando Técnicas de PLN para Tradução de Nheengatu: Uma Análise Comparativa. 2024. Trabalho de Conclusão de Curso (Graduação em Engenharia de Software) - Pontifícia Universidade Católica de Minas Gerais.
+21. ARAMUNI, J. P. C.; ANDRADE, M. H. S.. Participação em banca de Gabriel Alejandro Figueiro Galindo.Blindspot News ? Sistema para Agregação Inteligente de Notícias e Educação Midiática. 2025. Trabalho de Conclusão de Curso (Graduação em Engenharia de Software) - Pontifícia Universidade Católica de Minas Gerais.
 
-22. ARAMUNI, J. P. C.; VILLELA, H. F.; TAMEIRAO, A. D. L. O.. Participação em banca de Laura Andrade Brandão.Análise da Adoção do Scrum em Equipes Remotas: Impacto do Uso do Ágil em Equipes Distribuídas. 2020. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade FUMEC.
+22. ARAMUNI, J. P. C.. Participação em banca de Carlos Roberto A. de A. Júnior e Matheus Augusto A. de Souza.Sistema de Gestão da Clínica Genilton de Souza. 2025. Trabalho de Conclusão de Curso (Graduação em Engenharia de Software) - Pontifícia Universidade Católica de Minas Gerais.
 
-23. ARAMUNI, J. P. C.; VILLELA, H. F.; TAMEIRAO, A. D. L. O.. Participação em banca de Matheus Oliveira.Impactos da Lei Geral de Proteção de Dados Pessoais em uma Rede de Parceiros dos Setores de Tecnologia da Informação e do Sistema Bancário Brasileiro: Um Estudo de Caso. 2020. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade FUMEC.
+23. ARAMUNI, J. P. C.. Participação em banca de Tito Li An Chen.Keep - Sistema de Gestão do Parque de Máquinas da dti digital. 2025. Trabalho de Conclusão de Curso (Graduação em Engenharia de Software) - Pontifícia Universidade Católica de Minas Gerais.
 
-24. ARAMUNI, J. P. C.; VILLELA, H. F.; TAMEIRAO, A. D. L. O.. Participação em banca de Ana Caroline Xavier Miranda.Uso da Aprendizagem de Máquina para Aplicação de Técnicas Preditivas para Otimizar o Processo de Manutenção de Caminhões em uma Frota. 2020. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade FUMEC.
+24. ARAMUNI, J. P. C.. Participação em banca de Lucas Araujo Borges de Lima e Luis Gustavo Vaz.BusCars - Sistema de Agregação Inteligente de Anúncios Automotivos. 2025. Trabalho de Conclusão de Curso (Graduação em Engenharia de Software) - Pontifícia Universidade Católica de Minas Gerais.
 
-25. MAIA, L. C. G.; VILLELA, H. F.; ARAMUNI, J. P. C.; TAMEIRAO, A. D. L. O.. Participação em banca de Bruna Moura e Silva.Um Estudo sobre o Uso de um Customer Data Plataform (CDP). 2020. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade FUMEC.
+25. ARAMUNI, J. P. C.. Participação em banca de Igor Pinheiro dos Santos e Vinícius Gonzaga Guilherme.Smart Barber - Sistema de Gestão para Barbearias. 2025. Trabalho de Conclusão de Curso (Graduação em Engenharia de Software) - Pontifícia Universidade Católica de Minas Gerais.
 
-26. ARAMUNI, J. P. C.; VILLELA, H. F.; OLIVEIRA, P. H. R. L.. Participação em banca de Ana Carolina Cardoso.Impactos da Lei Geral de Proteção de Dados Pessoais em Organizações do Segmento de Tecnologia da Informação. 2020. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade FUMEC.
+26. ARAMUNI, J. P. C.. Participação em banca de Pedro Lucas Aires dos Santos.Apex Sentinel - Extensão para Detecção de Code Smells em Apex. 2025. Trabalho de Conclusão de Curso (Graduação em Engenharia de Software) - Pontifícia Universidade Católica de Minas Gerais.
 
-27. ARAMUNI, J. P. C.; VILLELA, H. F.; OLIVEIRA, P. H. R. L.; PARREIRAS, F. S.. Participação em banca de Arthur de Castro Laranjo Pires e Bruno Lucas de Azevedo.Prototipação de um APP para Gestão Eletrônica de Filas de Espera em Estabelecimentos Comerciais. 2020. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade FUMEC.
+27. NOBRE, C. N.; JESUS, A. C. C.; ARAMUNI, J. P. C.. Participação em banca de Gabriel Alves Costa Nardy.Tecnologias Persuasivas para o Cuidado de Crianças e Adolescentes com TDAH: Engajando Pais e Filhos em um Aplicativo de Suporte e Acompanhamento. 2024. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Pontifícia Universidade Católica de Minas Gerais.
 
-28. ARAMUNI, J. P. C.; VILLELA, H. F.; OLIVEIRA, P. H. R. L.. Participação em banca de Gabriel da Silva Cavalcante.Análise Comparativa de Performance entre Aplicações Java e Kotlin. 2020. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade FUMEC.
+28. NOBRE, C. N.; JESUS, A. C. C.; ARAMUNI, J. P. C.. Participação em banca de Ludmila B. S. Nascimento.Codificação dos Atributos e sua Relação com a Interpretabilidade dos Modelos de Aprendizado de Máquina - Uma Análise em Base de Dados da Saúde Mental. 2024. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Pontifícia Universidade Católica de Minas Gerais.
 
-29. ARAMUNI, J. P. C.; VILLELA, H. F.; TAMEIRAO, A. D. L. O.. Participação em banca de Anemísio Batista dos Santos.Uma Revisão Sistemática de Literatura sobre Realidade Virtual e Aumentada. 2020. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade FUMEC.
+29. NOBRE, C. N.; JESUS, A. C. C.; ARAMUNI, J. P. C.. Participação em banca de Julia Gontijo Lopes.Análise sobre a distribuição espacial dos dados para garantia de plausabilidade na geração de explicações contrafactuais em problemas de classificação. 2024. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Pontifícia Universidade Católica de Minas Gerais.
 
-30. VILLELA, H. F.; ARAMUNI, J. P. C.; TAMEIRAO, A. D. L. O.. Participação em banca de Felipe Thiago de Souza.Análise do Estado da Arte sobre Gerenciamento de Incidentes. 2020. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade FUMEC.
+30. TAVARES, C. S.; SEUFITELLI, D. B.; BATISTELI, J. P. O.; COSTA, M. R.; ARAMUNI, J. P. C.. Participação em banca de Belle Nerissa Aguiar Elizeu e Rafael Duarte Pereira.Smart Trainer - Sistema de gestão para Personal Trainers. 2024. Trabalho de Conclusão de Curso (Graduação em Engenharia de Software) - Pontifícia Universidade Católica de Minas Gerais.
 
-31. ARAMUNI, J. P. C.; VILLELA, H. F.; TAMEIRAO, A. D. L. O.. Participação em banca de Paulo Henrique Ribeiro Alves.Aplicação de Técnicas da Visão Computacional para Análise de Imagens em Jogos de Futebol: Prototipação de Algoritmo com Aprendizagem de Máquina através da Biblioteca TensorFlow. 2020. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade FUMEC.
+31. OLIVEIRA, J. A.; SEUFITELLI, D. B.; PADILHA, J.; TAVARES, C. S.; BRITO, A. N.; ARAMUNI, J. P. C.. Participação em banca de Daniella Rodrigues de Melo e Isabel Pinheiro Matos.TFLA Exams - Sistema para aplicação de avaliações e gestão de provas de idiomas. 2024. Trabalho de Conclusão de Curso (Graduação em Engenharia de Software) - Pontifícia Universidade Católica de Minas Gerais.
 
-32. MAIA, L. C. G.; VILLELA, H. F.; ARAMUNI, J. P. C.; ALMEIDA, H. M.. Participação em banca de Guilherme G. Mendes e Matheus de Oliveira Barbosa.Análise de Crimes no Estado de São Paulo com a Utilização de Machine Learning. 2020. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade FUMEC.
+32. BATISTELI, J. P. O.; TAVARES, C. S.; SEUFITELLI, D. B.; COSTA, M. R.; ARAMUNI, J. P. C.. Participação em banca de Felipe Espíndola Valério e Thiago Mariano Melo.Chocolatier Management - Plataforma Web para gestão de encomendas e expansão de marca de uma doceria em Divinópolis. 2024. Trabalho de Conclusão de Curso (Graduação em Engenharia de Software) - Pontifícia Universidade Católica de Minas Gerais.
 
-33. MAIA, L. C. G.; VILLELA, H. F.; ARAMUNI, J. P. C.; ALMEIDA, H. M.. Participação em banca de Igor Balbino N. Lopes.Resolvendo CAPTCHAs com Aprendizado de Máquina. 2020. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade FUMEC.
+33. TAVARES, C. S.; SEUFITELLI, D. B.; BATISTELI, J. P. O.; BRITO, A. N.; ARAMUNI, J. P. C.. Participação em banca de Júlia Evelyn de Oliveira Silva.Gerência e Atividades da Mocidade Espírita Joanna de Ângelis. 2024. Trabalho de Conclusão de Curso (Graduação em Engenharia de Software) - Pontifícia Universidade Católica de Minas Gerais.
 
-34. MAIA, L. C. G.; VILLELA, H. F.; ARAMUNI, J. P. C.; ALMEIDA, H. M.. Participação em banca de Pedro Paulo dos Santos Silva.Um Estudo de Sistema Especialista para Criação do Protótipo de um Chatbot que Classifica Diabetes Tipo 1 e Tipo 2. 2020. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade FUMEC.
+34. SEUFITELLI, D. B.; BATISTELI, J. P. O.; TAVARES, C. S.; ARAMUNI, J. P. C.. Participação em banca de Lucas Lage e Silva.TestArena - Aplicação WEB de programação competitiva para prática de TDD. 2024. Trabalho de Conclusão de Curso (Graduação em Engenharia de Software) - Pontifícia Universidade Católica de Minas Gerais.
 
-35. ARAMUNI, J. P. C.; VILLELA, H. F.; MAIA, L. C. G.; MUYLDER, C. F.; COSTA, E. E.. Participação em banca de Gabriel da Cruz M. Falieri.Uma Análise Comparativa entre os Casos de Câncer e seus Principais Fatores: Uma implementação de algoritmo para estudo do câncer. 2019. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade FUMEC.
+35. BATISTELI, J. P. O.; SEUFITELLI, D. B.; TAVARES, C. S.; ANDRADE, M. H. S.; ARAMUNI, J. P. C.. Participação em banca de Maria Aryene Costa.Explorando Técnicas de PLN para Tradução de Nheengatu: Uma Análise Comparativa. 2024. Trabalho de Conclusão de Curso (Graduação em Engenharia de Software) - Pontifícia Universidade Católica de Minas Gerais.
 
-36. ARAMUNI, J. P. C.; VILLELA, H. F.; COSTA, E. E.; MUYLDER, C. F.; MAIA, L. C. G.. Participação em banca de Mateus F. Lima e Thaís C. M. Santos.Os Impactos da Utilização de Banco de Dados em Nuvem com Ênfase na tecnologia RDS no IaaS da Amazon. 2019. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade FUMEC.
+36. ARAMUNI, J. P. C.; VILLELA, H. F.; TAMEIRAO, A. D. L. O.. Participação em banca de Laura Andrade Brandão.Análise da Adoção do Scrum em Equipes Remotas: Impacto do Uso do Ágil em Equipes Distribuídas. 2020. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade FUMEC.
 
-37. ARAMUNI, J. P. C.; VILLELA, H. F.; COSTA, E. E.; MAIA, L. C. G.; MUYLDER, C. F.. Participação em banca de Eduardo M. R. Nésio.Sistema de Cuidados Automáticos para Hortas Verticais. 2019. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade FUMEC.
+37. ARAMUNI, J. P. C.; VILLELA, H. F.; TAMEIRAO, A. D. L. O.. Participação em banca de Matheus Oliveira.Impactos da Lei Geral de Proteção de Dados Pessoais em uma Rede de Parceiros dos Setores de Tecnologia da Informação e do Sistema Bancário Brasileiro: Um Estudo de Caso. 2020. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade FUMEC.
 
-38. ARAMUNI, J. P. C.; VILLELA, H. F.; COSTA, E. E.; MUYLDER, C. F.; MAIA, L. C. G.. Participação em banca de Silvia R. B. Salim e Victor B. Lacerda.Até que Ponto Sistemas Inteligentes Podem Tomar Decisões Sem Ferir a Ética. 2019. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade FUMEC.
+38. ARAMUNI, J. P. C.; VILLELA, H. F.; TAMEIRAO, A. D. L. O.. Participação em banca de Ana Caroline Xavier Miranda.Uso da Aprendizagem de Máquina para Aplicação de Técnicas Preditivas para Otimizar o Processo de Manutenção de Caminhões em uma Frota. 2020. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade FUMEC.
 
-39. ARAMUNI, J. P. C.; MAIA, L. C. G.; COSTA, E. E.; VILLELA, H. F.. Participação em banca de João Paulo Theodoro de Moraes.Uma Análise Comparativa entre os Paradigmas de Programação Funcional, Orientado a Objetos e Estruturado. 2019. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade FUMEC.
+39. MAIA, L. C. G.; VILLELA, H. F.; ARAMUNI, J. P. C.; TAMEIRAO, A. D. L. O.. Participação em banca de Bruna Moura e Silva.Um Estudo sobre o Uso de um Customer Data Plataform (CDP). 2020. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade FUMEC.
 
-40. ARAMUNI, J. P. C.; MAIA, L. C. G.; COSTA, E. E.; VILLELA, H. F.. Participação em banca de Thiago Jackson e Pedro Henrique Pinto.Biotecnologia Associada ao Monitoramento e Tratamento de Diabetes. 2019. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade FUMEC.
+40. ARAMUNI, J. P. C.; VILLELA, H. F.; OLIVEIRA, P. H. R. L.. Participação em banca de Ana Carolina Cardoso.Impactos da Lei Geral de Proteção de Dados Pessoais em Organizações do Segmento de Tecnologia da Informação. 2020. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade FUMEC.
 
-41. ARAMUNI, J. P. C.; MAIA, L. C. G.; VILLELA, H. F.; COSTA, E. E.. Participação em banca de Carlos Alves de Souza Junior.Um Estudo sobre Publicações Relacionadas a Mineração de Dados. 2019. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade FUMEC.
+41. ARAMUNI, J. P. C.; VILLELA, H. F.; OLIVEIRA, P. H. R. L.; PARREIRAS, F. S.. Participação em banca de Arthur de Castro Laranjo Pires e Bruno Lucas de Azevedo.Prototipação de um APP para Gestão Eletrônica de Filas de Espera em Estabelecimentos Comerciais. 2020. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade FUMEC.
 
-42. MAIA, L. C. G.; VILLELA, H. F.; ARAMUNI, J. P. C.. Participação em banca de Izabelle Amaral Otoni.Aprendizado de Máquina Aplicado na Classificação da Flor Iris: Um Estudo de Caso para Comparação de Diferentes Classificadores. 2019. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade FUMEC.
+42. ARAMUNI, J. P. C.; VILLELA, H. F.; OLIVEIRA, P. H. R. L.. Participação em banca de Gabriel da Silva Cavalcante.Análise Comparativa de Performance entre Aplicações Java e Kotlin. 2020. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade FUMEC.
 
-43. MUYLDER, C. F.; VILLELA, H. F.; ARAMUNI, J. P. C.. Participação em banca de Diego Leibniz Teixeira de Anchieta Rosa e Breno Godoy Terra.Adoção do "Application Performance Management" em Organizações. 2019. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade FUMEC.
+43. ARAMUNI, J. P. C.; VILLELA, H. F.; TAMEIRAO, A. D. L. O.. Participação em banca de Anemísio Batista dos Santos.Uma Revisão Sistemática de Literatura sobre Realidade Virtual e Aumentada. 2020. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade FUMEC.
 
-44. MAIA, L. C. G.; VILLELA, H. F.; ARAMUNI, J. P. C.. Participação em banca de Felipe Marlon Ferreira Souza.Inteligência Artificial Aplicada a Otimização de Rotas. 2019. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade FUMEC.
+44. VILLELA, H. F.; ARAMUNI, J. P. C.; TAMEIRAO, A. D. L. O.. Participação em banca de Felipe Thiago de Souza.Análise do Estado da Arte sobre Gerenciamento de Incidentes. 2020. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade FUMEC.
 
-45. MARQUES, R. M.; VILLELA, H. F.; ARAMUNI, J. P. C.. Participação em banca de Diego Duarte Garcia.Um Estudo do Blockchain e das suas Aplicações mais Citadas na Literatura Acadêmica. 2019. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade FUMEC.
+45. ARAMUNI, J. P. C.; VILLELA, H. F.; TAMEIRAO, A. D. L. O.. Participação em banca de Paulo Henrique Ribeiro Alves.Aplicação de Técnicas da Visão Computacional para Análise de Imagens em Jogos de Futebol: Prototipação de Algoritmo com Aprendizagem de Máquina através da Biblioteca TensorFlow. 2020. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade FUMEC.
 
-46. PARREIRAS, F. S.; VILLELA, H. F.; ARAMUNI, J. P. C.. Participação em banca de David Hazan.Uma Comparação de Testes Exploratórios em Metodologias Ágeis e Tradicionais. 2019. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade FUMEC.
+46. MAIA, L. C. G.; VILLELA, H. F.; ARAMUNI, J. P. C.; ALMEIDA, H. M.. Participação em banca de Guilherme G. Mendes e Matheus de Oliveira Barbosa.Análise de Crimes no Estado de São Paulo com a Utilização de Machine Learning. 2020. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade FUMEC.
 
-47. MAIA, L. C. G.; VILLELA, H. F.; ARAMUNI, J. P. C.. Participação em banca de Thiago Dias de Matos Diniz.Uso de Rede Neural Recorrente na Classificação de Documentos Judiciais: Um Estudo Comparativo de Modelos Classificadores de Texto. 2019. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade FUMEC.
+47. MAIA, L. C. G.; VILLELA, H. F.; ARAMUNI, J. P. C.; ALMEIDA, H. M.. Participação em banca de Igor Balbino N. Lopes.Resolvendo CAPTCHAs com Aprendizado de Máquina. 2020. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade FUMEC.
 
-48. TOLENTINO, V. C. C.; VILLELA, H. F.; ARAMUNI, J. P. C.. Participação em banca de André S. Macedo e Jardel A. L. Filho.Análise comparativa do desempenho de operações CRUD em um mesmo banco de dados: Graphql vs Rest. 2019. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade FUMEC.
+48. MAIA, L. C. G.; VILLELA, H. F.; ARAMUNI, J. P. C.; ALMEIDA, H. M.. Participação em banca de Pedro Paulo dos Santos Silva.Um Estudo de Sistema Especialista para Criação do Protótipo de um Chatbot que Classifica Diabetes Tipo 1 e Tipo 2. 2020. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade FUMEC.
 
-49. PARREIRAS, F. S.; VILLELA, H. F.; ARAMUNI, J. P. C.. Participação em banca de Túlio Starling de Miranda Baeta e Victor Caciquinho Pereira.Análise do Ciclo de DevOps com SRE. 2019. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade FUMEC.
+49. ARAMUNI, J. P. C.; VILLELA, H. F.; MAIA, L. C. G.; MUYLDER, C. F.; COSTA, E. E.. Participação em banca de Gabriel da Cruz M. Falieri.Uma Análise Comparativa entre os Casos de Câncer e seus Principais Fatores: Uma implementação de algoritmo para estudo do câncer. 2019. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade FUMEC.
+
+50. ARAMUNI, J. P. C.; VILLELA, H. F.; COSTA, E. E.; MUYLDER, C. F.; MAIA, L. C. G.. Participação em banca de Mateus F. Lima e Thaís C. M. Santos.Os Impactos da Utilização de Banco de Dados em Nuvem com Ênfase na tecnologia RDS no IaaS da Amazon. 2019. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade FUMEC.
+
+51. ARAMUNI, J. P. C.; VILLELA, H. F.; COSTA, E. E.; MAIA, L. C. G.; MUYLDER, C. F.. Participação em banca de Eduardo M. R. Nésio.Sistema de Cuidados Automáticos para Hortas Verticais. 2019. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade FUMEC.
+
+52. ARAMUNI, J. P. C.; VILLELA, H. F.; COSTA, E. E.; MUYLDER, C. F.; MAIA, L. C. G.. Participação em banca de Silvia R. B. Salim e Victor B. Lacerda.Até que ponto Sistemas Inteligentes podem tomar decisões sem ferir a Ética. 2019. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade FUMEC.
+
+53. ARAMUNI, J. P. C.; MAIA, L. C. G.; COSTA, E. E.; VILLELA, H. F.. Participação em banca de João Paulo Theodoro de Moraes.Uma Análise Comparativa entre os Paradigmas de Programação Funcional, Orientado a Objetos e Estruturado. 2019. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade FUMEC.
+
+54. ARAMUNI, J. P. C.; MAIA, L. C. G.; COSTA, E. E.; VILLELA, H. F.. Participação em banca de Thiago Jackson e Pedro Henrique Pinto.Biotecnologia Associada ao Monitoramento e Tratamento de Diabetes. 2019. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade FUMEC.
+
+55. ARAMUNI, J. P. C.; MAIA, L. C. G.; VILLELA, H. F.; COSTA, E. E.. Participação em banca de Carlos Alves de Souza Junior.Um Estudo sobre Publicações Relacionadas a Mineração de Dados. 2019. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade FUMEC.
+
+56. MAIA, L. C. G.; VILLELA, H. F.; ARAMUNI, J. P. C.. Participação em banca de Izabelle Amaral Otoni.Aprendizado de Máquina Aplicado na Classificação da Flor Iris: Um Estudo de Caso para Comparação de Diferentes Classificadores. 2019. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade FUMEC.
+
+57. MUYLDER, C. F.; VILLELA, H. F.; ARAMUNI, J. P. C.. Participação em banca de Diego Leibniz Teixeira de Anchieta Rosa e Breno Godoy Terra.Adoção do "Application Performance Management" em Organizações. 2019. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade FUMEC.
+
+58. MAIA, L. C. G.; VILLELA, H. F.; ARAMUNI, J. P. C.. Participação em banca de Felipe Marlon Ferreira Souza.Inteligência Artificial Aplicada a Otimização de Rotas. 2019. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade FUMEC.
+
+59. MARQUES, R. M.; VILLELA, H. F.; ARAMUNI, J. P. C.. Participação em banca de Diego Duarte Garcia.Um Estudo do Blockchain e das suas Aplicações mais Citadas na Literatura Acadêmica. 2019. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade FUMEC.
+
+60. PARREIRAS, F. S.; VILLELA, H. F.; ARAMUNI, J. P. C.. Participação em banca de David Hazan.Uma Comparação de Testes Exploratórios em Metodologias Ágeis e Tradicionais. 2019. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade FUMEC.
+
+61. MAIA, L. C. G.; VILLELA, H. F.; ARAMUNI, J. P. C.. Participação em banca de Thiago Dias de Matos Diniz.Uso de Rede Neural Recorrente na Classificação de Documentos Judiciais: Um Estudo Comparativo de Modelos Classificadores de Texto. 2019. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade FUMEC.
+
+62. TOLENTINO, V. C. C.; VILLELA, H. F.; ARAMUNI, J. P. C.. Participação em banca de André S. Macedo e Jardel A. L. Filho.Análise comparativa do desempenho de operações CRUD em um mesmo banco de dados: Graphql vs Rest. 2019. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade FUMEC.
+
+63. PARREIRAS, F. S.; VILLELA, H. F.; ARAMUNI, J. P. C.. Participação em banca de Túlio Starling de Miranda Baeta e Victor Caciquinho Pereira.Análise do Ciclo de DevOps com SRE. 2019. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade FUMEC.
 
 -----
 
