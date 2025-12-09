@@ -763,7 +763,7 @@ Trabalho de conclusão de curso de graduação
 
 12. OLIVEIRA, G. M.; DIAS, C. S.; COSTA, C. M. B.; ARAMUNI, J. P. C.. Participação em banca de Alice Kelly Silva Dias et al..Usabilidade e Viabilidade de um Aplicativo de Exercícios Terapêuticos para Smartphone Voltado para Idosos com Diferentes Condições de Saúde e Incapacidade Funcional. 2025. Trabalho de Conclusão de Curso (Graduação em Fisioterapia) - Pontifícia Universidade Católica de Minas Gerais.
 
-13. ARAMUNI, J. P. C.; MAIA FILHO, D. Q.. Participação em banca de Murilo Costa Golçalves.Geração de Código DSL para Diagramas C4 Model via LLMs. 2025. Trabalho de Conclusão de Curso (Graduação em Engenharia de Software) - Pontifícia Universidade Católica de Minas Gerais.
+13. ARAMUNI, J. P. C.; MAIA FILHO, D. Q.; OLIVEIRA, J. A.. Participação em banca de Murilo Costa Golçalves.Geração de Código DSL para Diagramas C4 Model via LLMs. 2025. Trabalho de Conclusão de Curso (Graduação em Engenharia de Software) - Pontifícia Universidade Católica de Minas Gerais.
 
 14. ARAMUNI, J. P. C.; MAIA FILHO, D. Q.. Participação em banca de Pedro Reis de Souza.Mapeamento Automatizado de Ddependências em Sistemas Legados: Estudo de Caso com a Meta3AI. 2025. Trabalho de Conclusão de Curso (Graduação em Engenharia de Software) - Pontifícia Universidade Católica de Minas Gerais.
 
