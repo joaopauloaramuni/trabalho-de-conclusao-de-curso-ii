@@ -785,9 +785,9 @@ O pacote de replicação deste trabalho encontra-se disponível em:
 
 22. ARAMUNI, J. P. C.. Participação em banca de Carlos Roberto A. de A. Júnior e Matheus Augusto A. de Souza.Sistema de Gestão da Clínica Genilton de Souza. 2025. Trabalho de Conclusão de Curso (Graduação em Engenharia de Software) - Pontifícia Universidade Católica de Minas Gerais.
 
-23. ARAMUNI, J. P. C.. Participação em banca de Tito Li An Chen.Keep - Sistema de Gestão do Parque de Máquinas da dti digital. 2025. Trabalho de Conclusão de Curso (Graduação em Engenharia de Software) - Pontifícia Universidade Católica de Minas Gerais.
+23. ARAMUNI, J. P. C.; TAVARES, C. S.; OLIVEIRA, J. A.. Participação em banca de Tito Li An Chen.Keep - Sistema de Gestão do Parque de Máquinas da dti digital. 2025. Trabalho de Conclusão de Curso (Graduação em Engenharia de Software) - Pontifícia Universidade Católica de Minas Gerais.
 
-24. ARAMUNI, J. P. C.. Participação em banca de Lucas Araujo Borges de Lima e Luis Gustavo Vaz.BusCars - Sistema de Agregação Inteligente de Anúncios Automotivos. 2025. Trabalho de Conclusão de Curso (Graduação em Engenharia de Software) - Pontifícia Universidade Católica de Minas Gerais.
+24. ARAMUNI, J. P. C.; TAVARES, C. S.; OLIVEIRA, J. A.. Participação em banca de Lucas Araujo Borges de Lima e Luis Gustavo Vaz.BusCars - Sistema de Agregação Inteligente de Anúncios Automotivos. 2025. Trabalho de Conclusão de Curso (Graduação em Engenharia de Software) - Pontifícia Universidade Católica de Minas Gerais.
 
 25. ARAMUNI, J. P. C.. Participação em banca de Igor Pinheiro dos Santos e Vinícius Gonzaga Guilherme.Smart Barber - Sistema de Gestão para Barbearias. 2025. Trabalho de Conclusão de Curso (Graduação em Engenharia de Software) - Pontifícia Universidade Católica de Minas Gerais.
 
