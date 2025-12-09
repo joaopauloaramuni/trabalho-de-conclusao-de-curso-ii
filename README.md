@@ -569,7 +569,8 @@ O pacote de replicação deste trabalho encontra-se disponível em:
   - 🌐 [BusCars - Home](https://buscar-demo.rastrian.dev/)
   - 📚 [BusCars - Docs](https://buscar-demo.rastrian.dev/api/docs/)
   - 🗣️ [BusCars - Apresentação](https://github.com/user-attachments/files/24018780/Buscars.pdf) (Slides utilizados na defesa para a banca examinadora)
-  - 🎥 [BusCars - Vídeo](xxx)
+  - 📺 [BusCars - Vídeo no YouTube](https://www.youtube.com/watch?v=lT70Z3nTOuk)
+  - 🎥 [BusCars - Vídeo](https://github.com/user-attachments/assets/a1e7ccf0-b29e-4cb7-bbea-e275c7adfbd1)
   - 👁️ [BusCars - Documento de visão](https://github.com/user-attachments/files/23809635/BusCars.pdf)
   - 📄 [BusCars - Documentação de projeto](xxx) (Publicado no Repositório de Produção Acadêmica da PUC Minas - Acervo da Biblioteca)
 
