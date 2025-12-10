@@ -789,7 +789,7 @@ Trabalho de conclusão de curso de graduação
 
 25. ARAMUNI, J. P. C.. Participação em banca de Igor Pinheiro dos Santos e Vinícius Gonzaga Guilherme.Smart Barber - Sistema de Gestão para Barbearias. 2025. Trabalho de Conclusão de Curso (Graduação em Engenharia de Software) - Pontifícia Universidade Católica de Minas Gerais.
 
-26. ARAMUNI, J. P. C.. Participação em banca de Pedro Lucas Aires dos Santos.Apex Sentinel - Extensão para Detecção de Code Smells em Apex. 2025. Trabalho de Conclusão de Curso (Graduação em Engenharia de Software) - Pontifícia Universidade Católica de Minas Gerais.
+26. ARAMUNI, J. P. C.; TAVARES, C. S.; OLIVEIRA, J. A.. Participação em banca de Pedro Lucas Aires dos Santos.Apex Sentinel - Extensão para Detecção de Code Smells em Apex. 2025. Trabalho de Conclusão de Curso (Graduação em Engenharia de Software) - Pontifícia Universidade Católica de Minas Gerais.
 
 27. NOBRE, C. N.; JESUS, A. C. C.; ARAMUNI, J. P. C.. Participação em banca de Gabriel Alves Costa Nardy.Tecnologias Persuasivas para o Cuidado de Crianças e Adolescentes com TDAH: Engajando Pais e Filhos em um Aplicativo de Suporte e Acompanhamento. 2024. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Pontifícia Universidade Católica de Minas Gerais.
 
