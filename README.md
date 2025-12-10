@@ -775,7 +775,7 @@ O pacote de replicação deste trabalho encontra-se disponível em:
 
 19. ARAMUNI, J. P. C.; TAVARES, C. S.. Participação em banca de Yan Rodrigues Nalon.cURLer - Extensão para Geração Automática de Requisições. 2025. Trabalho de Conclusão de Curso (Graduação em Engenharia de Software) - Pontifícia Universidade Católica de Minas Gerais.
 
-20. ARAMUNI, J. P. C.; TAVARES, C. S.. Participação em banca de Gabriel Dolabela Marques e Henrique Carvalho Almeida.HookCI - Sistema para Integração Contínua Local com Docker e Git Hooks. 2025. Trabalho de Conclusão de Curso (Graduação em Engenharia de Software) - Pontifícia Universidade Católica de Minas Gerais.
+20. ARAMUNI, J. P. C.; TAVARES, C. S.; OLIVEIRA, J. A.. Participação em banca de Gabriel Dolabela Marques e Henrique Carvalho Almeida.HookCI - Sistema para Integração Contínua Local com Docker e Git Hooks. 2025. Trabalho de Conclusão de Curso (Graduação em Engenharia de Software) - Pontifícia Universidade Católica de Minas Gerais.
 
 21. ARAMUNI, J. P. C.; ANDRADE, M. H. S.. Participação em banca de Gabriel Alejandro Figueiro Galindo.Blindspot News - Sistema para Agregação Inteligente de Notícias e Educação Midiática. 2025. Trabalho de Conclusão de Curso (Graduação em Engenharia de Software) - Pontifícia Universidade Católica de Minas Gerais.
 
