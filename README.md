@@ -767,7 +767,7 @@ Trabalho de conclusão de curso de graduação
 
 14. ARAMUNI, J. P. C.; MAIA FILHO, D. Q.. Participação em banca de Pedro Reis de Souza.Mapeamento Automatizado de Ddependências em Sistemas Legados: Estudo de Caso com a Meta3AI. 2025. Trabalho de Conclusão de Curso (Graduação em Engenharia de Software) - Pontifícia Universidade Católica de Minas Gerais.
 
-15. ARAMUNI, J. P. C.; MAIA FILHO, D. Q.. Participação em banca de Humberto Vieira de Souza.Investigação do Uso de Técnicas de RAG na Refatoração de Sistemas Legados com Base na Análise de "Code Smells". 2025. Trabalho de Conclusão de Curso (Graduação em Engenharia de Software) - Pontifícia Universidade Católica de Minas Gerais.
+15. ARAMUNI, J. P. C.; MAIA FILHO, D. Q.; PONTES, D. R. G.. Participação em banca de Humberto Vieira de Souza.Investigação do Uso de Técnicas de RAG na Refatoração de Sistemas Legados com Base na Análise de "Code Smells". 2025. Trabalho de Conclusão de Curso (Graduação em Engenharia de Software) - Pontifícia Universidade Católica de Minas Gerais.
 
 16. ARAMUNI, J. P. C.; BATISTELI, J. P. O.; SEUFITELLI, D. B.. Participação em banca de Diego Machado Cordeiro.Análise da Qualidade e Assertividade Do Código Gerado por LLMs em C#: Um estudo com problemas de Algoritmos. 2025. Trabalho de Conclusão de Curso (Graduação em Engenharia de Software) - Pontifícia Universidade Católica de Minas Gerais.
 
