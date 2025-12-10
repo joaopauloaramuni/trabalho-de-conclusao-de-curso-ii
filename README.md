@@ -545,7 +545,7 @@ O pacote de replicação deste trabalho encontra-se disponível em:
   - 📄 [Sistema de Gestão da Clínica Genilton de Souza - Documentação de projeto](xxx) (Publicado no Repositório de Produção Acadêmica da PUC Minas - Acervo da Biblioteca)
 
 - TCCII - Smart Barber - [Igor Pinheiro dos Santos](https://github.com/pinheiro09igor) :octocat: e [Vinícius Gonzaga Guilherme](https://github.com/viniciusg23) :octocat:
-  - 🌐 [Smart Barber - Home](xxx)
+  - 🌐 [Smart Barber - Download do pacote de instalação: Android .apk](xxx)
   - 🗣️ [Smart Barber - Apresentação](https://github.com/user-attachments/files/23879781/SmartBarber.pdf) (Slides utilizados na defesa para a banca examinadora)
   - 🎥 [Smart Barber - Vídeo](https://github.com/user-attachments/assets/11fdf879-b911-4017-a4c6-82de69842558)
   - 👁️ [Smart Barber - Documento de visão](https://github.com/user-attachments/files/23809621/SmartBarber.pdf)
@@ -559,7 +559,7 @@ O pacote de replicação deste trabalho encontra-se disponível em:
   - 📄 [Apex Sentinel - Documentação de projeto](xxx) (Publicado no Repositório de Produção Acadêmica da PUC Minas - Acervo da Biblioteca)
 
 - TCCII - Keep - [Tito Li An Chen](https://github.com/Nilocan) :octocat:
-  - 🌐 [Keep - Home](xxx)
+  - 🎨 [Keep - Figma](https://www.figma.com/design/uW8DvpfzKeQAgbQSLlEX4c/Keep?node-id=11-2557&t=iQRJb5W0pC0wbj3s-0)
   - 🗣️ [Keep - Apresentação](https://github.com/user-attachments/files/23972334/Keep.pdf) (Slides utilizados na defesa para a banca examinadora)
   - 🎥 [Keep - Vídeo](https://github.com/user-attachments/assets/3bac0cbe-591d-4343-832b-638b749862e5)
   - 👁️ [Keep - Documento de visão](https://github.com/user-attachments/files/23809630/Keep.pdf)
