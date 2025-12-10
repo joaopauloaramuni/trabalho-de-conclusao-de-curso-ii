@@ -769,7 +769,7 @@ Trabalho de conclusão de curso de graduação
 
 15. ARAMUNI, J. P. C.; MAIA FILHO, D. Q.. Participação em banca de Humberto Vieira de Souza.Investigação do Uso de Técnicas de RAG na Refatoração de Sistemas Legados com Base na Análise de "Code Smells". 2025. Trabalho de Conclusão de Curso (Graduação em Engenharia de Software) - Pontifícia Universidade Católica de Minas Gerais.
 
-16. ARAMUNI, J. P. C.; BATISTELI, J. P. O.. Participação em banca de Diego Machado Cordeiro.Análise da Qualidade e Assertividade Do Código Gerado por LLMs em C#: Um estudo com problemas de Algoritmos. 2025. Trabalho de Conclusão de Curso (Graduação em Engenharia de Software) - Pontifícia Universidade Católica de Minas Gerais.
+16. ARAMUNI, J. P. C.; BATISTELI, J. P. O.; SEUFITELLI, D. B.. Participação em banca de Diego Machado Cordeiro.Análise da Qualidade e Assertividade Do Código Gerado por LLMs em C#: Um estudo com problemas de Algoritmos. 2025. Trabalho de Conclusão de Curso (Graduação em Engenharia de Software) - Pontifícia Universidade Católica de Minas Gerais.
 
 17. ARAMUNI, J. P. C.; MARQUES, R. L.; MESQUITA, C. M. H. S. R.. Participação em banca de Augusto Baldiotti Mendonça Alvares.Análise do Impacto do Tamanho de Componentes React na Qualidade do Software em Repositorios no Github. 2025. Trabalho de Conclusão de Curso (Graduação em Engenharia de Software) - Pontifícia Universidade Católica de Minas Gerais.
 
