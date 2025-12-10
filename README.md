@@ -763,7 +763,7 @@ O pacote de replicação deste trabalho encontra-se disponível em:
 
 13. ARAMUNI, J. P. C.; MAIA FILHO, D. Q.; OLIVEIRA, J. A.. Participação em banca de Murilo Costa Golçalves.Geração de Código DSL para Diagramas C4 Model via LLMs. 2025. Trabalho de Conclusão de Curso (Graduação em Engenharia de Software) - Pontifícia Universidade Católica de Minas Gerais.
 
-14. ARAMUNI, J. P. C.; MAIA FILHO, D. Q.. Participação em banca de Pedro Reis de Souza.Mapeamento Automatizado de Ddependências em Sistemas Legados: Estudo de Caso com a Meta3AI. 2025. Trabalho de Conclusão de Curso (Graduação em Engenharia de Software) - Pontifícia Universidade Católica de Minas Gerais.
+14. ARAMUNI, J. P. C.; MAIA FILHO, D. Q.; SILVA, A. C. B.. Participação em banca de Pedro Reis de Souza.Mapeamento Automatizado de Ddependências em Sistemas Legados: Estudo de Caso com a Meta3AI. 2025. Trabalho de Conclusão de Curso (Graduação em Engenharia de Software) - Pontifícia Universidade Católica de Minas Gerais.
 
 15. ARAMUNI, J. P. C.; MAIA FILHO, D. Q.; PONTES, D. R. G.. Participação em banca de Humberto Vieira de Souza.Investigação do Uso de Técnicas de RAG na Refatoração de Sistemas Legados com Base na Análise de "Code Smells". 2025. Trabalho de Conclusão de Curso (Graduação em Engenharia de Software) - Pontifícia Universidade Católica de Minas Gerais.
 
