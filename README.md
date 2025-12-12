@@ -81,7 +81,7 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 #### Links úteis:
 
 ##### Calendário Acadêmico
-- 📅 [Calendário Acadêmico 2025 - PUC Minas](https://github.com/user-attachments/files/21538503/FINAL_calendario.academico_2025.pdf)
+- 📅 [Calendário Acadêmico 2026 - PUC Minas](https://github.com/user-attachments/files/24117766/calendario-academico-2026.pdf)
 
 ##### 📚 Referências gerais
 
