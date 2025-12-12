@@ -546,7 +546,7 @@ O pacote de replicação deste trabalho encontra-se disponível em:
 
 - TCCII - Smart Barber - [Igor Pinheiro dos Santos](https://github.com/pinheiro09igor) :octocat: e [Vinícius Gonzaga Guilherme](https://github.com/viniciusg23) :octocat:
   - 🌐 [Smart Barber - Home](https://smartbarbers-frontend.onrender.com/)
-  - 🌐 [Smart Barber - Download do pacote de instalação: Android .apk](xxx)
+  - 🌐 [Smart Barber - Download do pacote de instalação: Android .apk](https://drive.google.com/file/d/15Urn5va7RLSVCiw-OcQbED9ZoIQwT5sj/view?usp=sharing)
   - 🗣️ [Smart Barber - Apresentação](https://github.com/user-attachments/files/23879781/SmartBarber.pdf) (Slides utilizados na defesa para a banca examinadora)
   - 🎥 [Smart Barber - Vídeo](https://github.com/user-attachments/assets/11fdf879-b911-4017-a4c6-82de69842558)
   - 👁️ [Smart Barber - Documento de visão](https://github.com/user-attachments/files/23809621/SmartBarber.pdf)
