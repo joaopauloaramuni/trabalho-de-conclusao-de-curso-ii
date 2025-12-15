@@ -548,8 +548,7 @@ O pacote de replicação deste trabalho encontra-se disponível em:
   - 🌐 [Smart Barber - Home](https://smartbarbers-frontend.onrender.com/)
   - 🌐 [Smart Barber - Download do pacote de instalação: Android .apk](https://drive.google.com/file/d/15Urn5va7RLSVCiw-OcQbED9ZoIQwT5sj/view?usp=sharing)
   - 🗣️ [Smart Barber - Apresentação](https://github.com/user-attachments/files/24173362/SmartBarber.pdf) (Slides utilizados na defesa para a banca examinadora)
-  - 🎥 [Smart Barber - Vídeo](https://github.com/user-attachments/assets/11fdf879-b911-4017-a4c6-82de69842558)
-  - 🎥 [Smart Barber - Vídeo - Integração com o WhatsApp](https://github.com/user-attachments/assets/33625d02-c552-4cd0-8edb-084196c566c1)
+  - 🎥 [Smart Barber - Vídeo](https://github.com/user-attachments/assets/b7b8d0da-afe8-45b2-90c3-7d48f61a6c27)
   - 👁️ [Smart Barber - Documento de visão](https://github.com/user-attachments/files/23809621/SmartBarber.pdf)
   - 📄 [Smart Barber - Documentação de projeto](xxx) (Publicado no Repositório de Produção Acadêmica da PUC Minas - Acervo da Biblioteca)
 
