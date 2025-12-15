@@ -557,7 +557,7 @@ O pacote de replicação deste trabalho encontra-se disponível em:
   - 🗣️ [Apex Sentinel - Apresentação](https://github.com/user-attachments/files/23893021/ApexSentinel.pdf) (Slides utilizados na defesa para a banca examinadora)
   - 🎥 [Apex Sentinel - Vídeo](https://github.com/user-attachments/assets/dd2954ba-ff8f-4093-9d09-f05e240495cc)
   - 👁️ [Apex Sentinel - Documento de visão](https://github.com/user-attachments/files/23809626/ApexSentinel.pdf)
-  - 📄 [Apex Sentinel - Documentação de projeto](xxx) (Publicado no Repositório de Produção Acadêmica da PUC Minas - Acervo da Biblioteca)
+  - 📄 [Apex Sentinel - Documentação de projeto](https://bib.pucminas.br/pergamumweb/download/8356e67c-af4e-4840-bf5d-8ea14fa2ddd0.pdf) (Publicado no Repositório de Produção Acadêmica da PUC Minas - Acervo da Biblioteca)
 
 - TCCII - Keep - [Tito Li An Chen](https://github.com/Nilocan) :octocat:
   - 🎨 [Keep - Figma](https://www.figma.com/design/uW8DvpfzKeQAgbQSLlEX4c/Keep?node-id=11-2557&t=iQRJb5W0pC0wbj3s-0)
@@ -594,14 +594,14 @@ O pacote de replicação deste trabalho encontra-se disponível em:
   - 🗣️ [Apptite - Apresentação](https://github.com/user-attachments/files/20968216/Apptite.pdf) (Slides utilizados na defesa para a banca examinadora)
   - 🎥 [Apptite - Vídeo](https://github.com/user-attachments/assets/7a0a724d-1b3c-4069-b946-0ed734d9f99e)
   - 👁️ [Apptite - Documento de visão](https://github.com/user-attachments/files/20987229/Apptite.pdf)
-  - 📄 [Apptite - Documentação de projeto](https://bib.pucminas.br/pergamumweb/downloadArquivo?vinculo=YWYxODk5MlkyOWtSVzF3Y21WellUMHlOU1poWTJWeWRtODlOVFk0TmpnekpuTmxjVkJoY21GbmNtRm1iejB4T0NaelpYRlRaV05oYnowM0ptdGhjbVJsZUQxT0pteHZZMkZzUVhKeGRXbDJiejFEVDAxUVFWSlVTVXhJUVUxRlRsUlBKbTV2YldWRFlXMXBibWh2UFRBd01EQmtaUzh3TURBd1pHVmlNQzV3WkdZPTJlNmIzNmU=&nomeExtensao=.pdf) (Publicado no Repositório de Produção Acadêmica da PUC Minas - Acervo da Biblioteca)
+  - 📄 [Apptite - Documentação de projeto](https://bib.pucminas.br/pergamumweb/download/236252A7-D3B8-4ADF-86CF-D0A4B2C38322.pdf) (Publicado no Repositório de Produção Acadêmica da PUC Minas - Acervo da Biblioteca)
 
 - TCCII - Tuscan - [Bernardo Rohlfs](https://github.com/Berohlfs) :octocat: e [Eric Jardim](https://github.com/ericgcjardim) :octocat:
   - 🌐 [Tuscan - Home](https://tuscan.bernardorohlfs.com/)
   - 🗣️ [Tuscan - Apresentação](https://github.com/user-attachments/files/20968980/Tuscan.pdf) (Slides utilizados na defesa para a banca examinadora)
   - 🎥 [Tuscan - Vídeo](https://github.com/user-attachments/assets/c3446ae2-b4a6-4328-a798-61761b85d7e7)
   - 👁️ [Tuscan - Documento de visão](https://github.com/user-attachments/files/20987233/Tuscan.pdf)
-  - 📄 [Tuscan - Documentação de projeto](https://bib.pucminas.br/pergamumweb/downloadArquivo?vinculo=NTE4OTRlY1kyOWtSVzF3Y21WellUMHlOU1poWTJWeWRtODlOVFk0T0RFd0puTmxjVkJoY21GbmNtRm1iejB4Sm5ObGNWTmxZMkZ2UFRjbWEyRnlaR1Y0UFU0bWJHOWpZV3hCY25GMWFYWnZQVU5QVFZCQlVsUkpURWhCVFVWT1ZFOG1ibTl0WlVOaGJXbHVhRzg5TURBd01HUm1MekF3TURCa1ptUTRMbkJrWmc9PWY3MzQxZGM=&nomeExtensao=.pdf) (Publicado no Repositório de Produção Acadêmica da PUC Minas - Acervo da Biblioteca)
+  - 📄 [Tuscan - Documentação de projeto](https://bib.pucminas.br/pergamumweb/download/7DF00AE5-EA1F-424A-959E-9ECD6D33A213.pdf) (Publicado no Repositório de Produção Acadêmica da PUC Minas - Acervo da Biblioteca)
   - :octocat: [Repositório no GitHub](https://github.com/Berohlfs/BachelorsThesisSoftwareEngineering)
 
 - TCCII - Distribuidora LC - [Breno Rosa](https://github.com/Breno1210) :octocat: e [Matheus Brandão](https://github.com/Matheusbfreire) :octocat:
@@ -610,14 +610,14 @@ O pacote de replicação deste trabalho encontra-se disponível em:
   - 📺 [Distribuidora LC - Vídeo no YouTube](https://www.youtube.com/watch?v=OinvQRJinIc)
   - 🎥 [Distribuidora LC - Vídeo](https://github.com/user-attachments/assets/f8405089-0f54-4270-ba7d-e33a693ad583)
   - 👁️ [Distribuidora LC - Documento de visão](https://github.com/user-attachments/files/20987236/DistribuidoraLC.pdf)
-  - 📄 [Distribuidora LC - Documentação de projeto](https://bib.pucminas.br/pergamumweb/downloadArquivo?vinculo=ZGVmNGQ5ZVkyOWtSVzF3Y21WellUMHlOU1poWTJWeWRtODlOVFk0TnpReUpuTmxjVkJoY21GbmNtRm1iejB4Sm5ObGNWTmxZMkZ2UFRjbWEyRnlaR1Y0UFU0bWJHOWpZV3hCY25GMWFYWnZQVU5QVFZCQlVsUkpURWhCVFVWT1ZFOG1ibTl0WlVOaGJXbHVhRzg5TURBd01HUm1MekF3TURCa1pqSmlMbkJrWmc9PTgzOTRkZDA=&nomeExtensao=.pdf) (Publicado no Repositório de Produção Acadêmica da PUC Minas - Acervo da Biblioteca)
+  - 📄 [Distribuidora LC - Documentação de projeto](https://bib.pucminas.br/pergamumweb/download/E3A5265D-5187-48B2-B45B-40212CDBFD50.pdf) (Publicado no Repositório de Produção Acadêmica da PUC Minas - Acervo da Biblioteca)
 
 - TCCII - Buzzard - [Pedro Rodrigues](https://github.com/PeterCcT) :octocat:
   - 🌐 [Buzzard - Home](https://buzzard-frontend.vercel.app/)
   - 🗣️ [Buzzard - Apresentação](https://github.com/user-attachments/files/20968219/Buzzard.pdf) (Slides utilizados na defesa para a banca examinadora)
   - 🎥 [Buzzard - Vídeo](https://github.com/user-attachments/assets/5b2755bf-ddbf-4741-9644-a96a46f01180)
   - 👁️ [Buzzard - Documento de visão](https://github.com/user-attachments/files/20987242/Buzzard.pdf)
-  - 📄 [Buzzard - Documentação de projeto](https://bib.pucminas.br/pergamumweb/downloadArquivo?vinculo=MjgxMTQxZVkyOWtSVzF3Y21WellUMHlOU1poWTJWeWRtODlOVFk0TnpVNUpuTmxjVkJoY21GbmNtRm1iejB4T0NaelpYRlRaV05oYnowM0ptdGhjbVJsZUQxT0pteHZZMkZzUVhKeGRXbDJiejFEVDAxUVFWSlVTVXhJUVUxRlRsUlBKbTV2YldWRFlXMXBibWh2UFRBd01EQmtaaTh3TURBd1pHWTJPUzV3WkdZPTM3ZGJmZDU=&nomeExtensao=.pdf) (Publicado no Repositório de Produção Acadêmica da PUC Minas - Acervo da Biblioteca)
+  - 📄 [Buzzard - Documentação de projeto](https://bib.pucminas.br/pergamumweb/download/3E459854-6EF7-4047-9EAC-F54D9D28ED69.pdf) (Publicado no Repositório de Produção Acadêmica da PUC Minas - Acervo da Biblioteca)
 
 -----
 
