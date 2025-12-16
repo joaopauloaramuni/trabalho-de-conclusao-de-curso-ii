@@ -291,8 +291,8 @@ Esta seção reúne um **template** construído por mim e **exemplos** reais de 
 - 🛠 É possível criar **colunas customizadas** para refletir o fluxo de trabalho da equipe.  
 - 🆕 Crie **issues** para cada tarefa, bug ou melhoria, e vincule-as às colunas do Kanban.  
 - 🏷 Use **labels**, **milestones** e **assignees** para organizar e priorizar as tarefas.  
-- 🔗 Documentação oficial GitHub Projects: [GitHub Projects](https://docs.github.com/en/issues/organizing-your-work-with-project-boards/about-project-boards)  
-- 🔗 Guia completo para criar e gerenciar issues: [GitHub Issues](https://docs.github.com/en/issues/tracking-your-work-with-issues/about-issues)
+- 🔗 Documentação oficial GitHub Projects: [GitHub Projects](https://docs.github.com/pt/enterprise-server@3.16/issues/organizing-your-work-with-project-boards)  
+- 🔗 Guia completo para criar e gerenciar issues: [GitHub Issues](https://docs.github.com/pt/issues/tracking-your-work-with-issues/learning-about-issues/about-issues)
 
 ---
 
@@ -300,7 +300,7 @@ Esta seção reúne um **template** construído por mim e **exemplos** reais de 
 
 - 💻 Configure **workflows** no GitHub Actions para automatizar build, testes e deploy do projeto.  
 - 📂 Crie workflows no diretório `.github/workflows` para definir os processos de CI/CD do seu projeto.  
-- 🔗 Documentação oficial GitHub Actions: [GitHub Actions](https://docs.github.com/en/actions)  
+- 🔗 Documentação oficial GitHub Actions: [GitHub Actions](https://docs.github.com/pt/actions)  
 - 🏗 Exemplos de workflows prontos: [GitHub Actions Examples](https://github.com/actions/starter-workflows)
 
 -----
