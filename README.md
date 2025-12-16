@@ -799,7 +799,7 @@ O pacote de replicação deste trabalho encontra-se disponível em:
 
 20. TAVARES, C. S.; ARAMUNI, J. P. C.; OLIVEIRA, J. A.. Participação em banca de Gabriel Dolabela Marques e Henrique Carvalho Almeida.HookCI - Sistema para Integração Contínua Local com Docker e Git Hooks. 2025. Trabalho de Conclusão de Curso (Graduação em Engenharia de Software) - Pontifícia Universidade Católica de Minas Gerais.
 
-21. ANDRADE, M. H. S.; ARAMUNI, J. P. C.. Participação em banca de Gabriel Alejandro Figueiro Galindo.Blindspot News - Sistema para Agregação Inteligente de Notícias e Educação Midiática. 2025. Trabalho de Conclusão de Curso (Graduação em Engenharia de Software) - Pontifícia Universidade Católica de Minas Gerais.
+21. ANDRADE, M. H. S.; ARAMUNI, J. P. C.; XAVIER JUNIOR, J. L. P.. Participação em banca de Gabriel Alejandro Figueiro Galindo.Blindspot News - Sistema para Agregação Inteligente de Notícias e Educação Midiática. 2025. Trabalho de Conclusão de Curso (Graduação em Engenharia de Software) - Pontifícia Universidade Católica de Minas Gerais.
 
 22. ARAMUNI, J. P. C.; TAVARES, C. S.; BRITO, A. N.. Participação em banca de Carlos Roberto A. de A. Júnior e Matheus Augusto A. de Souza.Sistema de Gestão da Clínica Genilton de Souza. 2025. Trabalho de Conclusão de Curso (Graduação em Engenharia de Software) - Pontifícia Universidade Católica de Minas Gerais.
 
