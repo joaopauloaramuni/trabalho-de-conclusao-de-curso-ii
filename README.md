@@ -777,7 +777,7 @@ O pacote de replicação deste trabalho encontra-se disponível em:
 
 17. MARQUES, R. L.; ARAMUNI, J. P. C.; MESQUITA, C. M. H. S. R.. Participação em banca de Augusto Baldiotti Mendonça Alvares.Análise do Impacto do Tamanho de Componentes React na Qualidade do Software em Repositorios no Github. 2025. Trabalho de Conclusão de Curso (Graduação em Engenharia de Software) - Pontifícia Universidade Católica de Minas Gerais.
 
-18. NASCIMENTO, M. N.; ARAMUNI, J. P. C.. Participação em banca de Amanda Moura Souza.Análise do Uso de Práticas de DevOps em Projetos Acadêmicos de Graduação na Área de Engenharia de Software. 2025. Trabalho de Conclusão de Curso (Graduação em Engenharia de Software) - Pontifícia Universidade Católica de Minas Gerais.
+18. NASCIMENTO, M. N.; ARAMUNI, J. P. C.; TAVARES, C. S.. Participação em banca de Amanda Moura Souza.Análise do Uso de Práticas de DevOps em Projetos Acadêmicos de Graduação na Área de Engenharia de Software. 2025. Trabalho de Conclusão de Curso (Graduação em Engenharia de Software) - Pontifícia Universidade Católica de Minas Gerais.
 
 19. TAVARES, C. S.; ARAMUNI, J. P. C.; FERREIRA, F. J.. Participação em banca de Yan Rodrigues Nalon.cURLer - Extensão para o Ambiente de Desenvolvimento Integrado. 2025. Trabalho de Conclusão de Curso (Graduação em Engenharia de Software) - Pontifícia Universidade Católica de Minas Gerais.
 
@@ -785,7 +785,7 @@ O pacote de replicação deste trabalho encontra-se disponível em:
 
 21. ANDRADE, M. H. S.; ARAMUNI, J. P. C.. Participação em banca de Gabriel Alejandro Figueiro Galindo.Blindspot News - Sistema para Agregação Inteligente de Notícias e Educação Midiática. 2025. Trabalho de Conclusão de Curso (Graduação em Engenharia de Software) - Pontifícia Universidade Católica de Minas Gerais.
 
-22. ARAMUNI, J. P. C.. Participação em banca de Carlos Roberto A. de A. Júnior e Matheus Augusto A. de Souza.Sistema de Gestão da Clínica Genilton de Souza. 2025. Trabalho de Conclusão de Curso (Graduação em Engenharia de Software) - Pontifícia Universidade Católica de Minas Gerais.
+22. ARAMUNI, J. P. C.; TAVARES, C. S.; BRITO, A. N.. Participação em banca de Carlos Roberto A. de A. Júnior e Matheus Augusto A. de Souza.Sistema de Gestão da Clínica Genilton de Souza. 2025. Trabalho de Conclusão de Curso (Graduação em Engenharia de Software) - Pontifícia Universidade Católica de Minas Gerais.
 
 23. ARAMUNI, J. P. C.; TAVARES, C. S.; OLIVEIRA, J. A.. Participação em banca de Tito Li An Chen.Keep - Sistema de Gestão do Parque de Máquinas da dti digital. 2025. Trabalho de Conclusão de Curso (Graduação em Engenharia de Software) - Pontifícia Universidade Católica de Minas Gerais.
 
