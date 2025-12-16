@@ -779,7 +779,7 @@ O pacote de replicação deste trabalho encontra-se disponível em:
 
 18. NASCIMENTO, M. N.; ARAMUNI, J. P. C.. Participação em banca de Amanda Moura Souza.Análise do Uso de Práticas de DevOps em Projetos Acadêmicos de Graduação na Área de Engenharia de Software. 2025. Trabalho de Conclusão de Curso (Graduação em Engenharia de Software) - Pontifícia Universidade Católica de Minas Gerais.
 
-19. TAVARES, C. S.; ARAMUNI, J. P. C.. Participação em banca de Yan Rodrigues Nalon.cURLer - Extensão para o Ambiente de Desenvolvimento Integrado. 2025. Trabalho de Conclusão de Curso (Graduação em Engenharia de Software) - Pontifícia Universidade Católica de Minas Gerais.
+19. TAVARES, C. S.; ARAMUNI, J. P. C.; FERREIRA, F. J.. Participação em banca de Yan Rodrigues Nalon.cURLer - Extensão para o Ambiente de Desenvolvimento Integrado. 2025. Trabalho de Conclusão de Curso (Graduação em Engenharia de Software) - Pontifícia Universidade Católica de Minas Gerais.
 
 20. TAVARES, C. S.; ARAMUNI, J. P. C.; OLIVEIRA, J. A.. Participação em banca de Gabriel Dolabela Marques e Henrique Carvalho Almeida.HookCI - Sistema para Integração Contínua Local com Docker e Git Hooks. 2025. Trabalho de Conclusão de Curso (Graduação em Engenharia de Software) - Pontifícia Universidade Católica de Minas Gerais.
 
