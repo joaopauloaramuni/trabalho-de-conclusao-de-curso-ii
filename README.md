@@ -576,7 +576,7 @@ O pacote de replicação deste trabalho encontra-se disponível em:
   - 🗣️ [Apex Sentinel - Apresentação](https://github.com/user-attachments/files/23893021/ApexSentinel.pdf) (Slides utilizados na defesa para a banca examinadora)
   - 🎥 [Apex Sentinel - Vídeo](https://github.com/user-attachments/assets/dd2954ba-ff8f-4093-9d09-f05e240495cc)
   - 👁️ [Apex Sentinel - Documento de visão](https://github.com/user-attachments/files/23809626/ApexSentinel.pdf)
-  - 📄 [Apex Sentinel - Documentação de projeto](https://bib.pucminas.br/pergamumweb/download/8356e67c-af4e-4840-bf5d-8ea14fa2ddd0.pdf) (Publicado no Repositório de Produção Acadêmica da PUC Minas - Acervo da Biblioteca)
+  - 📄 [Apex Sentinel - Documentação de projeto](https://bib.pucminas.br/pergamumweb/download/0a08d07c-8ae2-4ce9-bb44-56c723169c6f.pdf) (Publicado no Repositório de Produção Acadêmica da PUC Minas - Acervo da Biblioteca)
   - 📚 [Apex Sentinel - Biblioteca](https://bib.pucminas.br/acervo/571645) (Acervo da Biblioteca)
 
 - TCCII - Keep - [Tito Li An Chen](https://github.com/Nilocan) :octocat:
