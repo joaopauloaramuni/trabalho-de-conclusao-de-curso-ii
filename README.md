@@ -58,6 +58,8 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 - [README de projeto](#-readme-de-projeto)
   - [Template de README de projeto](#-template-de-readme-de-projeto)
   - [Exemplos de README de projeto](#-exemplos-de-readme-de-projeto)
+- [Kanban e Gestão de Issues no GitHub](#-kanban-e-gestão-de-issues-no-github)
+- [Pipeline de Testes e CI/CD com GitHub Actions](#-pipeline-de-testes-e-ci-cd-com-github-actions)
 - [Arquivo CITATION.cff](#-arquivo-citationcff)
   - [Importância do arquivo CITATION.cff nos repositórios dos trabalhos interdisciplinares](#-importância-do-arquivo-citationcff-nos-repositórios-dos-trabalhos-interdisciplinares)
   - [Como preencher corretamente os campos](#-como-preencher-corretamente-os-campos)
@@ -125,27 +127,16 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 ###### 🛠️ Ferramentas de desenho e diagramas
 
 - 🖼️ [Draw.io](https://drawio.com/) 💬 Ferramenta gratuita para criação de diagrammas de forma simples e colaborativa, com integração ao Google Drive e GitHub.
-
 - 🎓 [Astah](https://astah.net/products/free-student-license/) 💬 Ferramenta de modelagem UML com versão gratuita para estudantes, ideal para aprendizado e projetos acadêmicos.
-
 - 📐 [PlantUML](https://plantuml.com/) 💬 Ferramenta baseada em texto para criação de diagramas UML de forma rápida e eficiente.
-
 - 📖 [PlantUML – Guia oficial](https://plantuml.com/guide) 💬 Guia completo com sintaxe, exemplos e documentação oficial do PlantUML.
-
 - 🧜 [Mermaid](https://mermaid.js.org/) 💬 Biblioteca que permite gerar diagramas diretamente em Markdown, amplamente usada em documentações técnicas.
-
 - 🎨 [Figma](https://www.figma.com/pt-br/) 💬 Ferramenta de design colaborativo para protótipos, wireframes e interfaces de alta fidelidade.
-
 - 🌟 [StarUML](https://staruml.io/) 💬 Software profissional para modelagem UML, suporte a múltiplos diagramas e extensões.
-
 - 🧩 [C4 Model](https://c4model.com/) 💬 Abordagem visual para representar arquiteturas de software em diferentes níveis de abstração.
-
 - 🗺️ [dbdiagram.io](https://dbdiagram.io/home) 💬 Ferramenta online para modelagem rápida de diagramas de entidade-relacionamento.
-
 - 🧱 [BR Modelo Web](https://www.brmodeloweb.com/lang/pt-br/index.html) 💬 Ferramenta nacional para criar modelos conceituais, lógicos e físicos de banco de dados.
-
 - 🧮 [DrawDB.app](https://drawdb.app/) 💬 Plataforma web moderna para construção visual de bancos de dados.
-
 - ✨ [Eraser.io](https://www.eraser.io/) 💬 Ferramenta para criação de diagramas, documentação colaborativa e automação com IA voltada para engenharia de software.
 
 -----
@@ -291,6 +282,26 @@ Esta seção reúne um **template** construído por mim e **exemplos** reais de 
   - :octocat: [GitHub Lígia Bicalho](https://github.com/ligiabicalho)  
 - 🌐 [FeeduP-Mobile](https://github.com/FeedUp-Hub/FeeduP-Mobile)
   - :octocat: [GitHub Fernando Santiago](https://github.com/fsaantiago)
+
+-----
+
+#### 📊 Kanban e Gestão de Issues no GitHub
+
+- 💻 Utilize a aba **Projects** do GitHub para criar um **quadro Kanban** que organize todas as tarefas do projeto em **To Do**, **In Progress** e **Done**.  
+- 🛠 É possível criar **colunas customizadas** para refletir o fluxo de trabalho da equipe.  
+- 🆕 Crie **issues** para cada tarefa, bug ou melhoria, e vincule-as às colunas do Kanban.  
+- 🏷 Use **labels**, **milestones** e **assignees** para organizar e priorizar as tarefas.  
+- 🔗 Documentação oficial GitHub Projects: [GitHub Projects](https://docs.github.com/en/issues/organizing-your-work-with-project-boards/about-project-boards)  
+- 🔗 Guia completo para criar e gerenciar issues: [GitHub Issues](https://docs.github.com/en/issues/tracking-your-work-with-issues/about-issues)
+
+---
+
+#### ⚙️ Pipeline de Testes e CI/CD com GitHub Actions
+
+- 💻 Configure **workflows** no GitHub Actions para automatizar build, testes e deploy do projeto.  
+- 📂 Crie workflows no diretório `.github/workflows` para definir os processos de CI/CD do seu projeto.  
+- 🔗 Documentação oficial GitHub Actions: [GitHub Actions](https://docs.github.com/en/actions)  
+- 🏗 Exemplos de workflows prontos: [GitHub Actions Examples](https://github.com/actions/starter-workflows)
 
 -----
 
