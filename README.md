@@ -134,11 +134,12 @@ Disciplina do curso de Engenharia de Software da PUC Minas
 - 🎨 [Figma](https://www.figma.com/pt-br/) 💬 Ferramenta de design colaborativo para protótipos, wireframes e interfaces de alta fidelidade.
 - 🌟 [StarUML](https://staruml.io/) 💬 Software profissional para modelagem UML, suporte a múltiplos diagramas e extensões.
 - 🧩 [C4 Model](https://c4model.com/) 💬 Abordagem visual para representar arquiteturas de software em diferentes níveis de abstração.
+- 🏗️ [Structurizr](https://structurizr.com/) 💬 Modelagem arquitetural baseada no C4 Model.
 - 🗺️ [dbdiagram.io](https://dbdiagram.io/home) 💬 Ferramenta online para modelagem rápida de diagramas de entidade-relacionamento.
 - 🧱 [BR Modelo Web](https://www.brmodeloweb.com/lang/pt-br/index.html) 💬 Ferramenta nacional para criar modelos conceituais, lógicos e físicos de banco de dados.
 - 🧮 [DrawDB.app](https://drawdb.app/) 💬 Plataforma web moderna para construção visual de bancos de dados.
 - ✨ [Eraser.io](https://www.eraser.io/) 💬 Ferramenta para criação de diagramas, documentação colaborativa e automação com IA voltada para engenharia de software.
-
+  
 -----
 
 ##### 📑 Templates
@@ -294,7 +295,7 @@ Esta seção reúne um **template** construído por mim e **exemplos** reais de 
 - 🔗 Documentação oficial GitHub Projects: [GitHub Projects](https://docs.github.com/pt/enterprise-server@3.16/issues/organizing-your-work-with-project-boards)  
 - 🔗 Guia completo para criar e gerenciar issues: [GitHub Issues](https://docs.github.com/pt/issues/tracking-your-work-with-issues/learning-about-issues/about-issues)
 
----
+-----
 
 #### 🔄 Pipeline de Testes e CI-CD com GitHub Actions
 
