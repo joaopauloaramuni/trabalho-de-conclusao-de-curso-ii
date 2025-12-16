@@ -791,7 +791,7 @@ O pacote de replicação deste trabalho encontra-se disponível em:
 
 24. ARAMUNI, J. P. C.; TAVARES, C. S.; OLIVEIRA, J. A.. Participação em banca de Lucas Araujo Borges de Lima e Luis Gustavo Vaz.BusCars - Sistema de Agregação Inteligente de Anúncios Automotivos. 2025. Trabalho de Conclusão de Curso (Graduação em Engenharia de Software) - Pontifícia Universidade Católica de Minas Gerais.
 
-25. ARAMUNI, J. P. C.. Participação em banca de Igor Pinheiro dos Santos e Vinícius Gonzaga Guilherme.Smart Barber - Sistema de Gestão para Barbearias. 2025. Trabalho de Conclusão de Curso (Graduação em Engenharia de Software) - Pontifícia Universidade Católica de Minas Gerais.
+25. ARAMUNI, J. P. C.; TAVARES, C. S.; BRITO, A. N.. Participação em banca de Igor Pinheiro dos Santos e Vinícius Gonzaga Guilherme.Smart Barber - Sistema de Gestão para Barbearias. 2025. Trabalho de Conclusão de Curso (Graduação em Engenharia de Software) - Pontifícia Universidade Católica de Minas Gerais.
 
 26. ARAMUNI, J. P. C.; TAVARES, C. S.; OLIVEIRA, J. A.. Participação em banca de Pedro Lucas Aires dos Santos.Apex Sentinel - Extensão para Detecção de Code Smells em Apex. 2025. Trabalho de Conclusão de Curso (Graduação em Engenharia de Software) - Pontifícia Universidade Católica de Minas Gerais.
 
