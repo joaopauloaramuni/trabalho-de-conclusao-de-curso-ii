@@ -529,10 +529,13 @@ O pacote de replicação deste trabalho encontra-se disponível em:
    - Escolha uma **área bem iluminada** e mantenha-se **centralizado** na câmera;
    - Se necessário, utilize a **estrutura física da PUC Minas** disponível, como laboratórios e salas de estudo, e faça um empréstimo de microfone e câmera no CRC: [https://crc.pucminas.br/](https://crc.pucminas.br/).
 
+16. O resultado da defesa, seja ele **aprovação**, **aprovação condicional** ou **reprovação**, será enviado ao **e-mail institucional do aluno** (`@sga.pucminas.br`) em até **dois dias úteis** após a realização da banca.  
+   - Em caso de **aprovação condicional**, o aluno terá o prazo máximo de **48 horas** para realizar e submeter as **alterações solicitadas pelos membros da banca**, devendo **alinhar previamente com seu orientador**, que será responsável por **revisar e validar** as correções realizadas.
+
 ##### 📬 Contato
 
-- **Professor Cleiton:** 📧 cleitontavares@pucminas.br  
-- **Professor Aramuni:** ✉️ joaoaramuni@pucminas.br
+- **Professor Cleiton:** 📧 cleitontavares@pucminas.br (Coordenador de TCC) 
+- **Professor Aramuni:** ✉️ joaoaramuni@pucminas.br (Orientador de TCC)
 
 -----
 
