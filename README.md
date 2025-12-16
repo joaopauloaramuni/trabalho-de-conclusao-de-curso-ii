@@ -286,7 +286,7 @@ Esta seção reúne um **template** construído por mim e **exemplos** reais de 
 
 -----
 
-#### 📊 Kanban e Gestão de Issues no GitHub
+#### 📊 Kanban e Gestão de Issues no GitHub:
 
 - 💻 Utilize a aba **Projects** do GitHub para criar um **quadro Kanban** que organize todas as tarefas do projeto em **To Do**, **In Progress** e **Done**.  
 - 🛠 É possível criar **colunas customizadas** para refletir o fluxo de trabalho da equipe.  
@@ -297,7 +297,7 @@ Esta seção reúne um **template** construído por mim e **exemplos** reais de 
 
 -----
 
-#### 🔄 Pipeline de Testes e CI-CD com GitHub Actions
+#### 🔄 Pipeline de Testes e CI-CD com GitHub Actions:
 
 - 💻 Configure **workflows** no GitHub Actions para automatizar build, testes e deploy do projeto.  
 - 📂 Crie workflows no diretório `.github/workflows` para definir os processos de CI/CD do seu projeto.  
