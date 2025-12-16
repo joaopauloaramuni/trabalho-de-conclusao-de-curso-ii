@@ -543,6 +543,7 @@ O pacote de replicação deste trabalho encontra-se disponível em:
   - 🎥 [Sistema de Gestão da Clínica Genilton de Souza - Vídeo](https://github.com/user-attachments/assets/02094d4d-12d3-402d-b482-14c5dd8e2251)
   - 👁️ [Sistema de Gestão da Clínica Genilton de Souza - Documento de visão](https://github.com/user-attachments/files/23809618/Clinica_Genilton_de_Souza.pdf)
   - 📄 [Sistema de Gestão da Clínica Genilton de Souza - Documentação de projeto](xxx) (Publicado no Repositório de Produção Acadêmica da PUC Minas - Acervo da Biblioteca)
+  - 📚 [Sistema de Gestão da Clínica Genilton de Souza - Biblioteca](xxx) (Acervo da Biblioteca)
 
 - TCCII - Smart Barber - [Igor Pinheiro dos Santos](https://github.com/pinheiro09igor) :octocat: e [Vinícius Gonzaga Guilherme](https://github.com/viniciusg23) :octocat:
   - 🌐 [Smart Barber - Home](https://smartbarbers-frontend.onrender.com/)
@@ -551,6 +552,7 @@ O pacote de replicação deste trabalho encontra-se disponível em:
   - 🎥 [Smart Barber - Vídeo](https://github.com/user-attachments/assets/b7b8d0da-afe8-45b2-90c3-7d48f61a6c27)
   - 👁️ [Smart Barber - Documento de visão](https://github.com/user-attachments/files/23809621/SmartBarber.pdf)
   - 📄 [Smart Barber - Documentação de projeto](xxx) (Publicado no Repositório de Produção Acadêmica da PUC Minas - Acervo da Biblioteca)
+  - 📚 [Smart Barber - Biblioteca](xxx) (Acervo da Biblioteca)
 
 - TCCII - Apex Sentinel - [Pedro Lucas Aires dos Santos](https://github.com/Pedrolaires) :octocat:
   - 🌐 [Apex Sentinel - Visual Studio Marketplace: Extensão](https://marketplace.visualstudio.com/items?itemName=ASolution.apex-sentinel)
@@ -566,6 +568,7 @@ O pacote de replicação deste trabalho encontra-se disponível em:
   - 🎥 [Keep - Vídeo](https://github.com/user-attachments/assets/3bac0cbe-591d-4343-832b-638b749862e5)
   - 👁️ [Keep - Documento de visão](https://github.com/user-attachments/files/23809630/Keep.pdf)
   - 📄 [Keep - Documentação de projeto](xxx) (Publicado no Repositório de Produção Acadêmica da PUC Minas - Acervo da Biblioteca)
+  - 📚 [Keep - Biblioteca](xxx) (Acervo da Biblioteca)
 
 - TCCI e TCCII - BusCars - [Lucas Araújo Borges de Lima](https://github.com/lucasABLima) :octocat: e [Luis Gustavo Vaz](https://github.com/rastrian) :octocat:
   - 🌐 [BusCars - Home](https://buscar-demo.rastrian.dev/)
@@ -575,6 +578,7 @@ O pacote de replicação deste trabalho encontra-se disponível em:
   - 🎥 [BusCars - Vídeo](https://github.com/user-attachments/assets/a1e7ccf0-b29e-4cb7-bbea-e275c7adfbd1)
   - 👁️ [BusCars - Documento de visão](https://github.com/user-attachments/files/23809635/BusCars.pdf)
   - 📄 [BusCars - Documentação de projeto](xxx) (Publicado no Repositório de Produção Acadêmica da PUC Minas - Acervo da Biblioteca)
+  - 📚 [BusCars - Biblioteca](xxx) (Acervo da Biblioteca)
 
 -----
 
