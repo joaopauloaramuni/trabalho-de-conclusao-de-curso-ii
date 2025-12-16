@@ -531,6 +531,8 @@ O pacote de replicação deste trabalho encontra-se disponível em:
 
 16. O resultado da defesa, seja ele **aprovação**, **aprovação condicional** ou **reprovação**, será enviado ao **e-mail institucional do aluno** (`@sga.pucminas.br`) em até **dois dias úteis** após a realização da banca.  
    - Em caso de **aprovação condicional**, o aluno terá o prazo máximo de **48 horas** para realizar e submeter as **alterações solicitadas pelos membros da banca**, devendo **alinhar previamente com seu orientador**, que será responsável por **revisar e validar** as correções realizadas.
+   - Por fim, o aluno deverá **postar o TCC corrigido** no **site da Biblioteca da PUC Minas**, realizando a **postagem da versão revisada** do **Artigo** ou dos **Documentos de Desenvolvimento** (Documento de Visão, Documento de Projeto e Postmortem), em **formato PDF**, na **Biblioteca de Trabalhos de Conclusão de Curso da PUC Minas**, conforme o manual disponível na página da biblioteca: http://pucminas.br/biblioteca.
+   - Após a submissão, o **orientador será responsável por realizar a aprovação** do trabalho no sistema da biblioteca, o que irá **gerar o link oficial do TCC** no Acervo da Biblioteca da PUC Minas. Esse **link deverá ser entregue na atividade A6**, por meio do **Canvas**.
 
 ##### 📬 Contato
 
