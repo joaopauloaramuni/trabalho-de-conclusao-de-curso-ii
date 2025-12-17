@@ -584,8 +584,8 @@ O pacote de replicação deste trabalho encontra-se disponível em:
   - 🗣️ [Keep - Apresentação](https://github.com/user-attachments/files/23972334/Keep.pdf) (Slides utilizados na defesa para a banca examinadora)
   - 🎥 [Keep - Vídeo](https://github.com/user-attachments/assets/3bac0cbe-591d-4343-832b-638b749862e5)
   - 👁️ [Keep - Documento de visão](https://github.com/user-attachments/files/23809630/Keep.pdf)
-  - 📄 [Keep - Documentação de projeto](xxx) (Publicado no Repositório de Produção Acadêmica da PUC Minas - Acervo da Biblioteca)
-  - 📚 [Keep - Biblioteca](xxx) (Acervo da Biblioteca)
+  - 📄 [Keep - Documentação de projeto](https://bib.pucminas.br/pergamumweb/download/84a4e233-5817-4160-8787-81690e936230.pdf) (Publicado no Repositório de Produção Acadêmica da PUC Minas - Acervo da Biblioteca)
+  - 📚 [Keep - Biblioteca](https://bib.pucminas.br/acervo/571976) (Acervo da Biblioteca)
 
 - TCCI e TCCII - BusCars - [Lucas Araújo Borges de Lima](https://github.com/lucasABLima) :octocat: e [Luis Gustavo Vaz](https://github.com/rastrian) :octocat:
   - 🌐 [BusCars - Home](https://buscar-demo.rastrian.dev/)
