@@ -568,8 +568,8 @@ O pacote de replicação deste trabalho encontra-se disponível em:
   - 🗣️ [Smart Barber - Apresentação](https://github.com/user-attachments/files/24173362/SmartBarber.pdf) (Slides utilizados na defesa para a banca examinadora)
   - 🎥 [Smart Barber - Vídeo](https://github.com/user-attachments/assets/b7b8d0da-afe8-45b2-90c3-7d48f61a6c27)
   - 👁️ [Smart Barber - Documento de visão](https://github.com/user-attachments/files/23809621/SmartBarber.pdf)
-  - 📄 [Smart Barber - Documentação de projeto](xxx) (Publicado no Repositório de Produção Acadêmica da PUC Minas - Acervo da Biblioteca)
-  - 📚 [Smart Barber - Biblioteca](xxx) (Acervo da Biblioteca)
+  - 📄 [Smart Barber - Documentação de projeto](https://bib.pucminas.br/pergamumweb/download/96f21cbb-3aa5-48d7-a7b0-057a1943c6e0.pdf) (Publicado no Repositório de Produção Acadêmica da PUC Minas - Acervo da Biblioteca)
+  - 📚 [Smart Barber - Biblioteca](https://bib.pucminas.br/acervo/572201) (Acervo da Biblioteca)
 
 - TCCII - Apex Sentinel - [Pedro Lucas Aires dos Santos](https://github.com/Pedrolaires) :octocat:
   - 🌐 [Apex Sentinel - Visual Studio Marketplace: Extensão](https://marketplace.visualstudio.com/items?itemName=ASolution.apex-sentinel)
