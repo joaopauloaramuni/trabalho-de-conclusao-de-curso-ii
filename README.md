@@ -559,8 +559,8 @@ O pacote de replicação deste trabalho encontra-se disponível em:
   - 🗣️ [Sistema de Gestão da Clínica Genilton de Souza - Apresentação](https://github.com/user-attachments/files/23914376/Clinica_Genilton_de_Souza.pdf) (Slides utilizados na defesa para a banca examinadora)
   - 🎥 [Sistema de Gestão da Clínica Genilton de Souza - Vídeo](https://github.com/user-attachments/assets/02094d4d-12d3-402d-b482-14c5dd8e2251)
   - 👁️ [Sistema de Gestão da Clínica Genilton de Souza - Documento de visão](https://github.com/user-attachments/files/23809618/Clinica_Genilton_de_Souza.pdf)
-  - 📄 [Sistema de Gestão da Clínica Genilton de Souza - Documentação de projeto](xxx) (Publicado no Repositório de Produção Acadêmica da PUC Minas - Acervo da Biblioteca)
-  - 📚 [Sistema de Gestão da Clínica Genilton de Souza - Biblioteca](xxx) (Acervo da Biblioteca)
+  - 📄 [Sistema de Gestão da Clínica Genilton de Souza - Documentação de projeto](https://bib.pucminas.br/pergamumweb/download/e347424e-0f16-4959-917e-25050dccc048.pdf) (Publicado no Repositório de Produção Acadêmica da PUC Minas - Acervo da Biblioteca)
+  - 📚 [Sistema de Gestão da Clínica Genilton de Souza - Biblioteca](https://bib.pucminas.br/acervo/572299) (Acervo da Biblioteca)
 
 - TCCII - Smart Barber - [Igor Pinheiro dos Santos](https://github.com/pinheiro09igor) :octocat: e [Vinícius Gonzaga Guilherme](https://github.com/viniciusg23) :octocat:
   - 🌐 [Smart Barber - Home](https://smartbarbers-frontend.onrender.com/)
@@ -594,8 +594,8 @@ O pacote de replicação deste trabalho encontra-se disponível em:
   - 📺 [BusCars - Vídeo no YouTube](https://www.youtube.com/watch?v=lT70Z3nTOuk)
   - 🎥 [BusCars - Vídeo](https://github.com/user-attachments/assets/a1e7ccf0-b29e-4cb7-bbea-e275c7adfbd1)
   - 👁️ [BusCars - Documento de visão](https://github.com/user-attachments/files/23809635/BusCars.pdf)
-  - 📄 [BusCars - Documentação de projeto](xxx) (Publicado no Repositório de Produção Acadêmica da PUC Minas - Acervo da Biblioteca)
-  - 📚 [BusCars - Biblioteca](xxx) (Acervo da Biblioteca)
+  - 📄 [BusCars - Documentação de projeto](https://bib.pucminas.br/pergamumweb/download/a8a43cfa-c8fd-4f10-aa0c-867b42c39912.pdf) (Publicado no Repositório de Produção Acadêmica da PUC Minas - Acervo da Biblioteca)
+  - 📚 [BusCars - Biblioteca](https://bib.pucminas.br/acervo/572294) (Acervo da Biblioteca)
 
 -----
 
