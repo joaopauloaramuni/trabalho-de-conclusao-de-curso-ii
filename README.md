@@ -782,7 +782,7 @@ O pacote de replicação deste trabalho encontra-se disponível em:
 
 9. TAVARES, C. S.; ARAMUNI, J. P. C.; COSTA, R. R. D.. Participação em banca de Lucas Cabral Soares e Maria Eduarda Amaral Muniz.GraphTest - Sistema de Geração e Análise de Grafos de Teste. 2026. Trabalho de Conclusão de Curso (Graduação em Engenharia de Software) - Pontifícia Universidade Católica de Minas Gerais.
 
-10. TAVARES, C. S.; ARAMUNI, J. P. C.. Participação em banca de Rafael Parreira Chequer.Stream Sentry - Ferramenta web open-source para automação de testes end-to-end em aplicações de videoconferência baseadas em WebRTC. 2026. Trabalho de Conclusão de Curso (Graduação em Engenharia de Software) - Pontifícia Universidade Católica de Minas Gerais.
+10. TAVARES, C. S.; ARAMUNI, J. P. C.; COSTA, R. R. D.. Participação em banca de Rafael Parreira Chequer.Stream Sentry - Ferramenta web open-source para automação de testes end-to-end em aplicações de videoconferência baseadas em WebRTC. 2026. Trabalho de Conclusão de Curso (Graduação em Engenharia de Software) - Pontifícia Universidade Católica de Minas Gerais.
 
 11. COSTA, M. R.; ARAMUNI, J. P. C.. Participação em banca de Bernardo Cavanellas Biondini.Gabinete Virtual - Plataforma Integrada para Gestão de Demandas e Atividades Parlamentares. 2026. Trabalho de Conclusão de Curso (Graduação em Engenharia de Software) - Pontifícia Universidade Católica de Minas Gerais.
 
